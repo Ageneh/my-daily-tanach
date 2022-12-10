@@ -1,6 +1,6 @@
 {
   "functions": {
-	"routes/index.js": {
+	"api/current-verse.js": {
 	  "memory": 3008,
 	  "maxDuration": 30
 	}
