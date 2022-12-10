@@ -1,0 +1,6241 @@
+{
+  "2023-01-01": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "42",
+      "verses": "3"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "צָמְאָ֬ה נַפְשִׁ֨י ׀ לֵאלֹהִים֮ לְאֵ֢ל חָ֥י מָתַ֥י אָב֑וֹא וְ֝אֵרָאֶ֗ה פְּנֵ֣י אֱלֹהִֽים׃"
+      ],
+      "german": "Meine Seele dürstet nach Gott, nach dem lebendigen Gott. Wann werde ich dahin kommen, dass ich Gottes Angesicht schaue?\n"
+    }
+  },
+  "2023-01-02": {
+    "book": {
+      "book_de": "Jeremia",
+      "book_en": "Jeremiah",
+      "book_he": "ירמיה",
+      "chapter": "31",
+      "verses": "20"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "הֲבֵן֩ יַקִּ֨יר לִ֜י אֶפְרַ֗יִם אִ֚ם יֶ֣לֶד שַׁעֲשֻׁעִ֔ים כִּֽי־מִדֵּ֤י דַבְּרִי֙ בּ֔וֹ זָכֹ֥ר אֶזְכְּרֶ֖נּוּ ע֑וֹד עַל־כֵּ֗ן הָמ֤וּ מֵעַי֙ ל֔וֹ רַחֵ֥ם אֲ‍ֽרַחֲמֶ֖נּוּ נְאֻם־יְהוָֽה׃ ס"
+      ],
+      "german": "Ist nicht Ephraim mein teurer Sohn und mein liebes Kind? Denn sooft ich ihm auch drohe, muss ich doch seiner gedenken; darum bricht mir mein Herz, dass ich mich seiner erbarmen muss, spricht der HERR.\n"
+    }
+  },
+  "2023-01-03": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "119",
+      "verses": "154"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "רִיבָ֣ה רִ֭יבִי וּגְאָלֵ֑נִי לְאִמְרָתְךָ֥ חַיֵּֽנִי׃"
+      ],
+      "german": "HERR, führe meine Sache und erlöse mich; erquicke mich durch dein Wort.\n"
+    }
+  },
+  "2023-01-04": {
+    "book": {
+      "book_de": "1. Könige",
+      "book_en": "Kings_1",
+      "book_he": "מלכים א",
+      "chapter": "19",
+      "verses": "7"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַיָּשָׁב֩ מַלְאַ֨ךְ יְהוָ֤ה ׀ שֵׁנִית֙ וַיִּגַּע־בּ֔וֹ וַיֹּ֖אמֶר ק֣וּם אֱכֹ֑ל כִּ֛י רַ֥ב מִמְּךָ֖ הַדָּֽרֶךְ׃"
+      ],
+      "german": "Der Engel des HERRN rührte Elia an und sprach: Steh auf und iss! Denn du hast einen weiten Weg vor dir.\n"
+    }
+  },
+  "2023-01-05": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "71",
+      "verses": "17"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אֱ‍ֽלֹהִ֗ים לִמַּדְתַּ֥נִי מִנְּעוּרָ֑י וְעַד־הֵ֝֗נָּה אַגִּ֥יד נִפְלְאוֹתֶֽיךָ׃"
+      ],
+      "german": "Gott, du hast mich von Jugend auf gelehrt, und noch jetzt verkündige ich deine Wunder.\n"
+    }
+  },
+  "2023-01-06": {
+    "book": {
+      "book_de": "2. Chronik",
+      "book_en": "Chronicles_2",
+      "book_he": "דברי הימים ב",
+      "chapter": "32",
+      "verses": "24-25"
+    },
+    "multiple": true,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "בַּיָּמִ֣ים הָהֵ֔ם חָלָ֥ה יְחִזְקִיָּ֖הוּ עַד־לָמ֑וּת וַיִּתְפַּלֵּל֙ אֶל־יְהוָ֔ה וַיֹּ֣אמֶר ל֔וֹ וּמוֹפֵ֖ת נָ֥תַן לֽוֹ׃",
+        "וְלֹא־כִגְמֻ֤ל עָלָיו֙ הֵשִׁ֣יב יְחִזְקִיָּ֔הוּ כִּ֥י גָבַ֖הּ לִבּ֑וֹ וַיְהִ֤י עָלָיו֙ קֶ֔צֶף וְעַל־יְהוּדָ֖ה וִירוּשָׁלָֽ͏ִם׃"
+      ],
+      "german": "Hiskia wurde todkrank; und er betete zum HERRN. Der redete mit ihm und gab ihm ein Wunderzeichen. Aber Hiskia vergalt nicht nach dem, was ihm geschehen war; denn sein Herz überhob sich.\n"
+    }
+  },
+  "2023-01-07": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "113",
+      "verses": "3"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "מִמִּזְרַח־שֶׁ֥מֶשׁ עַד־מְבוֹא֑וֹ מְ֝הֻלָּ֗ל שֵׁ֣ם יְהוָֽה׃"
+      ],
+      "german": "Vom Aufgang der Sonne bis zu ihrem Niedergang sei gelobet der Name des HERRN!\n"
+    }
+  },
+  "2023-01-08": {
+    "book": {
+      "book_de": "5. Mose",
+      "book_en": "Deuteronomy",
+      "book_he": "דברים",
+      "chapter": "15",
+      "verses": "10"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "נָת֤וֹן תִּתֵּן֙ ל֔וֹ וְלֹא־יֵרַ֥ע לְבָבְךָ֖ בְּתִתְּךָ֣ ל֑וֹ כִּ֞י בִּגְלַ֣ל ׀ הַדָּבָ֣ר הַזֶּ֗ה יְבָרֶכְךָ֙ יְהוָ֣ה אֱלֹהֶ֔יךָ בְּכָֽל־מַעֲשֶׂ֔ךָ וּבְכֹ֖ל מִשְׁלַ֥ח יָדֶֽךָ׃"
+      ],
+      "german": "Dein Herz soll sich’s nicht verdrießen lassen, dass du deinem armen Bruder gibst.\n"
+    }
+  },
+  "2023-01-09": {
+    "book": {
+      "book_de": "2. Mose",
+      "book_en": "Exodus",
+      "book_he": "שמות",
+      "chapter": "23",
+      "verses": "1"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "לֹ֥א תִשָּׂ֖א שֵׁ֣מַע שָׁ֑וְא אַל־תָּ֤שֶׁת יָֽדְךָ֙ עִם־רָשָׁ֔ע לִהְיֹ֖ת עֵ֥ד חָמָֽס׃ ס"
+      ],
+      "german": "Du sollst nicht einem Schuldigen Beistand leisten, indem du als Zeuge Gewalt deckst.\n"
+    }
+  },
+  "2023-01-10": {
+    "book": {
+      "book_de": "2. Mose",
+      "book_en": "Exodus",
+      "book_he": "שמות",
+      "chapter": "3",
+      "verses": "11-12"
+    },
+    "multiple": true,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַיֹּ֤אמֶר מֹשֶׁה֙ אֶל־הָ֣אֱלֹהִ֔ים מִ֣י אָנֹ֔כִי כִּ֥י אֵלֵ֖ךְ אֶל־פַּרְעֹ֑ה וְכִ֥י אוֹצִ֛יא אֶת־בְּנֵ֥י יִשְׂרָאֵ֖ל מִמִּצְרָֽיִם׃",
+        "וַיֹּ֙אמֶר֙ כִּֽי־אֶֽהְיֶ֣ה עִמָּ֔ךְ וְזֶה־לְּךָ֣ הָא֔וֹת כִּ֥י אָנֹכִ֖י שְׁלַחְתִּ֑יךָ בְּהוֹצִֽיאֲךָ֤ אֶת־הָעָם֙ מִמִּצְרַ֔יִם תַּֽעַבְדוּן֙ אֶת־הָ֣אֱלֹהִ֔ים עַ֖ל הָהָ֥ר הַזֶּֽה׃"
+      ],
+      "german": "Mose sprach zu Gott: Wer bin ich, dass ich zum Pharao gehe und führe die Israeliten aus Ägypten? Gott sprach: Ich will mit dir sein.\n"
+    }
+  },
+  "2023-01-11": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "6",
+      "verses": "10"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "שָׁמַ֣ע יְ֭הוָה תְּחִנָּתִ֑י יְ֝הוָ֗ה תְּֽפִלָּתִ֥י יִקָּֽח׃"
+      ],
+      "german": "Der HERR hört mein Flehen; mein Gebet nimmt der HERR an.\n"
+    }
+  },
+  "2023-01-12": {
+    "book": {
+      "book_de": "5. Mose",
+      "book_en": "Deuteronomy",
+      "book_he": "דברים",
+      "chapter": "10",
+      "verses": "12"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְעַתָּה֙ יִשְׂרָאֵ֔ל מָ֚ה יְהוָ֣ה אֱלֹהֶ֔יךָ שֹׁאֵ֖ל מֵעִמָּ֑ךְ כִּ֣י אִם־לְ֠יִרְאָה אֶת־יְהוָ֨ה אֱלֹהֶ֜יךָ לָלֶ֤כֶת בְּכָל־דְּרָכָיו֙ וּלְאַהֲבָ֣ה אֹת֔וֹ וְלַֽעֲבֹד֙ אֶת־יְהוָ֣ה אֱלֹהֶ֔יךָ בְּכָל־לְבָבְךָ֖ וּבְכָל־נַפְשֶֽׁךָ׃"
+      ],
+      "german": "Nun, Israel, was fordert der HERR, dein Gott, noch von dir, als dass du den HERRN, deinen Gott, fürchtest, dass du in allen seinen Wegen wandelst und ihn liebst und dem HERRN, deinem Gott, dienst von ganzem Herzen und von ganzer Seele?\n"
+    }
+  },
+  "2023-01-13": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "44",
+      "verses": "8"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אַֽל־תִּפְחֲדוּ֙ וְאַל־תִּרְה֔וּ הֲלֹ֥א מֵאָ֛ז הִשְׁמַעְתִּ֥יךָ וְהִגַּ֖דְתִּי וְאַתֶּ֣ם עֵדָ֑י הֲיֵ֤שׁ אֱל֙וֹהַּ֙ מִבַּלְעָדַ֔י וְאֵ֥ין צ֖וּר בַּל־יָדָֽעְתִּי׃"
+      ],
+      "german": "Fürchtet euch nicht und erschreckt nicht! Habe ich’s dich nicht schon lange hören lassen und es dir verkündigt? Ihr seid doch meine Zeugen!\n"
+    }
+  },
+  "2023-01-14": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "139",
+      "verses": "16"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "גָּלְמִ֤י ׀ רָ֘א֤וּ עֵינֶ֗יךָ וְעַֽל־סִפְרְךָ֮ כֻּלָּ֢ם יִכָּ֫תֵ֥בוּ יָמִ֥ים יֻצָּ֑רוּ *ולא **וְל֖וֹ אֶחָ֣ד בָּהֶֽם׃"
+      ],
+      "german": "Deine Augen sahen mich, da ich noch nicht bereitet war, und alle Tage waren in dein Buch geschrieben, die noch werden sollten.\n"
+    }
+  },
+  "2023-01-15": {
+    "book": {
+      "book_de": "Sprüche",
+      "book_en": "Proverbs",
+      "book_he": "משלי",
+      "chapter": "21",
+      "verses": "3"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "עֲ֭שֹׂה צְדָקָ֣ה וּמִשְׁפָּ֑ט נִבְחָ֖ר לַיהוָ֣ה מִזָּֽבַח׃"
+      ],
+      "german": "Recht und Gerechtigkeit tun ist dem HERRN lieber als Opfer.\n"
+    }
+  },
+  "2023-01-16": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "71",
+      "verses": "23"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "תְּרַנֵּ֣נָּ֣ה שְׂ֭פָתַי כִּ֣י אֲזַמְּרָה־לָּ֑ךְ וְ֝נַפְשִׁ֗י אֲשֶׁ֣ר פָּדִֽיתָ׃"
+      ],
+      "german": "Meine Lippen und meine Seele, die du erlöst hast, sollen fröhlich sein und dir lobsingen.\n"
+    }
+  },
+  "2023-01-17": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "119",
+      "verses": "11"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "בְּ֭לִבִּי צָפַ֣נְתִּי אִמְרָתֶ֑ךָ לְ֝מַ֗עַן לֹ֣א אֶֽחֱטָא־לָֽךְ׃"
+      ],
+      "german": "Ich behalte dein Wort in meinem Herzen, damit ich nicht wider dich sündige.\n"
+    }
+  },
+  "2023-01-18": {
+    "book": {
+      "book_de": "2. Mose",
+      "book_en": "Exodus",
+      "book_he": "שמות",
+      "chapter": "15",
+      "verses": "13"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "נָחִ֥יתָ בְחַסְדְּךָ֖ עַם־ז֣וּ גָּאָ֑לְתָּ נֵהַ֥לְתָּ בְעָזְּךָ֖ אֶל־נְוֵ֥ה קָדְשֶֽׁךָ׃"
+      ],
+      "german": "Du hast geleitet durch deine Barmherzigkeit dein Volk, das du erlöst hast.\n"
+    }
+  },
+  "2023-01-19": {
+    "book": {
+      "book_de": "Hiob",
+      "book_en": "Job",
+      "book_he": "איוב",
+      "chapter": "28",
+      "verses": "24"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּי־ה֭וּא לִקְצוֹת־הָאָ֣רֶץ יַבִּ֑יט תַּ֖חַת כָּל־הַשָּׁמַ֣יִם יִרְאֶֽה׃"
+      ],
+      "german": "Gott sieht die Enden der Erde und schaut alles, was unter dem Himmel ist.\n"
+    }
+  },
+  "2023-01-20": {
+    "book": {
+      "book_de": "3. Mose",
+      "book_en": "Leviticus",
+      "book_he": "ויקרא",
+      "chapter": "25",
+      "verses": "14"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְכִֽי־תִמְכְּר֤וּ מִמְכָּר֙ לַעֲמִיתֶ֔ךָ א֥וֹ קָנֹ֖ה מִיַּ֣ד עֲמִיתֶ֑ךָ אַל־תּוֹנ֖וּ אִ֥ישׁ אֶת־אָחִֽיו׃"
+      ],
+      "german": "Wenn du deinem Nächsten etwas verkaufst oder ihm etwas abkaufst, soll keiner seinen Bruder übervorteilen.\n"
+    }
+  },
+  "2023-01-21": {
+    "book": {
+      "book_de": "Hiob",
+      "book_en": "Job",
+      "book_he": "איוב",
+      "chapter": "1",
+      "verses": "21"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַיֹּאמֶר֩ עָרֹ֨ם *יצתי **יָצָ֜אתִי מִבֶּ֣טֶן אִמִּ֗י וְעָרֹם֙ אָשׁ֣וּב שָׁ֔מָה יְהוָ֣ה נָתַ֔ן וַיהוָ֖ה לָקָ֑ח יְהִ֛י שֵׁ֥ם יְהוָ֖ה מְבֹרָֽךְ׃"
+      ],
+      "german": "Ich bin nackt von meiner Mutter Leibe gekommen, nackt werde ich wieder dahinfahren.\n"
+    }
+  },
+  "2023-01-22": {
+    "book": {
+      "book_de": "Jeremia",
+      "book_en": "Jeremiah",
+      "book_he": "ירמיה",
+      "chapter": "10",
+      "verses": "6"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "מֵאֵ֥ין כָּמ֖וֹךָ יְהוָ֑ה גָּד֥וֹל אַתָּ֛ה וְגָד֥וֹל שִׁמְךָ֖ בִּגְבוּרָֽה׃"
+      ],
+      "german": "Dir, HERR, ist niemand gleich; du bist groß, und dein Name ist groß, wie du es mit der Tat beweist.\n"
+    }
+  },
+  "2023-01-23": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "25",
+      "verses": "20"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "שָׁמְרָ֣ה נַ֭פְשִׁי וְהַצִּילֵ֑נִי אַל־אֵ֝ב֗וֹשׁ כִּֽי־חָסִ֥יתִי בָֽךְ׃"
+      ],
+      "german": "Lass mich nicht zuschanden werden, denn ich traue auf dich!\n"
+    }
+  },
+  "2023-01-24": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "91",
+      "verses": "9"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּֽי־אַתָּ֣ה יְהוָ֣ה מַחְסִ֑י עֶ֝לְי֗וֹן שַׂ֣מְתָּ מְעוֹנֶֽךָ׃"
+      ],
+      "german": "Der Höchste ist deine Zuflucht.\n"
+    }
+  },
+  "2023-01-25": {
+    "book": {
+      "book_de": "Sprüche",
+      "book_en": "Proverbs",
+      "book_he": "משלי",
+      "chapter": "11",
+      "verses": "19"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כֵּן־צְדָקָ֥ה לְחַיִּ֑ים וּמְרַדֵּ֖ף רָעָ֣ה לְמוֹתֽוֹ׃"
+      ],
+      "german": "Gerechtigkeit führt zum Leben; aber dem Bösen nachjagen führt zum Tode.\n"
+    }
+  },
+  "2023-01-26": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "4",
+      "verses": "8"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "נָתַ֣תָּה שִׂמְחָ֣ה בְלִבִּ֑י מֵעֵ֬ת דְּגָנָ֖ם וְתִֽירוֹשָׁ֣ם רָֽבּוּ׃"
+      ],
+      "german": "Du erfreust mein Herz mehr als zur Zeit, da es Korn und Wein gibt in Fülle.\n"
+    }
+  },
+  "2023-01-27": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "1",
+      "verses": "3"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְֽהָיָ֗ה כְּעֵץ֮ שָׁת֢וּל עַֽל־פַּלְגֵ֫י מָ֥יִם אֲשֶׁ֤ר פִּרְי֨וֹ ׀ יִתֵּ֬ן בְּעִתּ֗וֹ וְעָלֵ֥הוּ לֹֽא־יִבּ֑וֹל וְכֹ֖ל אֲשֶׁר־יַעֲשֶׂ֣ה יַצְלִֽיחַ׃"
+      ],
+      "german": "Der Gerechte ist wie ein Baum, gepflanzt an den Wasserbächen, der seine Frucht bringt zu seiner Zeit, und seine Blätter verwelken nicht.\n"
+    }
+  },
+  "2023-01-28": {
+    "book": {
+      "book_de": "1. Samuel",
+      "book_en": "Samuel_1",
+      "book_he": "שמואל א",
+      "chapter": "17",
+      "verses": "45"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַיֹּ֤אמֶר דָּוִד֙ אֶל־הַפְּלִשְׁתִּ֔י אַתָּה֙ בָּ֣א אֵלַ֔י בְּחֶ֖רֶב וּבַחֲנִ֣ית וּבְכִיד֑וֹן וְאָנֹכִ֣י בָֽא־אֵלֶ֗יךָ בְּשֵׁם֙ יְהוָ֣ה צְבָא֔וֹת אֱלֹהֵ֛י מַעַרְכ֥וֹת יִשְׂרָאֵ֖ל אֲשֶׁ֥ר חֵרַֽפְתָּ׃"
+      ],
+      "german": "/David sprach zu Goliat:/ Du kommst zu mir mit Schwert, Spieß und Sichelschwert, ich aber komme zu dir im Namen des HERRN Zebaoth.\n"
+    }
+  },
+  "2023-01-29": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "80",
+      "verses": "20"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "יְה֘וָ֤ה אֱלֹהִ֣ים צְבָא֣וֹת הֲשִׁיבֵ֑נוּ הָאֵ֥ר פָּ֝נֶ֗יךָ וְנִוָּשֵֽׁעָה׃"
+      ],
+      "german": "HERR, Gott Zebaoth, tröste uns wieder; lass leuchten dein Antlitz, so ist uns geholfen.\n"
+    }
+  },
+  "2023-01-30": {
+    "book": {
+      "book_de": "Josua",
+      "book_en": "Joshua",
+      "book_he": "יהושע",
+      "chapter": "24",
+      "verses": "17"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּ֚י יְהוָ֣ה אֱלֹהֵ֔ינוּ הוּא֩ הַמַּעֲלֶ֨ה אֹתָ֧נוּ וְאֶת־אֲבוֹתֵ֛ינוּ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֣ית עֲבָדִ֑ים וַאֲשֶׁ֧ר עָשָׂ֣ה לְעֵינֵ֗ינוּ אֶת־הָאֹת֤וֹת הַגְּדֹלוֹת֙ הָאֵ֔לֶּה וַֽיִּשְׁמְרֵ֗נוּ בְּכָל־הַדֶּ֙רֶךְ֙ אֲשֶׁ֣ר הָלַ֣כְנוּ בָ֔הּ וּבְכֹל֙ הָֽעַמִּ֔ים אֲשֶׁ֥ר עָבַ֖רְנוּ בְּקִרְבָּֽם׃"
+      ],
+      "german": "Der HERR, unser Gott, hat uns behütet auf dem ganzen Wege, den wir gegangen sind.\n"
+    }
+  },
+  "2023-01-31": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "102",
+      "verses": "28"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְאַתָּה־ה֑וּא וּ֝שְׁנוֹתֶ֗יךָ לֹ֣א יִתָּֽמּוּ׃"
+      ],
+      "german": "Gott, du bleibst, wie du bist, und deine Jahre nehmen kein Ende.\n"
+    }
+  },
+  "2023-02-01": {
+    "book": {
+      "book_de": "Sacharja",
+      "book_en": "Zechariah",
+      "book_he": "זכריה",
+      "chapter": "1",
+      "verses": "3"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְאָמַרְתָּ֣ אֲלֵהֶ֗ם כֹּ֤ה אָמַר֙ יְהוָ֣ה צְבָא֔וֹת שׁ֣וּבוּ אֵלַ֔י נְאֻ֖ם יְהוָ֣ה צְבָא֑וֹת וְאָשׁ֣וּב אֲלֵיכֶ֔ם אָמַ֖ר יְהוָ֥ה צְבָאֽוֹת׃"
+      ],
+      "german": "Kehrt um zu mir, spricht der HERR Zebaoth, so will ich zu euch umkehren.\n"
+    }
+  },
+  "2023-02-02": {
+    "book": {
+      "book_de": "Jeremia",
+      "book_en": "Jeremiah",
+      "book_he": "ירמיה",
+      "chapter": "1",
+      "verses": "12"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַיֹּ֧אמֶר יְהוָ֛ה אֵלַ֖י הֵיטַ֣בְתָּ לִרְא֑וֹת כִּֽי־שֹׁקֵ֥ד אֲנִ֛י עַל־דְּבָרִ֖י לַעֲשֹׂתֽוֹ׃ פ"
+      ],
+      "german": "Ich will wachen über meinem Wort, dass ich’s tue.\n"
+    }
+  },
+  "2023-02-03": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "29",
+      "verses": "16"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "הַ֨פְכְּכֶ֔ם אִם־כְּחֹ֥מֶר הַיֹּצֵ֖ר יֵֽחָשֵׁ֑ב כִּֽי־יֹאמַ֨ר מַעֲשֶׂ֤ה לְעֹשֵׂ֙הוּ֙ לֹ֣א עָשָׂ֔נִי וְיֵ֛צֶר אָמַ֥ר לְיוֹצְר֖וֹ לֹ֥א הֵבִֽין׃"
+      ],
+      "german": "Wie kehrt ihr alles um! Als ob der Ton dem Töpfer gleich wäre, dass das Werk spräche von seinem Meister: Er hat mich nicht gemacht!, und ein Bildwerk spräche von seinem Bildner: Er versteht nichts!\n"
+    }
+  },
+  "2023-02-04": {
+    "book": {
+      "book_de": "1. Mose",
+      "book_en": "Genesis",
+      "book_he": "בראשית",
+      "chapter": "28",
+      "verses": "22"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְהָאֶ֣בֶן הַזֹּ֗את אֲשֶׁר־שַׂ֙מְתִּי֙ מַצֵּבָ֔ה יִהְיֶ֖ה בֵּ֣ית אֱלֹהִ֑ים וְכֹל֙ אֲשֶׁ֣ר תִּתֶּן־לִ֔י עַשֵּׂ֖ר אֲעַשְּׂרֶ֥נּוּ לָֽךְ׃"
+      ],
+      "german": "/Jakob gelobte Gott:/ Von allem, was du mir gibst, will ich dir den Zehnten geben.\n"
+    }
+  },
+  "2023-02-05": {
+    "book": {
+      "book_de": "Prediger",
+      "book_en": "Ecclesiastes",
+      "book_he": "קהלת",
+      "chapter": "7",
+      "verses": "14"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "בְּי֤וֹם טוֹבָה֙ הֱיֵ֣ה בְט֔וֹב וּבְי֥וֹם רָעָ֖ה רְאֵ֑ה גַּ֣ם אֶת־זֶ֤ה לְעֻמַּת־זֶה֙ עָשָׂ֣ה הָֽאֱלֹהִ֔ים עַל־דִּבְרַ֗ת שֶׁלֹּ֨א יִמְצָ֧א הָֽאָדָ֛ם אַחֲרָ֖יו מְאֽוּמָה׃"
+      ],
+      "german": "Freu dich, wenn du einen Glückstag hast. Und wenn du einen Unglückstag hast, dann denke daran: Gott schickt dir beide, und du weißt nicht, was als Nächstes kommt.\n"
+    }
+  },
+  "2023-02-06": {
+    "book": {
+      "book_de": "Jeremia",
+      "book_en": "Jeremiah",
+      "book_he": "ירמיה",
+      "chapter": "17",
+      "verses": "9-10"
+    },
+    "multiple": true,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "עָקֹ֥ב הַלֵּ֛ב מִכֹּ֖ל וְאָנֻ֣שׁ ה֑וּא מִ֖י יֵדָעֶֽנּוּ׃",
+        "אֲנִ֧י יְהוָ֛ה חֹקֵ֥ר לֵ֖ב בֹּחֵ֣ן כְּלָי֑וֹת וְלָתֵ֤ת לְאִישׁ֙ *כדרכו **כִּדְרָכָ֔יו כִּפְרִ֖י מַעֲלָלָֽיו׃ ס"
+      ],
+      "german": "Es ist das Herz ein trotzig und verzagt Ding; wer kann es ergründen? Ich, der HERR, kann das Herz ergründen und die Nieren prüfen und gebe einem jeden nach seinem Tun.\n"
+    }
+  },
+  "2023-02-07": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "55",
+      "verses": "10-11"
+    },
+    "multiple": true,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּ֡י כַּאֲשֶׁ֣ר יֵרֵד֩ הַגֶּ֨שֶׁם וְהַשֶּׁ֜לֶג מִן־הַשָּׁמַ֗יִם וְשָׁ֙מָּה֙ לֹ֣א יָשׁ֔וּב כִּ֚י אִם־הִרְוָ֣ה אֶת־הָאָ֔רֶץ וְהוֹלִידָ֖הּ וְהִצְמִיחָ֑הּ וְנָ֤תַן זֶ֙רַע֙ לַזֹּרֵ֔עַ וְלֶ֖חֶם לָאֹכֵֽל׃",
+        "כֵּ֣ן יִֽהְיֶ֤ה דְבָרִי֙ אֲשֶׁ֣ר יֵצֵ֣א מִפִּ֔י לֹֽא־יָשׁ֥וּב אֵלַ֖י רֵיקָ֑ם כִּ֤י אִם־עָשָׂה֙ אֶת־אֲשֶׁ֣ר חָפַ֔צְתִּי וְהִצְלִ֖יחַ אֲשֶׁ֥ר שְׁלַחְתִּֽיו׃"
+      ],
+      "german": "Gleichwie der Regen und Schnee vom Himmel fällt und nicht wieder dahin zurückkehrt, sondern feuchtet die Erde und macht sie fruchtbar und lässt wachsen, dass sie gibt Samen zu säen und Brot zu essen, so soll das Wort, das aus meinem Munde geht, auch sein.\n"
+    }
+  },
+  "2023-02-08": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "33",
+      "verses": "21"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּי־ב֭וֹ יִשְׂמַ֣ח לִבֵּ֑נוּ כִּ֤י בְשֵׁ֖ם קָדְשׁ֣וֹ בָטָֽחְנוּ׃"
+      ],
+      "german": "Unser Herz freut sich des HERRN, und wir trauen auf seinen heiligen Namen.\n"
+    }
+  },
+  "2023-02-09": {
+    "book": {
+      "book_de": "Zefanja",
+      "book_en": "Zephaniah",
+      "book_he": "צפניה",
+      "chapter": "1",
+      "verses": "7"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "הַ֕ס מִפְּנֵ֖י אֲדֹנָ֣י יְהוִ֑ה כִּ֤י קָרוֹב֙ י֣וֹם יְהוָ֔ה כִּֽי־הֵכִ֧ין יְהוָ֛ה זֶ֖בַח הִקְדִּ֥ישׁ קְרֻאָֽיו׃"
+      ],
+      "german": "Seid stille vor Gott dem HERRN, denn des HERRN Tag ist nahe.\n"
+    }
+  },
+  "2023-02-10": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "52",
+      "verses": "7"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "מַה־נָּאו֨וּ עַל־הֶהָרִ֜ים רַגְלֵ֣י מְבַשֵּׂ֗ר מַשְׁמִ֧יעַ שָׁל֛וֹם מְבַשֵּׂ֥ר ט֖וֹב מַשְׁמִ֣יעַ יְשׁוּעָ֑ה אֹמֵ֥ר לְצִיּ֖וֹן מָלַ֥ךְ אֱלֹהָֽיִךְ׃"
+      ],
+      "german": "Wie lieblich sind auf den Bergen die Füße des Freudenboten, der da Frieden verkündigt, Gutes predigt, Heil verkündigt, der da sagt zu Zion: Dein Gott ist König!\n"
+    }
+  },
+  "2023-02-11": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "142",
+      "verses": "8"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "ה֘וֹצִ֤יאָה מִמַּסְגֵּ֨ר ׀ נַפְשִׁי֮ לְהוֹד֢וֹת אֶת־שְׁ֫מֶ֥ךָ בִּ֭י יַכְתִּ֣רוּ צַדִּיקִ֑ים כִּ֖י תִגְמֹ֣ל עָלֽ͏ָי׃"
+      ],
+      "german": "Führe mich aus dem Kerker, dass ich preise deinen Namen.\n"
+    }
+  },
+  "2023-02-12": {
+    "book": {
+      "book_de": "Josua",
+      "book_en": "Joshua",
+      "book_he": "יהושע",
+      "chapter": "22",
+      "verses": "5"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "רַ֣ק ׀ שִׁמְר֣וּ מְאֹ֗ד לַעֲשׂ֨וֹת אֶת־הַמִּצְוָ֣ה וְאֶת־הַתּוֹרָה֮ אֲשֶׁ֣ר צִוָּ֣ה אֶתְכֶם֮ מֹשֶׁ֣ה עֶֽבֶד־יְהוָה֒ לְ֠אַהֲבָה אֶת־יְהוָ֨ה אֱלֹֽהֵיכֶ֜ם וְלָלֶ֧כֶת בְּכָל־דְּרָכָ֛יו וְלִשְׁמֹ֥ר מִצְוֺתָ֖יו וּלְדָבְקָה־ב֑וֹ וּלְעָבְד֕וֹ בְּכָל־לְבַבְכֶ֖ם וּבְכָל־נַפְשְׁכֶֽם׃"
+      ],
+      "german": "Achtet genau darauf, dass ihr den HERRN, euren Gott, liebt und wandelt auf allen seinen Wegen.\n"
+    }
+  },
+  "2023-02-13": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "51",
+      "verses": "13"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אַל־תַּשְׁלִיכֵ֥נִי מִלְּפָנֶ֑יךָ וְר֥וּחַ קָ֝דְשְׁךָ֗ אַל־תִּקַּ֥ח מִמֶּֽנִּי׃"
+      ],
+      "german": "Verwirf mich nicht von deinem Angesicht, und nimm deinen heiligen Geist nicht von mir.\n"
+    }
+  },
+  "2023-02-14": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "73",
+      "verses": "1"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "מִזְמ֗וֹר לְאָ֫סָ֥ף אַ֤ךְ ט֭וֹב לְיִשְׂרָאֵ֥ל אֱלֹהִ֗ים לְבָרֵ֥י לֵבָֽב׃"
+      ],
+      "german": "Gott ist dennoch Israels Trost für alle, die reinen Herzens sind.\n"
+    }
+  },
+  "2023-02-15": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "29",
+      "verses": "14"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "לָכֵ֗ן הִנְנִ֥י יוֹסִ֛ף לְהַפְלִ֥יא אֶת־הָֽעָם־הַזֶּ֖ה הַפְלֵ֣א וָפֶ֑לֶא וְאָֽבְדָה֙ חָכְמַ֣ת חֲכָמָ֔יו וּבִינַ֥ת נְבֹנָ֖יו תִּסְתַּתָּֽר׃ ס"
+      ],
+      "german": "Ich werde an diesem Volk weiterhin wundersam handeln, wundersam und überraschend, und die Weisheit seiner Weisen wird zunichte werden, und der Verstand seiner Verständigen wird sich verstecken.\n"
+    }
+  },
+  "2023-02-16": {
+    "book": {
+      "book_de": "Jona",
+      "book_en": "Jonah",
+      "book_he": "יונה",
+      "chapter": "2",
+      "verses": "3"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַיֹּ֗אמֶר קָ֠רָאתִי מִצָּ֥רָה לִ֛י אֶל־יְהוָ֖ה וַֽיַּעֲנֵ֑נִי מִבֶּ֧טֶן שְׁא֛וֹל שִׁוַּ֖עְתִּי שָׁמַ֥עְתָּ קוֹלִֽי׃"
+      ],
+      "german": "Ich rief zu dem HERRN in meiner Angst, und er antwortete mir.\n"
+    }
+  },
+  "2023-02-17": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "104",
+      "verses": "24"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "מָֽה־רַבּ֬וּ מַעֲשֶׂ֨יךָ ׀ יְֽהוָ֗ה כֻּ֭לָּם בְּחָכְמָ֣ה עָשִׂ֑יתָ מָלְאָ֥ה הָ֝אָ֗רֶץ קִנְיָנֶֽךָ׃"
+      ],
+      "german": "HERR, wie sind deine Werke so groß und viel! Du hast sie alle weise geordnet, und die Erde ist voll deiner Güter.\n"
+    }
+  },
+  "2023-02-18": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "73",
+      "verses": "25"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "מִי־לִ֥י בַשָּׁמָ֑יִם וְ֝עִמְּךָ֗ לֹא־חָפַ֥צְתִּי בָאָֽרֶץ׃"
+      ],
+      "german": "Wenn ich nur dich habe, so frage ich nichts nach Himmel und Erde.\n"
+    }
+  },
+  "2023-02-19": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "42",
+      "verses": "9"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "יוֹמָ֤ם ׀ יְצַוֶּ֬ה יְהוָ֨ה ׀ חַסְדּ֗וֹ וּ֭בַלַּיְלָה *שירה **שִׁיר֣וֹ עִמִּ֑י תְּ֝פִלָּ֗ה לְאֵ֣ל חַיָּֽי׃"
+      ],
+      "german": "Am Tage sendet der HERR seine Güte, und des Nachts singe ich ihm und bete zu dem Gott meines Lebens.\n"
+    }
+  },
+  "2023-02-20": {
+    "book": {
+      "book_de": "Hiob",
+      "book_en": "Job",
+      "book_he": "איוב",
+      "chapter": "14",
+      "verses": "1-2"
+    },
+    "multiple": true,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אָ֭דָם יְל֣וּד אִשָּׁ֑ה קְצַ֥ר יָ֝מִ֗ים וּֽשְׂבַֽע־רֹֽגֶז׃",
+        "כְּצִ֣יץ יָ֭צָא וַיִּמָּ֑ל וַיִּבְרַ֥ח כַּ֝צֵּ֗ל וְלֹ֣א יַעֲמֽוֹד׃"
+      ],
+      "german": "Der Mensch, vom Weibe geboren, lebt kurze Zeit und ist voll Unruhe, geht auf wie eine Blume und welkt, flieht wie ein Schatten und bleibt nicht.\n"
+    }
+  },
+  "2023-02-21": {
+    "book": {
+      "book_de": "2. Samuel",
+      "book_en": "Samuel_2",
+      "book_he": "שמואל ב",
+      "chapter": "24",
+      "verses": "10"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַיַּ֤ךְ לֵב־דָּוִד֙ אֹת֔וֹ אַחֲרֵי־כֵ֖ן סָפַ֣ר אֶת־הָעָ֑ם ס וַיֹּ֨אמֶר דָּוִ֜ד אֶל־יְהוָ֗ה חָטָ֤אתִי מְאֹד֙ אֲשֶׁ֣ר עָשִׂ֔יתִי וְעַתָּ֣ה יְהוָ֔ה הַֽעֲבֶר־נָא֙ אֶת־עֲוֺ֣ן עַבְדְּךָ֔ כִּ֥י נִסְכַּ֖לְתִּי מְאֹֽד׃"
+      ],
+      "german": "David sprach zum HERRN: Ich habe schwer gesündigt, dass ich das getan habe. Und nun, HERR, nimm weg die Schuld deines Knechts.\n"
+    }
+  },
+  "2023-02-22": {
+    "book": {
+      "book_de": "Jeremia",
+      "book_en": "Jeremiah",
+      "book_he": "ירמיה",
+      "chapter": "20",
+      "verses": "13"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "שִׁ֚ירוּ לַֽיהוָ֔ה הַֽלְל֖וּ אֶת־יְהוָ֑ה כִּ֥י הִצִּ֛יל אֶת־נֶ֥פֶשׁ אֶבְי֖וֹן מִיַּ֥ד מְרֵעִֽים׃ ס"
+      ],
+      "german": "Singet dem HERRN, rühmet den HERRN, der des Armen Leben aus den Händen der Boshaften errettet!\n"
+    }
+  },
+  "2023-02-23": {
+    "book": {
+      "book_de": "Hesekiel",
+      "book_en": "Ezekiel",
+      "book_he": "יחזקאל",
+      "chapter": "33",
+      "verses": "11"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אֱמֹ֨ר אֲלֵיהֶ֜ם חַי־אָ֣נִי ׀ נְאֻ֣ם ׀ אֲדֹנָ֣י יְהוִ֗ה אִם־אֶחְפֹּץ֙ בְּמ֣וֹת הָרָשָׁ֔ע כִּ֣י אִם־בְּשׁ֥וּב רָשָׁ֛ע מִדַּרְכּ֖וֹ וְחָיָ֑ה שׁ֣וּבוּ שׁ֜וּבוּ מִדַּרְכֵיכֶ֧ם הָרָעִ֛ים וְלָ֥מָּה תָמ֖וּתוּ בֵּ֥ית יִשְׂרָאֵֽל׃ פ"
+      ],
+      "german": "So kehrt nun um von euren bösen Wegen. Warum wollt ihr sterben?\n"
+    }
+  },
+  "2023-02-24": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "55",
+      "verses": "3"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "הַטּ֤וּ אָזְנְכֶם֙ וּלְכ֣וּ אֵלַ֔י שִׁמְע֖וּ וּתְחִ֣י נַפְשְׁכֶ֑ם וְאֶכְרְתָ֤ה לָכֶם֙ בְּרִ֣ית עוֹלָ֔ם חַֽסְדֵ֥י דָוִ֖ד הַנֶּאֱמָנִֽים׃"
+      ],
+      "german": "Ich will mit euch einen ewigen Bund schließen.\n"
+    }
+  },
+  "2023-02-25": {
+    "book": {
+      "book_de": "Hosea",
+      "book_en": "Hosea",
+      "book_he": "הושע",
+      "chapter": "4",
+      "verses": "1"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "שִׁמְע֥וּ דְבַר־יְהוָ֖ה בְּנֵ֣י יִשְׂרָאֵ֑ל כִּ֣י רִ֤יב לַֽיהוָה֙ עִם־יוֹשְׁבֵ֣י הָאָ֔רֶץ כִּ֠י אֵין־אֱמֶ֧ת וְֽאֵין־חֶ֛סֶד וְאֵֽין־דַּ֥עַת אֱלֹהִ֖ים בָּאָֽרֶץ׃"
+      ],
+      "german": "Höret des HERRN Wort! Der HERR rechtet mit denen, die im Lande wohnen; denn es gibt keine Treue, keine Liebe und keine Erkenntnis Gottes im Lande.\n"
+    }
+  },
+  "2023-02-26": {
+    "book": {
+      "book_de": "Sprüche",
+      "book_en": "Proverbs",
+      "book_he": "משלי",
+      "chapter": "3",
+      "verses": "26"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּֽי־יְ֭הוָה יִהְיֶ֣ה בְכִסְלֶ֑ךָ וְשָׁמַ֖ר רַגְלְךָ֣ מִלָּֽכֶד׃"
+      ],
+      "german": "Der HERR wird deinen Fuß vor der Falle bewahren.\n"
+    }
+  },
+  "2023-02-27": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "98",
+      "verses": "9"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "לִֽפְֽנֵי־יְהוָ֗ה כִּ֥י בָא֮ לִשְׁפֹּ֢ט הָ֫אָ֥רֶץ יִשְׁפֹּֽט־תֵּבֵ֥ל בְּצֶ֑דֶק וְ֝עַמִּ֗ים בְּמֵישָׁרִֽים׃"
+      ],
+      "german": "Der HERR kommt, das Erdreich zu richten. Er wird den Erdkreis richten mit Gerechtigkeit und die Völker, wie es recht ist.\n"
+    }
+  },
+  "2023-02-28": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "130",
+      "verses": "1-2"
+    },
+    "multiple": true,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "שִׁ֥יר הַֽמַּעֲל֑וֹת מִמַּעֲמַקִּ֖ים קְרָאתִ֣יךָ יְהוָֽה׃",
+        "אֲדֹנָי֮ שִׁמְעָ֢ה בְק֫וֹלִ֥י תִּהְיֶ֣ינָה אָ֭זְנֶיךָ קַשֻּׁב֑וֹת לְ֝ק֗וֹל תַּחֲנוּנָֽי׃"
+      ],
+      "german": "Aus der Tiefe rufe ich, HERR, zu dir. Herr, höre meine Stimme!\n"
+    }
+  },
+  "2023-03-01": {
+    "book": {
+      "book_de": "Daniel",
+      "book_en": "Daniel",
+      "book_he": "דניאל",
+      "chapter": "2",
+      "verses": "47"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "עָנֵה֩ מַלְכָּ֨א לְדָנִיֵּ֜אל וְאָמַ֗ר מִן־קְשֹׁט֙ דִּ֣י אֱלָהֲכ֗וֹן ה֣וּא אֱלָ֧הּ אֱלָהִ֛ין וּמָרֵ֥א מַלְכִ֖ין וְגָלֵ֣ה רָזִ֑ין דִּ֣י יְכֵ֔לְתָּ לְמִגְלֵ֖א רָזָ֥ה דְנָֽה׃"
+      ],
+      "german": "Der König antwortete Daniel und sprach: Wahrhaftig, euer Gott ist ein Gott über alle Götter und ein Herr über alle Könige.\n"
+    }
+  },
+  "2023-03-02": {
+    "book": {
+      "book_de": "1. Mose",
+      "book_en": "Genesis",
+      "book_he": "בראשית",
+      "chapter": "28",
+      "verses": "15"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְהִנֵּ֨ה אָנֹכִ֜י עִמָּ֗ךְ וּשְׁמַרְתִּ֙יךָ֙ בְּכֹ֣ל אֲשֶׁר־תֵּלֵ֔ךְ וַהֲשִׁ֣בֹתִ֔יךָ אֶל־הָאֲדָמָ֖ה הַזֹּ֑את כִּ֚י לֹ֣א אֽ͏ֶעֱזָבְךָ֔ עַ֚ד אֲשֶׁ֣ר אִם־עָשִׂ֔יתִי אֵ֥ת אֲשֶׁר־דִּבַּ֖רְתִּי לָֽךְ׃"
+      ],
+      "german": "/Der HERR sprach zu Jakob:/ Siehe, ich bin mit dir und will dich behüten, wo du hinziehst, und will dich wieder herbringen in dies Land.\n"
+    }
+  },
+  "2023-03-03": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "31",
+      "verses": "9"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְלֹ֣א הִ֭סְגַּרְתַּנִי בְּיַד־אוֹיֵ֑ב הֶֽעֱמַ֖דְתָּ בַמֶּרְחָ֣ב רַגְלָֽי׃"
+      ],
+      "german": "Du stellst meine Füße auf weiten Raum.\n"
+    }
+  },
+  "2023-03-04": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "12",
+      "verses": "7"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אִֽמֲר֣וֹת יְהוָה֮ אֲמָר֢וֹת טְהֹ֫ר֥וֹת כֶּ֣סֶף צָ֭רוּף בַּעֲלִ֣יל לָאָ֑רֶץ מְ֝זֻקָּ֗ק שִׁבְעָתָֽיִם׃"
+      ],
+      "german": "Die Worte des HERRN sind lauter wie Silber, im Tiegel geschmolzen, geläutert siebenmal.\n"
+    }
+  },
+  "2023-03-05": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "33",
+      "verses": "9"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּ֤י ה֣וּא אָמַ֣ר וַיֶּ֑הִי הֽוּא־צִ֝וָּ֗ה וֽ͏ַיַּעֲמֹֽד׃"
+      ],
+      "german": "Wenn der HERR spricht, so geschieht’s; wenn er gebietet, so steht’s da.\n"
+    }
+  },
+  "2023-03-06": {
+    "book": {
+      "book_de": "Sacharja",
+      "book_en": "Zechariah",
+      "book_he": "זכריה",
+      "chapter": "2",
+      "verses": "12"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּ֣י כֹ֣ה אָמַר֮ יְהוָ֣ה צְבָאוֹת֒ אַחַ֣ר כָּב֔וֹד שְׁלָחַ֕נִי אֶל־הַגּוֹיִ֖ם הַשֹּׁלְלִ֣ים אֶתְכֶ֑ם כִּ֚י הַנֹּגֵ֣עַ בָּכֶ֔ם נֹגֵ֖עַ בְּבָבַ֥ת עֵינֽוֹ׃"
+      ],
+      "german": "So spricht der HERR Zebaoth: Wer euch antastet, der tastet seinen Augapfel an.\n"
+    }
+  },
+  "2023-03-07": {
+    "book": {
+      "book_de": "1. Könige",
+      "book_en": "Kings_1",
+      "book_he": "מלכים א",
+      "chapter": "8",
+      "verses": "57"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "יְהִ֨י יְהוָ֤ה אֱלֹהֵ֙ינוּ֙ עִמָּ֔נוּ כַּאֲשֶׁ֥ר הָיָ֖ה עִם־אֲבֹתֵ֑ינוּ אַל־יַעַזְבֵ֖נוּ וְאַֽל־יִטְּשֵֽׁנוּ׃"
+      ],
+      "german": "Der HERR, unser Gott, verlasse uns nicht und ziehe die Hand nicht ab von uns.\n"
+    }
+  },
+  "2023-03-08": {
+    "book": {
+      "book_de": "Jeremia",
+      "book_en": "Jeremiah",
+      "book_he": "ירמיה",
+      "chapter": "22",
+      "verses": "29"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אֶ֥רֶץ אֶ֖רֶץ אָ֑רֶץ שִׁמְעִ֖י דְּבַר־יְהוָֽה׃ ס"
+      ],
+      "german": "O Land, Land, Land, höre des HERRN Wort!\n"
+    }
+  },
+  "2023-03-09": {
+    "book": {
+      "book_de": "5. Mose",
+      "book_en": "Deuteronomy",
+      "book_he": "דברים",
+      "chapter": "2",
+      "verses": "7"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּי֩ יְהוָ֨ה אֱלֹהֶ֜יךָ בֵּֽרַכְךָ֗ בְּכֹל֙ מַעֲשֵׂ֣ה יָדֶ֔ךָ יָדַ֣ע לֶכְתְּךָ֔ אֶת־הַמִּדְבָּ֥ר הַגָּדֹ֖ל הַזֶּ֑ה זֶ֣ה ׀ אַרְבָּעִ֣ים שָׁנָ֗ה יְהוָ֤ה אֱלֹהֶ֙יךָ֙ עִמָּ֔ךְ לֹ֥א חָסַ֖רְתָּ דָּבָֽר׃"
+      ],
+      "german": "Der HERR, dein Gott, ist bei dir gewesen. An nichts hast du Mangel gehabt.\n"
+    }
+  },
+  "2023-03-10": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "121",
+      "verses": "4"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "הִנֵּ֣ה לֹֽא־יָ֭נוּם וְלֹ֣א יִישָׁ֑ן שׁ֝וֹמֵ֗ר יִשְׂרָאֵֽל׃"
+      ],
+      "german": "Siehe, der Hüter Israels schläft noch schlummert nicht.\n"
+    }
+  },
+  "2023-03-11": {
+    "book": {
+      "book_de": "5. Mose",
+      "book_en": "Deuteronomy",
+      "book_he": "דברים",
+      "chapter": "11",
+      "verses": "26-28"
+    },
+    "multiple": true,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "רְאֵ֗ה אָנֹכִ֛י נֹתֵ֥ן לִפְנֵיכֶ֖ם הַיּ֑וֹם בְּרָכָ֖ה וּקְלָלָֽה׃",
+        "אֶֽת־הַבְּרָכָ֑ה אֲשֶׁ֣ר תִּשְׁמְע֗וּ אֶל־מִצְוֺת֙ יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם אֲשֶׁ֧ר אָנֹכִ֛י מְצַוֶּ֥ה אֶתְכֶ֖ם הַיּֽוֹם׃",
+        "וְהַקְּלָלָ֗ה אִם־לֹ֤א תִשְׁמְעוּ֙ אֶל־מִצְוֺת֙ יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם וְסַרְתֶּ֣ם מִן־הַדֶּ֔רֶךְ אֲשֶׁ֧ר אָנֹכִ֛י מְצַוֶּ֥ה אֶתְכֶ֖ם הַיּ֑וֹם לָלֶ֗כֶת אַחֲרֵ֛י אֱלֹהִ֥ים אֲחֵרִ֖ים אֲשֶׁ֥ר לֹֽא־יְדַעְתֶּֽם׃ ס"
+      ],
+      "german": "/Mose sprach:/ Siehe, ich lege euch heute vor den Segen und den Fluch: den Segen, wenn ihr gehorcht den Geboten des HERRN, eures Gottes, die ich euch heute gebiete; den Fluch aber, wenn ihr nicht gehorchen werdet den Geboten des HERRN, eures Gottes.\n"
+    }
+  },
+  "2023-03-12": {
+    "book": {
+      "book_de": "5. Mose",
+      "book_en": "Deuteronomy",
+      "book_he": "דברים",
+      "chapter": "30",
+      "verses": "9"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְהוֹתִֽירְךָ֩ יְהוָ֨ה אֱלֹהֶ֜יךָ בְּכֹ֣ל ׀ מַעֲשֵׂ֣ה יָדֶ֗ךָ בִּפְרִ֨י בִטְנְךָ֜ וּבִפְרִ֧י בְהֶמְתְּךָ֛ וּבִפְרִ֥י אַדְמָתְךָ֖ לְטוֹבָ֑ה כִּ֣י ׀ יָשׁ֣וּב יְהוָ֗ה לָשׂ֤וּשׂ עָלֶ֙יךָ֙ לְט֔וֹב כַּאֲשֶׁר־שָׂ֖שׂ עַל־אֲבֹתֶֽיךָ׃"
+      ],
+      "german": "Der HERR, dein Gott, wird dir Glück geben zu allen Werken deiner Hände.\n"
+    }
+  },
+  "2023-03-13": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "115",
+      "verses": "2-3"
+    },
+    "multiple": true,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "לָ֭מָּה יֹאמְר֣וּ הַגּוֹיִ֑ם אַיֵּה־נָ֝֗א אֱלֹהֵיהֶֽם׃",
+        "וֵֽאלֹהֵ֥ינוּ בַשָּׁמָ֑יִם כֹּ֭ל אֲשֶׁר־חָפֵ֣ץ עָשָֽׂה׃"
+      ],
+      "german": "Warum sollen die Heiden sagen: Wo ist denn ihr Gott? Unser Gott ist im Himmel; er kann schaffen, was er will.\n"
+    }
+  },
+  "2023-03-14": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "66",
+      "verses": "18"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְאָנֹכִ֗י מַעֲשֵׂיהֶם֙ וּמַחְשְׁבֹ֣תֵיהֶ֔ם בָּאָ֕ה לְקַבֵּ֥ץ אֶת־כָּל־הַגּוֹיִ֖ם וְהַלְּשֹׁנ֑וֹת וּבָ֖אוּ וְרָא֥וּ אֶת־כְּבוֹדִֽי׃"
+      ],
+      "german": "Ich komme, um alle Völker und Zungen zu versammeln, dass sie kommen und meine Herrlichkeit sehen.\n"
+    }
+  },
+  "2023-03-15": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "117",
+      "verses": "2"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּ֥י גָ֘בַ֤ר עָלֵ֨ינוּ ׀ חַסְדּ֗וֹ וֶֽאֱמֶת־יְהוָ֥ה לְעוֹלָ֗ם הַֽלְלוּ־יָֽהּ׃"
+      ],
+      "german": "Mächtig waltet über uns seine Güte, und die Treue des HERRN währt in Ewigkeit. Halleluja.\n"
+    }
+  },
+  "2023-03-16": {
+    "book": {
+      "book_de": "5. Mose",
+      "book_en": "Deuteronomy",
+      "book_he": "דברים",
+      "chapter": "32",
+      "verses": "10"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "יִמְצָאֵ֙הוּ֙ בְּאֶ֣רֶץ מִדְבָּ֔ר וּבְתֹ֖הוּ יְלֵ֣ל יְשִׁמֹ֑ן יְסֹֽבְבֶ֙נְהוּ֙ יְב֣וֹנְנֵ֔הוּ יִצְּרֶ֖נְהוּ כְּאִישׁ֥וֹן עֵינֽוֹ׃"
+      ],
+      "german": "Er behütete sein Volk wie seinen Augapfel.\n"
+    }
+  },
+  "2023-03-17": {
+    "book": {
+      "book_de": "Jeremia",
+      "book_en": "Jeremiah",
+      "book_he": "ירמיה",
+      "chapter": "5",
+      "verses": "3"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "יְהֹוָ֗ה עֵינֶיךָ֮ הֲל֣וֹא לֶאֱמוּנָה֒ הִכִּ֤יתָה אֹתָם֙ וְֽלֹא־חָ֔לוּ כִּלִּיתָ֕ם מֵאֲנ֖וּ קַ֣חַת מוּסָ֑ר חִזְּק֤וּ פְנֵיהֶם֙ מִסֶּ֔לַע מֵאֲנ֖וּ לָשֽׁוּב׃"
+      ],
+      "german": "HERR, deine Augen, sind sie nicht auf Treue gerichtet?\n"
+    }
+  },
+  "2023-03-18": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "14",
+      "verses": "3"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "הַכֹּ֥ל סָר֮ יַחְדָּ֢ו נֶ֫אֱלָ֥חוּ אֵ֤ין עֹֽשֵׂה־ט֑וֹב אֵ֝֗ין גַּם־אֶחָֽד׃"
+      ],
+      "german": "Sie sind alle abgewichen und allesamt verdorben; da ist keiner, der Gutes tut, auch nicht einer.\n"
+    }
+  },
+  "2023-03-19": {
+    "book": {
+      "book_de": "1. Samuel",
+      "book_en": "Samuel_1",
+      "book_he": "שמואל א",
+      "chapter": "2",
+      "verses": "2"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אֵין־קָד֥וֹשׁ כַּיהוָ֖ה כִּ֣י אֵ֣ין בִּלְתֶּ֑ךָ וְאֵ֥ין צ֖וּר כֵּאלֹהֵֽינוּ׃"
+      ],
+      "german": "Es ist niemand heilig wie der HERR, außer dir ist keiner.\n"
+    }
+  },
+  "2023-03-20": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "2",
+      "verses": "5"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "בֵּ֖ית יַעֲקֹ֑ב לְכ֥וּ וְנֵלְכָ֖ה בְּא֥וֹר יְהוָֽה׃"
+      ],
+      "german": "Kommt nun, lasst uns wandeln im Licht des HERRN!\n"
+    }
+  },
+  "2023-03-21": {
+    "book": {
+      "book_de": "5. Mose",
+      "book_en": "Deuteronomy",
+      "book_he": "דברים",
+      "chapter": "8",
+      "verses": "3"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַֽיְעַנְּךָ֮ וַיַּרְעִבֶךָ֒ וַיַּֽאֲכִֽלְךָ֤ אֶת‪[c]‬ הַמָּן֙ אֲשֶׁ֣ר לֹא־יָדַ֔עְתָּ וְלֹ֥א יָדְע֖וּן אֲבֹתֶ֑יךָ לְמַ֣עַן הוֹדִֽעֲךָ֗ כִּ֠י לֹ֣א עַל־הַלֶּ֤חֶם לְבַדּוֹ֙ יִחְיֶ֣ה הָֽאָדָ֔ם כִּ֛י עַל־כָּל־מוֹצָ֥א פִֽי־יְהוָ֖ה יִחְיֶ֥ה הָאָדָֽם׃"
+      ],
+      "german": "Der Mensch lebt nicht vom Brot allein, sondern von allem, was aus dem Mund des HERRN geht.\n"
+    }
+  },
+  "2023-03-22": {
+    "book": {
+      "book_de": "Hesekiel",
+      "book_en": "Ezekiel",
+      "book_he": "יחזקאל",
+      "chapter": "34",
+      "verses": "16"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אֶת־הָאֹבֶ֤דֶת אֲבַקֵּשׁ֙ וְאֶת־הַנִּדַּ֣חַת אָשִׁ֔יב וְלַנִּשְׁבֶּ֣רֶת אֶחֱבֹ֔שׁ וְאֶת־הַחוֹלָ֖ה אֲחַזֵּ֑ק וְאֶת־הַשְּׁמֵנָ֧ה וְאֶת־הַחֲזָקָ֛ה אַשְׁמִ֖יד אֶרְעֶ֥נָּה בְמִשְׁפָּֽט׃"
+      ],
+      "german": "Ich will das Verlorene wieder suchen und das Verirrte zurückbringen und das Verwundete verbinden und das Schwache stärken.\n"
+    }
+  },
+  "2023-03-23": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "65",
+      "verses": "8"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "מַשְׁבִּ֤יחַ ׀ שְׁא֣וֹן יַ֭מִּים שְׁא֥וֹן גַּלֵּיהֶ֗ם וַהֲמ֥וֹן לְאֻמִּֽים׃"
+      ],
+      "german": "Du stillst das Brausen des Meeres und das Toben der Völker.\n"
+    }
+  },
+  "2023-03-24": {
+    "book": {
+      "book_de": "Jeremia",
+      "book_en": "Jeremiah",
+      "book_he": "ירמיה",
+      "chapter": "35",
+      "verses": "14"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "הוּקַ֡ם אֶת־דִּבְרֵ֣י יְהוֹנָדָ֣ב בֶּן־רֵ֠כָב אֲשֶׁר־צִוָּ֨ה אֶת־בָּנָ֜יו לְבִלְתִּ֣י שְׁתֽוֹת־יַ֗יִן וְלֹ֤א שָׁתוּ֙ עַד־הַיּ֣וֹם הַזֶּ֔ה כִּ֣י שָֽׁמְע֔וּ אֵ֖ת מִצְוַ֣ת אֲבִיהֶ֑ם וְאָ֨נֹכִ֜י דִּבַּ֤רְתִּי אֲלֵיכֶם֙ הַשְׁכֵּ֣ם וְדַבֵּ֔ר וְלֹ֥א שְׁמַעְתֶּ֖ם אֵלָֽי׃"
+      ],
+      "german": "/So spricht der HERR:/ Ich habe zu euch gesprochen, immer wieder mit Eifer gesprochen, ihr aber habt nicht auf mich gehört!\n"
+    }
+  },
+  "2023-03-25": {
+    "book": {
+      "book_de": "Sprüche",
+      "book_en": "Proverbs",
+      "book_he": "משלי",
+      "chapter": "16",
+      "verses": "32"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "ט֤וֹב אֶ֣רֶךְ אַ֭פַּיִם מִגִּבּ֑וֹר וּמֹשֵׁ֥ל בְּ֝רוּח֗וֹ מִלֹּכֵ֥ד עִֽיר׃"
+      ],
+      "german": "Ein Geduldiger ist besser als ein Starker und wer sich selbst beherrscht, besser als einer, der Städte einnimmt.\n"
+    }
+  },
+  "2023-03-26": {
+    "book": {
+      "book_de": "1. Könige",
+      "book_en": "Kings_1",
+      "book_he": "מלכים א",
+      "chapter": "8",
+      "verses": "27"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּ֚י הַֽאֻמְנָ֔ם יֵשֵׁ֥ב אֱלֹהִ֖ים עַל־הָאָ֑רֶץ הִ֠נֵּה הַשָּׁמַ֜יִם וּשְׁמֵ֤י הַשָּׁמַ֙יִם֙ לֹ֣א יְכַלְכְּל֔וּךָ אַ֕ף כִּֽי־הַבַּ֥יִת הַזֶּ֖ה אֲשֶׁ֥ר בָּנִֽיתִי׃"
+      ],
+      "german": "/Salomo sprach bei der Einweihung des Tempels:/ Sollte Gott wirklich auf Erden wohnen?\n"
+    }
+  },
+  "2023-03-27": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "48",
+      "verses": "11"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כְּשִׁמְךָ֤ אֱלֹהִ֗ים כֵּ֣ן תְּ֭הִלָּתְךָ עַל־קַצְוֵי־אֶ֑רֶץ צֶ֝֗דֶק מָלְאָ֥ה יְמִינֶֽךָ׃"
+      ],
+      "german": "Gott, wie dein Name, so ist auch dein Ruhm bis an der Welt Enden.\n"
+    }
+  },
+  "2023-03-28": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "103",
+      "verses": "14"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּי־ה֖וּא יָדַ֣ע יִצְרֵ֑נוּ זָ֝כ֗וּר כִּי־עָפָ֥ר אֲנָֽחְנוּ׃"
+      ],
+      "german": "Er weiß, was für ein Gebilde wir sind; er gedenkt daran, dass wir Staub sind.\n"
+    }
+  },
+  "2023-03-29": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "117",
+      "verses": "1"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "הַֽלְל֣וּ אֶת־יְ֭הוָה כָּל־גּוֹיִ֑ם שַׁ֝בְּח֗וּהוּ כָּל־הָאֻמִּֽים׃"
+      ],
+      "german": "Lobt den HERRN, alle Völker! Rühmt ihn, ihr Nationen alle!\n"
+    }
+  },
+  "2023-03-30": {
+    "book": {
+      "book_de": "Prediger",
+      "book_en": "Ecclesiastes",
+      "book_he": "קהלת",
+      "chapter": "3",
+      "verses": "1"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "לַכֹּ֖ל זְמָ֑ן וְעֵ֥ת לְכָל־חֵ֖פֶץ תַּ֥חַת הַשָּׁמָֽיִם׃ ס"
+      ],
+      "german": "Ein jegliches hat seine Zeit, und alles Vorhaben unter dem Himmel hat seine Stunde.\n"
+    }
+  },
+  "2023-03-31": {
+    "book": {
+      "book_de": "Richter",
+      "book_en": "Judges",
+      "book_he": "שופטים",
+      "chapter": "3",
+      "verses": "9"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַיִּזְעֲק֤וּ בְנֵֽי־יִשְׂרָאֵל֙ אֶל־יְהוָ֔ה וַיָּ֨קֶם יְהוָ֥ה מוֹשִׁ֛יעַ לִבְנֵ֥י יִשְׂרָאֵ֖ל וַיּֽוֹשִׁיעֵ֑ם אֵ֚ת עָתְנִיאֵ֣ל בֶּן־קְנַ֔ז אֲחִ֥י כָלֵ֖ב הַקָּטֹ֥ן מִמֶּֽנּוּ׃"
+      ],
+      "german": "Die Israeliten schrien zu dem HERRN, und der HERR erweckte ihnen einen Retter, der sie errettete.\n"
+    }
+  },
+  "2023-04-01": {
+    "book": {
+      "book_de": "1. Samuel",
+      "book_en": "Samuel_1",
+      "book_he": "שמואל א",
+      "chapter": "12",
+      "verses": "22"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּ֠י לֹֽא־יִטֹּ֤שׁ יְהוָה֙ אֶת־עַמּ֔וֹ בַּעֲב֖וּר שְׁמ֣וֹ הַגָּד֑וֹל כִּ֚י הוֹאִ֣יל יְהוָ֔ה לַעֲשׂ֥וֹת אֶתְכֶ֛ם ל֖וֹ לְעָֽם׃"
+      ],
+      "german": "Der HERR verstößt sein Volk nicht um seines großen Namens willen.\n"
+    }
+  },
+  "2023-04-02": {
+    "book": {
+      "book_de": "Jeremia",
+      "book_en": "Jeremiah",
+      "book_he": "ירמיה",
+      "chapter": "31",
+      "verses": "13"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אָ֣ז תִּשְׂמַ֤ח בְּתוּלָה֙ בְּמָח֔וֹל וּבַחֻרִ֥ים וּזְקֵנִ֖ים יַחְדָּ֑ו וְהָפַכְתִּ֨י אֶבְלָ֤ם לְשָׂשׂוֹן֙ וְנִ֣חַמְתִּ֔ים וְשִׂמַּחְתִּ֖ים מִיגוֹנָֽם׃"
+      ],
+      "german": "Ich will ihr Trauern in Freude verwandeln.\n"
+    }
+  },
+  "2023-04-03": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "16",
+      "verses": "8"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "שִׁוִּ֬יתִי יְהוָ֣ה לְנֶגְדִּ֣י תָמִ֑יד כִּ֥י מִֽ֝ימִינִ֗י בַּל־אֶמּֽוֹט׃"
+      ],
+      "german": "Ich habe den HERRN allezeit vor Augen.\n"
+    }
+  },
+  "2023-04-04": {
+    "book": {
+      "book_de": "Joel",
+      "book_en": "Joel",
+      "book_he": "יואל",
+      "chapter": "2",
+      "verses": "21"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אַל־תִּֽירְאִ֖י אֲדָמָ֑ה גִּ֣ילִי וּשְׂמָ֔חִי כִּֽי־הִגְדִּ֥יל יְהוָ֖ה לַעֲשֽׂוֹת׃"
+      ],
+      "german": "Fürchte dich nicht, liebes Land, sondern sei fröhlich und getrost; denn der HERR hat Großes getan.\n"
+    }
+  },
+  "2023-04-05": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "33",
+      "verses": "5"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אֹ֭הֵב צְדָקָ֣ה וּמִשְׁפָּ֑ט חֶ֥סֶד יְ֝הוָ֗ה מָלְאָ֥ה הָאָֽרֶץ׃"
+      ],
+      "german": "Der HERR liebt Gerechtigkeit und Recht.\n"
+    }
+  },
+  "2023-04-06": {
+    "book": {
+      "book_de": "1. Mose",
+      "book_en": "Genesis",
+      "book_he": "בראשית",
+      "chapter": "8",
+      "verses": "22"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "עֹ֖ד כָּל־יְמֵ֣י הָאָ֑רֶץ זֶ֡רַע וְ֠קָצִיר וְקֹ֨ר וָחֹ֜ם וְקַ֧יִץ וָחֹ֛רֶף וְי֥וֹם וָלַ֖יְלָה לֹ֥א יִשְׁבֹּֽתוּ׃"
+      ],
+      "german": "/Nach dem Ende der Flut sprach Gott:/ Solange die Erde steht, soll nicht aufhören Saat und Ernte, Frost und Hitze, Sommer und Winter, Tag und Nacht.\n"
+    }
+  },
+  "2023-04-07": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "34",
+      "verses": "9"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "טַעֲמ֣וּ וּ֭רְאוּ כִּי־ט֣וֹב יְהוָ֑ה אַֽשְׁרֵ֥י הַ֝גֶּ֗בֶר יֶחֱסֶה־בּֽוֹ׃"
+      ],
+      "german": "Schmecket und sehet, wie freundlich der HERR ist. Wohl dem, der auf ihn trauet!\n"
+    }
+  },
+  "2023-04-08": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "40",
+      "verses": "3"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַיַּעֲלֵ֤נִי ׀ מִבּ֥וֹר שָׁאוֹן֮ מִטִּ֢יט הַיָּ֫וֵ֥ן וַיָּ֖קֶם עַל־סֶ֥לַע רַגְלַ֗י כּוֹנֵ֥ן אֲשֻׁרָֽי׃"
+      ],
+      "german": "Der HERR zog mich aus der grausigen Grube, aus lauter Schmutz und Schlamm, und stellte meine Füße auf einen Fels, dass ich sicher treten kann.\n"
+    }
+  },
+  "2023-04-09": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "3",
+      "verses": "6"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אֲנִ֥י שָׁכַ֗בְתִּי וָֽאִ֫ישָׁ֥נָה הֱקִיצ֑וֹתִי כִּ֖י יְהוָ֣ה יִסְמְכֵֽנִי׃"
+      ],
+      "german": "Ich liege und schlafe und erwache; denn der HERR hält mich.\n"
+    }
+  },
+  "2023-04-10": {
+    "book": {
+      "book_de": "2. Mose",
+      "book_en": "Exodus",
+      "book_he": "שמות",
+      "chapter": "14",
+      "verses": "14"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "יְהוָ֖ה יִלָּחֵ֣ם לָכֶ֑ם וְאַתֶּ֖ם תַּחֲרִישֽׁוּן׃ פ"
+      ],
+      "german": "Der HERR wird für euch streiten, und ihr werdet stille sein.\n"
+    }
+  },
+  "2023-04-11": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "91",
+      "verses": "9"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּֽי־אַתָּ֣ה יְהוָ֣ה מַחְסִ֑י עֶ֝לְי֗וֹן שַׂ֣מְתָּ מְעוֹנֶֽךָ׃"
+      ],
+      "german": "Der HERR ist deine Zuversicht.\n"
+    }
+  },
+  "2023-04-12": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "45",
+      "verses": "12"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אָֽנֹכִי֙ עָשִׂ֣יתִי אֶ֔רֶץ וְאָדָ֖ם עָלֶ֣יהָ בָרָ֑אתִי אֲנִ֗י יָדַי֙ נָט֣וּ שָׁמַ֔יִם וְכָל־צְבָאָ֖ם צִוֵּֽיתִי׃"
+      ],
+      "german": "Ich bin’s, dessen Hände den Himmel ausgebreitet haben und der seinem ganzen Heer geboten hat.\n"
+    }
+  },
+  "2023-04-13": {
+    "book": {
+      "book_de": "Nehemia",
+      "book_en": "Nehemiah",
+      "book_he": "נחמיה",
+      "chapter": "9",
+      "verses": "31"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וּֽבְרַחֲמֶ֧יךָ הָרַבִּ֛ים לֹֽא־עֲשִׂיתָ֥ם כָּלָ֖ה וְלֹ֣א עֲזַבְתָּ֑ם כִּ֛י אֵֽל־חַנּ֥וּן וְרַח֖וּם אָֽתָּה׃"
+      ],
+      "german": "HERR, nach deiner großen Barmherzigkeit hast du mit deinem Volk nicht ein Ende gemacht noch es verlassen.\n"
+    }
+  },
+  "2023-04-14": {
+    "book": {
+      "book_de": "Jeremia",
+      "book_en": "Jeremiah",
+      "book_he": "ירמיה",
+      "chapter": "23",
+      "verses": "5"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "הִנֵּ֨ה יָמִ֤ים בָּאִים֙ נְאֻם־יְהוָ֔ה וַהֲקִמֹתִ֥י לְדָוִ֖ד צֶ֣מַח צַדִּ֑יק וּמָ֤לַךְ מֶ֙לֶךְ֙ וְהִשְׂכִּ֔יל וְעָשָׂ֛ה מִשְׁפָּ֥ט וּצְדָקָ֖ה בָּאָֽרֶץ׃"
+      ],
+      "german": "Siehe, es kommt die Zeit, spricht der HERR, dass ich dem David einen gerechten Spross erwecken will. Der soll ein König sein, der wohl regieren und Recht und Gerechtigkeit im Lande üben wird.\n"
+    }
+  },
+  "2023-04-15": {
+    "book": {
+      "book_de": "Hiob",
+      "book_en": "Job",
+      "book_he": "איוב",
+      "chapter": "9",
+      "verses": "4"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "חֲכַ֣ם לֵ֭בָב וְאַמִּ֣יץ כֹּ֑חַ מִֽי־הִקְשָׁ֥ה אֵ֝לָ֗יו וַיִּשְׁלָֽם׃"
+      ],
+      "german": "Gott ist weise und mächtig; wer stellte sich ihm entgegen und blieb unversehrt?\n"
+    }
+  },
+  "2023-04-16": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "99",
+      "verses": "5"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "רֽוֹמְמ֡וּ יְה֘וָ֤ה אֱלֹהֵ֗ינוּ וְֽ֭הִשְׁתַּחֲווּ לַהֲדֹ֥ם רַגְלָ֗יו קָד֥וֹשׁ הֽוּא׃"
+      ],
+      "german": "Erhebet den HERRN, unsern Gott, betet an vor dem Schemel seiner Füße; denn er ist heilig.\n"
+    }
+  },
+  "2023-04-17": {
+    "book": {
+      "book_de": "Jeremia",
+      "book_en": "Jeremiah",
+      "book_he": "ירמיה",
+      "chapter": "51",
+      "verses": "50"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "פְּלֵטִ֣ים מֵחֶ֔רֶב הִלְכ֖וּ אַֽל־תַּעֲמֹ֑דוּ זִכְר֤וּ מֵֽרָחוֹק֙ אֶת־יְהוָ֔ה וִירֽוּשָׁלַ֖͏ִם תַּעֲלֶ֥ה עַל־לְבַבְכֶֽם׃"
+      ],
+      "german": "Gedenkt des HERRN in fernem Lande und lasst euch Jerusalem im Herzen sein!\n"
+    }
+  },
+  "2023-04-18": {
+    "book": {
+      "book_de": "Zefanja",
+      "book_en": "Zephaniah",
+      "book_he": "צפניה",
+      "chapter": "3",
+      "verses": "15"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "הֵסִ֤יר יְהוָה֙ מִשְׁפָּטַ֔יִךְ פִּנָּ֖ה אֹֽיְבֵ֑ךְ מֶ֣לֶךְ יִשְׂרָאֵ֤ל ׀ יְהוָה֙ בְּקִרְבֵּ֔ךְ לֹא־תִֽירְאִ֥י רָ֖ע עֽוֹד׃"
+      ],
+      "german": "Der HERR, der König Israels, ist bei dir, dass du dich vor keinem Unheil mehr fürchten musst.\n"
+    }
+  },
+  "2023-04-19": {
+    "book": {
+      "book_de": "Sacharja",
+      "book_en": "Zechariah",
+      "book_he": "זכריה",
+      "chapter": "8",
+      "verses": "13"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְהָיָ֡ה כַּאֲשֶׁר֩ הֱיִיתֶ֨ם קְלָלָ֜ה בַּגּוֹיִ֗ם בֵּ֤ית יְהוּדָה֙ וּבֵ֣ית יִשְׂרָאֵ֔ל כֵּ֚ן אוֹשִׁ֣יעַ אֶתְכֶ֔ם וִהְיִיתֶ֖ם בְּרָכָ֑ה אַל־תִּירָ֖אוּ תֶּחֱזַ֥קְנָה יְדֵיכֶֽם׃ ס"
+      ],
+      "german": "Ich will euch retten, dass ihr ein Segen sein sollt.\n"
+    }
+  },
+  "2023-04-20": {
+    "book": {
+      "book_de": "2. Könige",
+      "book_en": "Kings_2",
+      "book_he": "מלכים ב",
+      "chapter": "19",
+      "verses": "34"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְגַנּוֹתִ֛י אֶל־הָעִ֥יר הַזֹּ֖את לְהֽוֹשִׁיעָ֑הּ לְמַֽעֲנִ֔י וּלְמַ֖עַן דָּוִ֥ד עַבְדִּֽי׃"
+      ],
+      "german": "/Der HERR sprach:/ Ich will diese Stadt beschirmen, dass ich sie errette um meinetwillen.\n"
+    }
+  },
+  "2023-04-21": {
+    "book": {
+      "book_de": "2. Mose",
+      "book_en": "Exodus",
+      "book_he": "שמות",
+      "chapter": "20",
+      "verses": "16"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "לֹֽא־תַעֲנֶ֥ה בְרֵעֲךָ֖ עֵ֥ד שָֽׁקֶר׃ ס"
+      ],
+      "german": "Du sollst nicht falsch Zeugnis reden wider deinen Nächsten.\n"
+    }
+  },
+  "2023-04-22": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "39",
+      "verses": "5"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "הוֹדִ֘יעֵ֤נִי יְהוָ֨ה ׀ קִצִּ֗י וּמִדַּ֣ת יָמַ֣י מַה־הִ֑יא אֵ֝דְעָ֗ה מֶה־חָדֵ֥ל אָֽנִי׃"
+      ],
+      "german": "HERR, lehre doch mich, dass es ein Ende mit mir haben muss und mein Leben ein Ziel hat und ich davon muss.\n"
+    }
+  },
+  "2023-04-23": {
+    "book": {
+      "book_de": "Jeremia",
+      "book_en": "Jeremiah",
+      "book_he": "ירמיה",
+      "chapter": "23",
+      "verses": "24"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אִם־יִסָּתֵ֨ר אִ֧ישׁ בַּמִּסְתָּרִ֛ים וַאֲנִ֥י לֹֽא־אֶרְאֶ֖נּוּ נְאֻם־יְהוָ֑ה הֲל֨וֹא אֶת־הַשָּׁמַ֧יִם וְאֶת־הָאָ֛רֶץ אֲנִ֥י מָלֵ֖א נְאֻם־יְהוָֽה׃"
+      ],
+      "german": "Meinst du, dass sich jemand so heimlich verbergen könne, dass ich ihn nicht sehe?, spricht der HERR. Bin ich es nicht, der Himmel und Erde erfüllt?\n"
+    }
+  },
+  "2023-04-24": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "130",
+      "verses": "6"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "נַפְשִׁ֥י לַֽאדֹנָ֑י מִשֹּׁמְרִ֥ים לַ֝בֹּ֗קֶר שֹׁמְרִ֥ים לַבֹּֽקֶר׃"
+      ],
+      "german": "Meine Seele wartet auf den Herrn mehr als die Wächter auf den Morgen.\n"
+    }
+  },
+  "2023-04-25": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "112",
+      "verses": "4"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "זָ֘רַ֤ח בַּחֹ֣שֶׁךְ א֭וֹר לַיְשָׁרִ֑ים חַנּ֖וּן וְרַח֣וּם וְצַדִּֽיק׃"
+      ],
+      "german": "In der Finsternis erstrahlt den Aufrichtigen ein Licht, gnädig, barmherzig und gerecht.\n"
+    }
+  },
+  "2023-04-26": {
+    "book": {
+      "book_de": "Jeremia",
+      "book_en": "Jeremiah",
+      "book_he": "ירמיה",
+      "chapter": "33",
+      "verses": "11"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "ק֣וֹל שָׂשׂ֞וֹן וְק֣וֹל שִׂמְחָ֗ה ק֣וֹל חָתָן֮ וְק֣וֹל כַּלָּה֒ ק֣וֹל אֹמְרִ֡ים הוֹדוּ֩ אֶת־יְהוָ֨ה צְבָא֜וֹת כִּֽי־ט֤וֹב יְהוָה֙ כִּֽי־לְעוֹלָ֣ם חַסְדּ֔וֹ מְבִאִ֥ים תּוֹדָ֖ה בֵּ֣ית יְהוָ֑ה כִּֽי־אָשִׁ֧יב אֶת־שְׁבוּת־הָאָ֛רֶץ כְּבָרִאשֹׁנָ֖ה אָמַ֥ר יְהוָֽה׃ ס"
+      ],
+      "german": "Man wird wieder hören den Jubel der Freude und Wonne, die Stimme des Bräutigams und der Braut und die Stimme derer, die da sagen: »Danket dem HERRN Zebaoth; denn der HERR ist freundlich, und seine Güte währet ewiglich.«\n"
+    }
+  },
+  "2023-04-27": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "44",
+      "verses": "21"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "זְכָר־אֵ֣לֶּה יַעֲקֹ֔ב וְיִשְׂרָאֵ֖ל כִּ֣י עַבְדִּי־אָ֑תָּה יְצַרְתִּ֤יךָ עֶֽבֶד־לִי֙ אַ֔תָּה יִשְׂרָאֵ֖ל לֹ֥א תִנָּשֵֽׁנִי׃"
+      ],
+      "german": "Ich habe dich bereitet, dass du mein Knecht seist. Israel, ich vergesse dich nicht!\n"
+    }
+  },
+  "2023-04-28": {
+    "book": {
+      "book_de": "1. Könige",
+      "book_en": "Kings_1",
+      "book_he": "מלכים א",
+      "chapter": "20",
+      "verses": "11"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַיַּ֤עַן מֶֽלֶךְ־יִשְׂרָאֵל֙ וַיֹּ֣אמֶר דַּבְּר֔וּ אַל־יִתְהַלֵּ֥ל חֹגֵ֖ר כִּמְפַתֵּֽחַ׃"
+      ],
+      "german": "Wer den Harnisch anlegt, soll sich nicht rühmen wie der, der ihn abgelegt hat.\n"
+    }
+  },
+  "2023-04-29": {
+    "book": {
+      "book_de": "5. Mose",
+      "book_en": "Deuteronomy",
+      "book_he": "דברים",
+      "chapter": "26",
+      "verses": "10-11"
+    },
+    "multiple": true,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְעַתָּ֗ה הִנֵּ֤ה הֵבֵ֙אתִי֙ אֶת־רֵאשִׁית֙ פְּרִ֣י הָאֲדָמָ֔ה אֲשֶׁר־נָתַ֥תָּה לִּ֖י יְהוָ֑ה וְהִנַּחְתּ֗וֹ לִפְנֵי֙ יְהוָ֣ה אֱלֹהֶ֔יךָ וְהִֽשְׁתַּחֲוִ֔יתָ לִפְנֵ֖י יְהוָ֥ה אֱלֹהֶֽיךָ׃",
+        "וְשָׂמַחְתָּ֣ בְכָל־הַטּ֗וֹב אֲשֶׁ֧ר נָֽתַן־לְךָ֛ יְהוָ֥ה אֱלֹהֶ֖יךָ וּלְבֵיתֶ֑ךָ אַתָּה֙ וְהַלֵּוִ֔י וְהַגֵּ֖ר אֲשֶׁ֥ר בְּקִרְבֶּֽךָ׃ ס"
+      ],
+      "german": "Du sollst anbeten vor dem HERRN, deinem Gott, und sollst fröhlich sein über alles Gut, das der HERR, dein Gott, dir und deinem Hause gegeben hat.\n"
+    }
+  },
+  "2023-04-30": {
+    "book": {
+      "book_de": "1. Mose",
+      "book_en": "Genesis",
+      "book_he": "בראשית",
+      "chapter": "28",
+      "verses": "16"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַיִּיקַ֣ץ יַעֲקֹב֮ מִשְּׁנָתוֹ֒ וַיֹּ֕אמֶר אָכֵן֙ יֵ֣שׁ יְהוָ֔ה בַּמָּק֖וֹם הַזֶּ֑ה וְאָנֹכִ֖י לֹ֥א יָדָֽעְתִּי׃"
+      ],
+      "german": "Als Jakob von seinem Schlaf aufwachte, sprach er: Fürwahr, der HERR ist an dieser Stätte, und ich wusste es nicht!\n"
+    }
+  },
+  "2023-05-01": {
+    "book": {
+      "book_de": "Daniel",
+      "book_en": "Daniel",
+      "book_he": "דניאל",
+      "chapter": "3",
+      "verses": "33"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אָת֙וֹהִי֙ כְּמָ֣ה רַבְרְבִ֔ין וְתִמְה֖וֹהִי כְּמָ֣ה תַקִּיפִ֑ין מַלְכוּתֵהּ֙ מַלְכ֣וּת עָלַ֔ם וְשָׁלְטָנֵ֖הּ עִם־דָּ֥ר וְדָֽר׃"
+      ],
+      "german": "Wie groß sind Gottes Zeichen und wie mächtig seine Wunder! Sein Reich ist ein ewiges Reich, und seine Herrschaft währet für und für.\n"
+    }
+  },
+  "2023-05-02": {
+    "book": {
+      "book_de": "2. Chronik",
+      "book_en": "Chronicles_2",
+      "book_he": "דברי הימים ב",
+      "chapter": "30",
+      "verses": "18-19"
+    },
+    "multiple": true,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּ֣י מַרְבִּ֣ית הָעָ֡ם רַ֠בַּת מֵֽאֶפְרַ֨יִם וּמְנַשֶּׁ֜ה יִשָּׂשכָ֤ר וּזְבֻלוּן֙ לֹ֣א הִטֶּהָ֔רוּ כִּֽי־אָכְל֥וּ אֶת־הַפֶּ֖סַח בְּלֹ֣א כַכָּת֑וּב כִּי֩ הִתְפַּלֵּ֨ל יְחִזְקִיָּ֤הוּ עֲלֵיהֶם֙ לֵאמֹ֔ר יְהוָ֥ה הַטּ֖וֹב יְכַפֵּ֥ר בְּעַֽד׃",
+        "כָּל־לְבָב֣וֹ הֵכִ֔ין לִדְר֛וֹשׁ הָאֱלֹהִ֥ים ׀ יְהוָ֖ה אֱלֹהֵ֣י אֲבוֹתָ֑יו וְלֹ֖א כְּטָהֳרַ֥ת הַקֹּֽדֶשׁ׃ ס"
+      ],
+      "german": "Der HERR, der gütig ist, wolle gnädig sein allen, die ihr Herz darauf richten, Gott zu suchen.\n"
+    }
+  },
+  "2023-05-03": {
+    "book": {
+      "book_de": "3. Mose",
+      "book_en": "Leviticus",
+      "book_he": "ויקרא",
+      "chapter": "19",
+      "verses": "2"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "דַּבֵּ֞ר אֶל־כָּל־עֲדַ֧ת בְּנֵי־יִשְׂרָאֵ֛ל וְאָמַרְתָּ֥ אֲלֵהֶ֖ם קְדֹשִׁ֣ים תִּהְי֑וּ כִּ֣י קָד֔וֹשׁ אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם׃"
+      ],
+      "german": "Ihr sollt heilig sein, denn ich bin heilig, der HERR, euer Gott.\n"
+    }
+  },
+  "2023-05-04": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "119",
+      "verses": "172"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "תַּ֣עַן לְ֭שׁוֹנִי אִמְרָתֶ֑ךָ כִּ֖י כָל־מִצְוֺתֶ֣יךָ צֶּֽדֶק׃"
+      ],
+      "german": "Meine Zunge soll singen von deinem Wort; denn alle deine Gebote sind gerecht.\n"
+    }
+  },
+  "2023-05-05": {
+    "book": {
+      "book_de": "Sacharja",
+      "book_en": "Zechariah",
+      "book_he": "זכריה",
+      "chapter": "3",
+      "verses": "9"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּ֣י ׀ הִנֵּ֣ה הָאֶ֗בֶן אֲשֶׁ֤ר נָתַ֙תִּי֙ לִפְנֵ֣י יְהוֹשֻׁ֔עַ עַל־אֶ֥בֶן אַחַ֖ת שִׁבְעָ֣ה עֵינָ֑יִם הִנְנִ֧י מְפַתֵּ֣חַ פִּתֻּחָ֗הּ נְאֻם֙ יְהוָ֣ה צְבָא֔וֹת וּמַשְׁתִּ֛י אֶת־עֲוֺ֥ן הָאָֽרֶץ־הַהִ֖יא בְּי֥וֹם אֶחָֽד׃"
+      ],
+      "german": "Ich will die Sünde jenes Landes wegnehmen an einem einzigen Tag.\n"
+    }
+  },
+  "2023-05-06": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "18",
+      "verses": "7"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "בַּצַּר־לִ֤י ׀ אֶֽקְרָ֣א יְהוָה֮ וְאֶל־אֱלֹהַ֢י אֲשַׁ֫וֵּ֥עַ יִשְׁמַ֣ע מֵהֵיכָל֣וֹ קוֹלִ֑י וְ֝שַׁוְעָתִ֗י לְפָנָ֤יו ׀ תָּב֬וֹא בְאָזְנָֽיו׃"
+      ],
+      "german": "Als mir angst war, rief ich den HERRN an und schrie zu meinem Gott. Da erhörte er meine Stimme.\n"
+    }
+  },
+  "2023-05-07": {
+    "book": {
+      "book_de": "Sprüche",
+      "book_en": "Proverbs",
+      "book_he": "משלי",
+      "chapter": "25",
+      "verses": "21-22"
+    },
+    "multiple": true,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אִם־רָעֵ֣ב שֹׂ֭נַאֲךָ הַאֲכִלֵ֣הוּ לָ֑חֶם וְאִם־צָ֝מֵ֗א הַשְׁקֵ֥הוּ מָֽיִם׃",
+        "כִּ֤י גֶֽחָלִ֗ים אַ֭תָּה חֹתֶ֣ה עַל־רֹאשׁ֑וֹ וֽ͏ַ֝יהוָ֗ה יְשַׁלֶּם־לָֽךְ׃"
+      ],
+      "german": "Hungert deinen Feind, so speise ihn mit Brot, dürstet ihn, so tränke ihn mit Wasser, denn du wirst feurige Kohlen auf sein Haupt häufen, und der HERR wird dir’s vergelten.\n"
+    }
+  },
+  "2023-05-08": {
+    "book": {
+      "book_de": "2. Mose",
+      "book_en": "Exodus",
+      "book_he": "שמות",
+      "chapter": "3",
+      "verses": "14"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַיֹּ֤אמֶר אֱלֹהִים֙ אֶל־מֹשֶׁ֔ה אֶֽהְיֶ֖ה אֲשֶׁ֣ר אֶֽהְיֶ֑ה וַיֹּ֗אמֶר כֹּ֤ה תֹאמַר֙ לִבְנֵ֣י יִשְׂרָאֵ֔ל אֶֽהְיֶ֖ה שְׁלָחַ֥נִי אֲלֵיכֶֽם׃"
+      ],
+      "german": "Gott sprach zu Mose: Ich werde sein, der ich sein werde.\n"
+    }
+  },
+  "2023-05-09": {
+    "book": {
+      "book_de": "Daniel",
+      "book_en": "Daniel",
+      "book_he": "דניאל",
+      "chapter": "2",
+      "verses": "44"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וּֽבְיוֹמֵיה֞וֹן דִּ֧י מַלְכַיָּ֣א אִנּ֗וּן יְקִים֩ אֱלָ֨הּ שְׁמַיָּ֤א מַלְכוּ֙ דִּ֤י לְעָלְמִין֙ לָ֣א תִתְחַבַּ֔ל וּמַ֨לְכוּתָ֔ה לְעַ֥ם אָחֳרָ֖ן לָ֣א תִשְׁתְּבִ֑ק תַּדִּ֤ק וְתָסֵיף֙ כָּל־אִלֵּ֣ין מַלְכְוָתָ֔א וְהִ֖יא תְּק֥וּם לְעָלְמַיָּֽא׃"
+      ],
+      "german": "Der Gott des Himmels wird ein Reich aufrichten, das nimmermehr zerstört wird.\n"
+    }
+  },
+  "2023-05-10": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "50",
+      "verses": "2"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "מַדּ֨וּעַ בָּ֜אתִי וְאֵ֣ין אִ֗ישׁ קָרָֽאתִי֮ וְאֵ֣ין עוֹנֶה֒ הֲקָצ֨וֹר קָצְרָ֤ה יָדִי֙ מִפְּד֔וּת וְאִם־אֵֽין־בִּ֥י כֹ֖חַ לְהַצִּ֑יל הֵ֣ן בְּגַעֲרָתִ֞י אַחֲרִ֣יב יָ֗ם אָשִׂ֤ים נְהָרוֹת֙ מִדְבָּ֔ר תִּבְאַ֤שׁ דְּגָתָם֙ מֵאֵ֣ין מַ֔יִם וְתָמֹ֖ת בַּצָּמָֽא׃"
+      ],
+      "german": "Ist mein Arm denn zu kurz, dass er nicht erlösen kann? Oder habe ich keine Kraft, zu erretten?\n"
+    }
+  },
+  "2023-05-11": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "65",
+      "verses": "8"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כֹּ֣ה ׀ אָמַ֣ר יְהוָ֗ה כַּאֲשֶׁ֨ר יִמָּצֵ֤א הַתִּירוֹשׁ֙ בָּֽאֶשְׁכּ֔וֹל וְאָמַר֙ אַל־תַּשְׁחִיתֵ֔הוּ כִּ֥י בְרָכָ֖ה בּ֑וֹ כֵּ֤ן אֶֽעֱשֶׂה֙ לְמַ֣עַן עֲבָדַ֔י לְבִלְתִּ֖י הֽ͏ַשְׁחִ֥ית הַכֹּֽל׃"
+      ],
+      "german": "So spricht der HERR: Wie wenn man noch Saft in der Traube findet und spricht: Verdirb es nicht, denn es ist ein Segen darin!, so will ich um meiner Knechte willen tun, dass ich nicht alles verderbe.\n"
+    }
+  },
+  "2023-05-12": {
+    "book": {
+      "book_de": "Jeremia",
+      "book_en": "Jeremiah",
+      "book_he": "ירמיה",
+      "chapter": "31",
+      "verses": "9"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "בִּבְכִ֣י יָבֹ֗אוּ וּֽבְתַחֲנוּנִים֮ אֽוֹבִילֵם֒ אֽוֹלִיכֵם֙ אֶל־נַ֣חֲלֵי מַ֔יִם בְּדֶ֣רֶךְ יָשָׁ֔ר לֹ֥א יִכָּשְׁל֖וּ בָּ֑הּ כִּֽי־הָיִ֤יתִי לְיִשְׂרָאֵל֙ לְאָ֔ב וְאֶפְרַ֖יִם בְּכֹ֥רִי הֽוּא׃ ס"
+      ],
+      "german": "Sie werden weinend kommen, aber ich will sie trösten und leiten. Ich will sie zu Wasserbächen führen auf ebenem Wege, auf dem sie nicht straucheln; denn ich bin Israels Vater.\n"
+    }
+  },
+  "2023-05-13": {
+    "book": {
+      "book_de": "Jeremia",
+      "book_en": "Jeremiah",
+      "book_he": "ירמיה",
+      "chapter": "15",
+      "verses": "20"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וּנְתַתִּ֜יךָ לָעָ֣ם הַזֶּ֗ה לְחוֹמַ֤ת נְחֹ֙שֶׁת֙ בְּצוּרָ֔ה וְנִלְחֲמ֥וּ אֵלֶ֖יךָ וְלֹא־י֣וּכְלוּ לָ֑ךְ כִּֽי־אִתְּךָ֥ אֲנִ֛י לְהוֹשִֽׁיעֲךָ֥ וּלְהַצִּילֶ֖ךָ נְאֻם־יְהוָֽה׃"
+      ],
+      "german": "Ich bin bei dir, dass ich dir helfe und dich errette, spricht der HERR.\n"
+    }
+  },
+  "2023-05-14": {
+    "book": {
+      "book_de": "Daniel",
+      "book_en": "Daniel",
+      "book_he": "דניאל",
+      "chapter": "6",
+      "verses": "23"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אֱלָהִ֞י שְׁלַ֣ח מַלְאֲכֵ֗הּ וּֽסֲגַ֛ר פֻּ֥ם אַרְיָוָתָ֖א וְלָ֣א חַבְּל֑וּנִי כָּל־קֳבֵ֗ל דִּ֤י קָֽדָמ֙וֹהִי֙ זָכוּ֙ הִשְׁתְּכַ֣חַת לִ֔י וְאַ֤ף *קדמיך **קָֽדָמָךְ֙ מַלְכָּ֔א חֲבוּלָ֖ה לָ֥א עַבְדֵֽת׃"
+      ],
+      "german": "/Daniel sprach:/ Mein Gott hat seinen Engel gesandt, der den Löwen den Rachen zugehalten hat, sodass sie mir kein Leid antun konnten.\n"
+    }
+  },
+  "2023-05-15": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "107",
+      "verses": "3.8"
+    },
+    "multiple": true,
+    "multiple_parts": true,
+    "text": {
+      "hebrew": [
+        "וּֽמֵאֲרָצ֗וֹת קִ֫בְּצָ֥ם מִמִּזְרָ֥ח וּמִֽמַּעֲרָ֑ב מִצָּפ֥וֹן וּמִיָּֽם׃",
+        "יוֹד֣וּ לַיהוָ֣ה חַסְדּ֑וֹ וְ֝נִפְלְאוֹתָ֗יו לִבְנֵ֥י אָדָֽם׃"
+      ],
+      "german": "Die er aus den Ländern zusammengebracht hat von Osten und Westen, von Norden und Süden: Die sollen dem HERRN danken für seine Güte und für seine Wunder, die er an den Menschenkindern tut.\n"
+    }
+  },
+  "2023-05-16": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "107",
+      "verses": "10.13.15"
+    },
+    "multiple": true,
+    "multiple_parts": true,
+    "text": {
+      "hebrew": [
+        "יֹ֭שְׁבֵי חֹ֣שֶׁךְ וְצַלְמָ֑וֶת אֲסִירֵ֖י עֳנִ֣י וּבַרְזֶֽל׃",
+        "וַיִּזְעֲק֣וּ אֶל־יְ֭הוָה בַּצַּ֣ר לָהֶ֑ם מִ֝מְּצֻֽקוֹתֵיהֶ֗ם יוֹשִׁיעֵֽם׃",
+        "יוֹד֣וּ לַיהוָ֣ה חַסְדּ֑וֹ וְ֝נִפְלְאוֹתָ֗יו לִבְנֵ֥י אָדָֽם׃"
+      ],
+      "german": "Die da sitzen mussten in Finsternis und Dunkel, gefangen in Zwang und Eisen, die dann zum HERRN riefen in ihrer Not und er half ihnen aus ihren Ängsten: Die sollen dem HERRN danken für seine Güte und für seine Wunder, die er an den Menschenkindern tut.\n"
+    }
+  },
+  "2023-05-17": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "6",
+      "verses": "2"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "יְֽהוָ֗ה אַל־בְּאַפְּךָ֥ תוֹכִיחֵ֑נִי וְֽאַל־בַּחֲמָתְךָ֥ תְיַסְּרֵֽנִי׃"
+      ],
+      "german": "Ach, HERR, strafe mich nicht in deinem Zorn und züchtige mich nicht in deinem Grimm!\n"
+    }
+  },
+  "2023-05-18": {
+    "book": {
+      "book_de": "Sprüche",
+      "book_en": "Proverbs",
+      "book_he": "משלי",
+      "chapter": "19",
+      "verses": "21"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "רַבּ֣וֹת מַחֲשָׁב֣וֹת בְּלֶב־אִ֑ישׁ וַעֲצַ֥ת יְ֝הוָ֗ה הִ֣יא תָקֽוּם׃"
+      ],
+      "german": "In eines Mannes Herzen sind viele Pläne; aber zustande kommt der Ratschluss des HERRN.\n"
+    }
+  },
+  "2023-05-19": {
+    "book": {
+      "book_de": "1. Samuel",
+      "book_en": "Samuel_1",
+      "book_he": "שמואל א",
+      "chapter": "17",
+      "verses": "47"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְיֵֽדְעוּ֙ כָּל־הַקָּהָ֣ל הַזֶּ֔ה כִּֽי־לֹ֛א בְּחֶ֥רֶב וּבַחֲנִ֖ית יְהוֹשִׁ֣יעַ יְהוָ֑ה כִּ֤י לַֽיהוָה֙ הַמִּלְחָמָ֔ה וְנָתַ֥ן אֶתְכֶ֖ם בְּיָדֵֽנוּ׃"
+      ],
+      "german": "Die Gemeinde werde inne, dass der HERR nicht durch Schwert oder Spieß hilft.\n"
+    }
+  },
+  "2023-05-20": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "65",
+      "verses": "1"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "נִדְרַ֙שְׁתִּי֙ לְל֣וֹא שָׁאָ֔לוּ נִמְצֵ֖אתִי לְלֹ֣א בִקְשֻׁ֑נִי אָמַ֙רְתִּי֙ הִנֵּ֣נִי הִנֵּ֔נִי אֶל־גּ֖וֹי לֹֽא־קֹרָ֥א בִשְׁמִֽי׃"
+      ],
+      "german": "Ich ließ mich suchen von denen, die nicht nach mir fragten, ich ließ mich finden von denen, die mich nicht suchten.\n"
+    }
+  },
+  "2023-05-21": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "51",
+      "verses": "14"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "הָשִׁ֣יבָה לִּ֭י שְׂשׂ֣וֹן יִשְׁעֶ֑ךָ וְר֖וּחַ נְדִיבָ֣ה תִסְמְכֵֽנִי׃"
+      ],
+      "german": "Erfreue mich wieder mit deiner Hilfe, und mit einem willigen Geist rüste mich aus.\n"
+    }
+  },
+  "2023-05-22": {
+    "book": {
+      "book_de": "Prediger",
+      "book_en": "Ecclesiastes",
+      "book_he": "קהלת",
+      "chapter": "8",
+      "verses": "15"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְשִׁבַּ֤חְתִּֽי אֲנִי֙ אֶת־הַשִּׂמְחָ֔ה אֲשֶׁ֨ר אֵֽין־ט֤וֹב לָֽאָדָם֙ תַּ֣חַת הַשֶּׁ֔מֶשׁ כִּ֛י אִם־לֶאֱכ֥וֹל וְלִשְׁתּ֖וֹת וְלִשְׂמ֑וֹחַ וְה֞וּא יִלְוֶ֣נּוּ בַעֲמָל֗וֹ יְמֵ֥י חַיָּ֛יו אֲשֶׁר־נָֽתַן־ל֥וֹ הָאֱלֹהִ֖ים תַּ֥חַת הַשָּֽׁמֶשׁ׃"
+      ],
+      "german": "Ich pries die Freude, dass der Mensch nichts Besseres hat unter der Sonne, als zu essen und zu trinken und fröhlich zu sein. Das bleibt ihm bei seinem Mühen sein Leben lang, das Gott ihm gibt unter der Sonne.\n"
+    }
+  },
+  "2023-05-23": {
+    "book": {
+      "book_de": "5. Mose",
+      "book_en": "Deuteronomy",
+      "book_he": "דברים",
+      "chapter": "5",
+      "verses": "32"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וּשְׁמַרְתֶּ֣ם לַעֲשׂ֔וֹת כַּאֲשֶׁ֥ר צִוָּ֛ה יְהוָ֥ה אֱלֹהֵיכֶ֖ם אֶתְכֶ֑ם לֹ֥א תָסֻ֖רוּ יָמִ֥ין וּשְׂמֹֽאל׃"
+      ],
+      "german": "So habt nun acht, dass ihr tut, wie euch der HERR, euer Gott, geboten hat, und weicht nicht, weder zur Rechten noch zur Linken.\n"
+    }
+  },
+  "2023-05-24": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "142",
+      "verses": "4"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "בְּהִתְעַטֵּ֬ף עָלַ֨י ׀ רוּחִ֗י וְאַתָּה֮ יָדַ֢עְתָּ נְֽתִיבָ֫תִ֥י בְּאֹֽרַח־ז֥וּ אֲהַלֵּ֑ךְ טָמְנ֖וּ פַ֣ח לִֽי׃"
+      ],
+      "german": "Wenn mein Geist in Ängsten ist, so kennst du doch meinen Pfad.\n"
+    }
+  },
+  "2023-05-25": {
+    "book": {
+      "book_de": "Micha",
+      "book_en": "Micah",
+      "book_he": "מיכה",
+      "chapter": "5",
+      "verses": "1"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְאַתָּ֞ה בֵּֽית־לֶ֣חֶם אֶפְרָ֗תָה צָעִיר֙ לִֽהְיוֹת֙ בְּאַלְפֵ֣י יְהוּדָ֔ה מִמְּךָ֙ לִ֣י יֵצֵ֔א לִֽהְי֥וֹת מוֹשֵׁ֖ל בְּיִשְׂרָאֵ֑ל וּמוֹצָאֹתָ֥יו מִקֶּ֖דֶם מִימֵ֥י עוֹלָֽם׃"
+      ],
+      "german": "Und du, Bethlehem Efrata, die du klein bist unter den Tausenden in Juda, aus dir soll mir der kommen, der in Israel Herr sei, dessen Ausgang von Anfang und von Ewigkeit her gewesen ist.\n"
+    }
+  },
+  "2023-05-26": {
+    "book": {
+      "book_de": "Daniel",
+      "book_en": "Daniel",
+      "book_he": "דניאל",
+      "chapter": "9",
+      "verses": "14"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַיִּשְׁקֹ֤ד יְהוָה֙ עַל־הָ֣רָעָ֔ה וַיְבִיאֶ֖הָ עָלֵ֑ינוּ כִּֽי־צַדִּ֞יק יְהוָ֣ה אֱלֹהֵ֗ינוּ עַל־כָּל־מַֽעֲשָׂיו֙ אֲשֶׁ֣ר עָשָׂ֔ה וְלֹ֥א שָׁמַ֖עְנוּ בְּקֹלֽוֹ׃"
+      ],
+      "german": "Der HERR, unser Gott, ist gerecht in allen seinen Werken, die er tut.\n"
+    }
+  },
+  "2023-05-27": {
+    "book": {
+      "book_de": "5. Mose",
+      "book_en": "Deuteronomy",
+      "book_he": "דברים",
+      "chapter": "32",
+      "verses": "4"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "הַצּוּר֙ תָּמִ֣ים פָּעֳל֔וֹ כִּ֥י כָל־דְּרָכָ֖יו מִשְׁפָּ֑ט אֵ֤ל אֱמוּנָה֙ וְאֵ֣ין עָ֔וֶל צַדִּ֥יק וְיָשָׁ֖ר הֽוּא׃"
+      ],
+      "german": "Treu ist Gott und kein Böses an ihm, gerecht und wahrhaftig ist er.\n"
+    }
+  },
+  "2023-05-28": {
+    "book": {
+      "book_de": "Sacharja",
+      "book_en": "Zechariah",
+      "book_he": "זכריה",
+      "chapter": "2",
+      "verses": "9"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַאֲנִ֤י אֶֽהְיֶה־לָּהּ֙ נְאֻם־יְהוָ֔ה ח֥וֹמַת אֵ֖שׁ סָבִ֑יב וּלְכָב֖וֹד אֶֽהְיֶ֥ה בְתוֹכָֽהּ׃ פ"
+      ],
+      "german": "Ich selbst will, spricht der HERR, eine feurige Mauer rings um Jerusalem her sein.\n"
+    }
+  },
+  "2023-05-29": {
+    "book": {
+      "book_de": "Haggai",
+      "book_en": "Haggai",
+      "book_he": "חגי",
+      "chapter": "2",
+      "verses": "8"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "לִ֥י הַכֶּ֖סֶף וְלִ֣י הַזָּהָ֑ב נְאֻ֖ם יְהוָ֥ה צְבָאֽוֹת׃"
+      ],
+      "german": "Mein ist das Silber, und mein ist das Gold, spricht der HERR Zebaoth.\n"
+    }
+  },
+  "2023-05-30": {
+    "book": {
+      "book_de": "4. Mose",
+      "book_en": "Numbers",
+      "book_he": "במדבר",
+      "chapter": "11",
+      "verses": "23"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַיֹּ֤אמֶר יְהוָה֙ אֶל־מֹשֶׁ֔ה הֲיַ֥ד יְהוָ֖ה תִּקְצָ֑ר עַתָּ֥ה תִרְאֶ֛ה הֲיִקְרְךָ֥ דְבָרִ֖י אִם־לֹֽא׃"
+      ],
+      "german": "Ist denn die Hand des HERRN zu kurz?\n"
+    }
+  },
+  "2023-05-31": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "30",
+      "verses": "12"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "הָפַ֣כְתָּ מִסְפְּדִי֮ לְמָח֢וֹל לִ֥י פִּתַּ֥חְתָּ שַׂקִּ֑י וַֽתְּאַזְּרֵ֥נִי שִׂמְחָֽה׃"
+      ],
+      "german": "Du hast mir meine Klage verwandelt in einen Reigen, du hast mir den Sack der Trauer ausgezogen und mich mit Freude gegürtet.\n"
+    }
+  },
+  "2023-06-01": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "25",
+      "verses": "8"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "בִּלַּ֤ע הַמָּ֙וֶת֙ לָנֶ֔צַח וּמָחָ֨ה אֲדֹנָ֧י יְהוִ֛ה דִּמְעָ֖ה מֵעַ֣ל כָּל־פָּנִ֑ים וְחֶרְפַּ֣ת עַמּ֗וֹ יָסִיר֙ מֵעַ֣ל כָּל־הָאָ֔רֶץ כִּ֥י יְהוָ֖ה דִּבֵּֽר׃ פ"
+      ],
+      "german": "Er wird den Tod verschlingen auf ewig.\n"
+    }
+  },
+  "2023-06-02": {
+    "book": {
+      "book_de": "Haggai",
+      "book_en": "Haggai",
+      "book_he": "חגי",
+      "chapter": "2",
+      "verses": "9"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "גָּד֣וֹל יִֽהְיֶ֡ה כְּבוֹד֩ הַבַּ֨יִת הַזֶּ֤ה הָאַֽחֲרוֹן֙ מִן־הָ֣רִאשׁ֔וֹן אָמַ֖ר יְהוָ֣ה צְבָא֑וֹת וּבַמָּק֤וֹם הַזֶּה֙ אֶתֵּ֣ן שָׁל֔וֹם נְאֻ֖ם יְהוָ֥ה צְבָאֽוֹת׃ פ"
+      ],
+      "german": "Ich will Frieden geben an dieser Stätte, spricht der HERR Zebaoth.\n"
+    }
+  },
+  "2023-06-03": {
+    "book": {
+      "book_de": "Sacharja",
+      "book_en": "Zechariah",
+      "book_he": "זכריה",
+      "chapter": "9",
+      "verses": "9"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "גִּילִ֨י מְאֹ֜ד בַּת־צִיּ֗וֹן הָרִ֙יעִי֙ בַּ֣ת יְרוּשָׁלִַ֔ם הִנֵּ֤ה מַלְכֵּךְ֙ יָ֣בוֹא לָ֔ךְ צַדִּ֥יק וְנוֹשָׁ֖ע ה֑וּא עָנִי֙ וְרֹכֵ֣ב עַל־חֲמ֔וֹר וְעַל־עַ֖יִר בֶּן־אֲתֹנֽוֹת׃"
+      ],
+      "german": "Siehe, dein König kommt zu dir, ein Gerechter und ein Helfer, arm und reitet auf einem Esel.\n"
+    }
+  },
+  "2023-06-04": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "145",
+      "verses": "17"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "צַדִּ֣יק יְ֭הוָה בְּכָל־דְּרָכָ֑יו וְ֝חָסִ֗יד בְּכָל־מַעֲשָֽׂיו׃"
+      ],
+      "german": "Der HERR ist gerecht in allen seinen Wegen und gnädig in allen seinen Werken.\n"
+    }
+  },
+  "2023-06-05": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "38",
+      "verses": "19"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "חַ֥י חַ֛י ה֥וּא יוֹדֶ֖ךָ כָּמ֣וֹנִי הַיּ֑וֹם אָ֣ב לְבָנִ֔ים יוֹדִ֖יעַ אֶל־אֲמִתֶּֽךָ׃"
+      ],
+      "german": "Der Vater macht den Kindern deine Treue kund.\n"
+    }
+  },
+  "2023-06-06": {
+    "book": {
+      "book_de": "1. Mose",
+      "book_en": "Genesis",
+      "book_he": "בראשית",
+      "chapter": "2",
+      "verses": "19.20"
+    },
+    "multiple": true,
+    "multiple_parts": true,
+    "text": {
+      "hebrew": [
+        "וַיִּצֶר֩ יְהוָ֨ה אֱלֹהִ֜ים מִן־הָֽאֲדָמָ֗ה כָּל־חַיַּ֤ת הַשָּׂדֶה֙ וְאֵת֙ כָּל־ע֣וֹף הַשָּׁמַ֔יִם וַיָּבֵא֙ אֶל־הָ֣אָדָ֔ם לִרְא֖וֹת מַה־יִּקְרָא־ל֑וֹ וְכֹל֩ אֲשֶׁ֨ר יִקְרָא־ל֧וֹ הֽ͏ָאָדָ֛ם נֶ֥פֶשׁ חַיָּ֖ה ה֥וּא שְׁמֽוֹ׃",
+        "וַיִּקְרָ֨א הָֽאָדָ֜ם שֵׁמ֗וֹת לְכָל־הַבְּהֵמָה֙ וּלְע֣וֹף הַשָּׁמַ֔יִם וּלְכֹ֖ל חַיַּ֣ת הַשָּׂדֶ֑ה וּלְאָדָ֕ם לֹֽא־מָצָ֥א עֵ֖זֶר כְּנֶגְדּֽוֹ׃"
+      ],
+      "german": "Gott der HERR machte aus Erde alle die Tiere auf dem Felde und alle die Vögel unter dem Himmel und brachte sie zu dem Menschen. Und der Mensch gab einem jeden seinen Namen.\n"
+    }
+  },
+  "2023-06-07": {
+    "book": {
+      "book_de": "5. Mose",
+      "book_en": "Deuteronomy",
+      "book_he": "דברים",
+      "chapter": "5",
+      "verses": "33"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "בְּכָל־הַדֶּ֗רֶךְ אֲשֶׁ֨ר צִוָּ֜ה יְהוָ֧ה אֱלֹהֵיכֶ֛ם אֶתְכֶ֖ם תֵּלֵ֑כוּ לְמַ֤עַן תִּֽחְיוּן֙ וְט֣וֹב לָכֶ֔ם וְהַאֲרַכְתֶּ֣ם יָמִ֔ים בָּאָ֖רֶץ אֲשֶׁ֥ר תִּֽירָשֽׁוּן׃"
+      ],
+      "german": "Wandelt auf dem Weg, den euch der HERR, euer Gott, geboten hat, damit ihr leben könnt.\n"
+    }
+  },
+  "2023-06-08": {
+    "book": {
+      "book_de": "Rut",
+      "book_en": "Ruth",
+      "book_he": "רות",
+      "chapter": "2",
+      "verses": "12"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "יְשַׁלֵּ֥ם יְהוָ֖ה פָּעֳלֵ֑ךְ וּתְהִ֨י מַשְׂכֻּרְתֵּ֜ךְ שְׁלֵמָ֗ה מֵעִ֤ם יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁר־בָּ֖את לַחֲס֥וֹת תַּֽחַת־כְּנָפָֽיו׃"
+      ],
+      "german": "/Boas sprach zu Rut:/ Du bist gekommen zu dem HERRN, dass du unter seinen Flügeln Zuflucht hättest.\n"
+    }
+  },
+  "2023-06-09": {
+    "book": {
+      "book_de": "5. Mose",
+      "book_en": "Deuteronomy",
+      "book_he": "דברים",
+      "chapter": "23",
+      "verses": "6"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְלֹֽא־אָבָ֞ה יְהוָ֤ה אֱלֹהֶ֙יךָ֙ לִשְׁמֹ֣עַ אֶל־בִּלְעָ֔ם וַיַּהֲפֹךְ֩ יְהוָ֨ה אֱלֹהֶ֧יךָ לְּךָ֛ אֶת־הַקְּלָלָ֖ה לִבְרָכָ֑ה כִּ֥י אֲהֵֽבְךָ֖ יְהוָ֥ה אֱלֹהֶֽיךָ׃"
+      ],
+      "german": "Der HERR, dein Gott, wandelte dir den Fluch in Segen um, weil dich der HERR, dein Gott, lieb hatte.\n"
+    }
+  },
+  "2023-06-10": {
+    "book": {
+      "book_de": "Jeremia",
+      "book_en": "Jeremiah",
+      "book_he": "ירמיה",
+      "chapter": "31",
+      "verses": "25"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּ֥י הִרְוֵ֖יתִי נֶ֣פֶשׁ עֲיֵפָ֑ה וְכָל־נֶ֥פֶשׁ דָּאֲבָ֖ה מִלֵּֽאתִי׃"
+      ],
+      "german": "Ich will die Müden erquicken und die Verschmachtenden sättigen.\n"
+    }
+  },
+  "2023-06-11": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "31",
+      "verses": "6"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "שׁ֗וּבוּ לַאֲשֶׁ֛ר הֶעְמִ֥יקוּ סָרָ֖ה בְּנֵ֥י יִשְׂרָאֵֽל׃"
+      ],
+      "german": "Kehrt um zum HERRN, von welchem ihr so sehr abgewichen seid!\n"
+    }
+  },
+  "2023-06-12": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "25",
+      "verses": "18"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "רְאֵ֣ה עָ֭נְיִי וַעֲמָלִ֑י וְ֝שָׂ֗א לְכָל־חַטֹּאותָֽי׃"
+      ],
+      "german": "Sieh an meinen Jammer und mein Elend und vergib mir alle meine Sünden!\n"
+    }
+  },
+  "2023-06-13": {
+    "book": {
+      "book_de": "4. Mose",
+      "book_en": "Numbers",
+      "book_he": "במדבר",
+      "chapter": "14",
+      "verses": "17"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְעַתָּ֕ה יִגְדַּל־נָ֖א כֹּ֣חַ אֲדֹנָ֑י כַּאֲשֶׁ֥ר דִּבַּ֖רְתָּ לֵאמֹֽר׃"
+      ],
+      "german": "So lass nun deine Kraft, o Herr, groß werden, wie du gesagt hast.\n"
+    }
+  },
+  "2023-06-14": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "34",
+      "verses": "3"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "בַּ֭יהוָה תִּתְהַלֵּ֣ל נַפְשִׁ֑י יִשְׁמְע֖וּ עֲנָוִ֣ים וְיִשְׂמָֽחוּ׃"
+      ],
+      "german": "Meine Seele soll sich rühmen des HERRN, dass es die Elenden hören und sich freuen.\n"
+    }
+  },
+  "2023-06-15": {
+    "book": {
+      "book_de": "Hesekiel",
+      "book_en": "Ezekiel",
+      "book_he": "יחזקאל",
+      "chapter": "39",
+      "verses": "29"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְלֹֽא־אַסְתִּ֥יר ע֛וֹד פָּנַ֖י מֵהֶ֑ם אֲשֶׁ֨ר שָׁפַ֤כְתִּי אֶת־רוּחִי֙ עַל־בֵּ֣ית יִשְׂרָאֵ֔ל נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה׃ פ"
+      ],
+      "german": "Ich will mein Angesicht nicht mehr vor ihnen verbergen; denn ich habe meinen Geist über das Haus Israel ausgegossen, spricht Gott der HERR.\n"
+    }
+  },
+  "2023-06-16": {
+    "book": {
+      "book_de": "Josua",
+      "book_en": "Joshua",
+      "book_he": "יהושע",
+      "chapter": "22",
+      "verses": "29"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "חָלִילָה֩ לָּ֨נוּ מִמֶּ֜נּוּ לִמְרֹ֣ד בַּֽיהוָ֗ה וְלָשׁ֤וּב הַיּוֹם֙ מֵאַחֲרֵ֣י יְהוָ֔ה לִבְנ֣וֹת מִזְבֵּ֔חַ לְעֹלָ֖ה לְמִנְחָ֣ה וּלְזָ֑בַח מִלְּבַ֗ד מִזְבַּח֙ יְהוָ֣ה אֱלֹהֵ֔ינוּ אֲשֶׁ֖ר לִפְנֵ֥י מִשְׁכָּנֽוֹ׃ פ"
+      ],
+      "german": "Das sei ferne von uns, dass wir uns auflehnen gegen den HERRN und uns heute von ihm abwenden.\n"
+    }
+  },
+  "2023-06-17": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "50",
+      "verses": "1"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "מִזְמ֗וֹר לְאָ֫סָ֥ף אֵ֤ל ׀ אֱ‍ֽלֹהִ֡ים יְֽהוָ֗ה דִּבֶּ֥ר וַיִּקְרָא־אָ֑רֶץ מִמִּזְרַח־שֶׁ֝֗מֶשׁ עַד־מְבֹאֽוֹ׃"
+      ],
+      "german": "Gott, der HERR, der Mächtige, redet und ruft der Welt zu vom Aufgang der Sonne bis zu ihrem Niedergang.\n"
+    }
+  },
+  "2023-06-18": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "89",
+      "verses": "12-13"
+    },
+    "multiple": true,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "לְךָ֣ שָׁ֭מַיִם אַף־לְךָ֥ אָ֑רֶץ תֵּבֵ֥ל וּ֝מְלֹאָ֗הּ אַתָּ֥ה יְסַדְתָּֽם׃",
+        "צָפ֣וֹן וְ֭יָמִין אַתָּ֣ה בְרָאתָ֑ם תָּב֥וֹר וְ֝חֶרְמ֗וֹן בְּשִׁמְךָ֥ יְרַנֵּֽנוּ׃"
+      ],
+      "german": "Himmel und Erde sind dein, du hast gegründet den Erdkreis und was darinnen ist. Nord und Süd hast du geschaffen.\n"
+    }
+  },
+  "2023-06-19": {
+    "book": {
+      "book_de": "Jeremia",
+      "book_en": "Jeremiah",
+      "book_he": "ירמיה",
+      "chapter": "17",
+      "verses": "13"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "מִקְוֵ֤ה יִשְׂרָאֵל֙ יְהוָ֔ה כָּל־עֹזְבֶ֖יךָ יֵבֹ֑שׁוּ *יסורי **וְסוּרַי֙ בָּאָ֣רֶץ יִכָּתֵ֔בוּ כִּ֥י עָזְב֛וּ מְק֥וֹר מַֽיִם־חַיִּ֖ים אֶת־יְהוָֽה׃ ס"
+      ],
+      "german": "Alle, die dich verlassen, müssen zuschanden werden; denn sie verlassen den HERRN, die Quelle des lebendigen Wassers.\n"
+    }
+  },
+  "2023-06-20": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "102",
+      "verses": "18"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "פָּ֭נָה אֶל־תְּפִלַּ֣ת הָעַרְעָ֑ר וְלֹֽא־בָ֝זָ֗ה אֶת־תְּפִלָּתָֽם׃"
+      ],
+      "german": "Der HERR wendet sich zum Gebet der Verlassenen und verschmäht ihr Gebet nicht.\n"
+    }
+  },
+  "2023-06-21": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "25",
+      "verses": "17"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "צָר֣וֹת לְבָבִ֣י הִרְחִ֑יבוּ מִ֝מְּצֽוּקוֹתַ֗י הוֹצִיאֵֽנִי׃"
+      ],
+      "german": "Die Angst meines Herzens ist groß; führe mich aus meinen Nöten!\n"
+    }
+  },
+  "2023-06-22": {
+    "book": {
+      "book_de": "Jeremia",
+      "book_en": "Jeremiah",
+      "book_he": "ירמיה",
+      "chapter": "14",
+      "verses": "21"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אַל־תִּנְאַץ֙ לְמַ֣עַן שִׁמְךָ֔ אַל־תְּנַבֵּ֖ל כִּסֵּ֣א כְבוֹדֶ֑ךָ זְכֹ֕ר אַל־תָּפֵ֥ר בְּרִֽיתְךָ֖ אִתָּֽנוּ׃"
+      ],
+      "german": "HERR, gedenke doch an deinen Bund mit uns und lass ihn nicht aufhören!\n"
+    }
+  },
+  "2023-06-23": {
+    "book": {
+      "book_de": "2. Mose",
+      "book_en": "Exodus",
+      "book_he": "שמות",
+      "chapter": "34",
+      "verses": "10"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַיֹּ֗אמֶר הִנֵּ֣ה אָנֹכִי֮ כֹּרֵ֣ת בְּרִית֒ נֶ֤גֶד כָּֽל־עַמְּךָ֙ אֶעֱשֶׂ֣ה נִפְלָאֹ֔ת אֲשֶׁ֛ר לֹֽא־נִבְרְא֥וּ בְכָל־הָאָ֖רֶץ וּבְכָל־הַגּוֹיִ֑ם וְרָאָ֣ה כָל־הָ֠עָם אֲשֶׁר־אַתָּ֨ה בְקִרְבּ֜וֹ אֶת־מַעֲשֵׂ֤ה יְהוָה֙ כִּֽי־נוֹרָ֣א ה֔וּא אֲשֶׁ֥ר אֲנִ֖י עֹשֶׂ֥ה עִמָּֽךְ׃"
+      ],
+      "german": "Der HERR sprach zu Mose: Das ganze Volk, in dessen Mitte du bist, soll des HERRN Werk sehen.\n"
+    }
+  },
+  "2023-06-24": {
+    "book": {
+      "book_de": "Micha",
+      "book_en": "Micah",
+      "book_he": "מיכה",
+      "chapter": "6",
+      "verses": "8"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "הִגִּ֥יד לְךָ֛ אָדָ֖ם מַה־טּ֑וֹב וּמָֽה־יְהוָ֞ה דּוֹרֵ֣שׁ מִמְּךָ֗ כִּ֣י אִם־עֲשׂ֤וֹת מִשְׁפָּט֙ וְאַ֣הֲבַת חֶ֔סֶד וְהַצְנֵ֥עַ לֶ֖כֶת עִם־אֱלֹהֶֽיךָ׃ פ"
+      ],
+      "german": "Es ist dir gesagt, Mensch, was gut ist und was der HERR von dir fordert: nichts als Gottes Wort halten und Liebe üben und demütig sein vor deinem Gott.\n"
+    }
+  },
+  "2023-06-25": {
+    "book": {
+      "book_de": "Habakuk",
+      "book_en": "Habakkuk",
+      "book_he": "חבקוק",
+      "chapter": "2",
+      "verses": "3"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּ֣י ע֤וֹד חָזוֹן֙ לַמּוֹעֵ֔ד וְיָפֵ֥חַ לַקֵּ֖ץ וְלֹ֣א יְכַזֵּ֑ב אִם־יִתְמַהְמָהּ֙ חַכֵּה־ל֔וֹ כִּֽי־בֹ֥א יָבֹ֖א לֹ֥א יְאַחֵֽר׃"
+      ],
+      "german": "Die Weissagung wird ja noch erfüllt werden zu ihrer Zeit. Wenn sie sich auch hinzieht, so harre ihrer.\n"
+    }
+  },
+  "2023-06-26": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "23",
+      "verses": "4"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "גַּ֤ם כִּֽי־אֵלֵ֨ךְ בְּגֵ֪יא צַלְמָ֡וֶת לֹא־אִ֘ירָ֤א רָ֗ע כִּי־אַתָּ֥ה עִמָּדִ֑י שִׁבְטְךָ֥ וּ֝מִשְׁעַנְתֶּ֗ךָ הֵ֣מָּה יְנַֽחֲמֻֽנִי׃"
+      ],
+      "german": "Ob ich schon wanderte im finstern Tal, fürchte ich kein Unglück; denn du bist bei mir, dein Stecken und Stab trösten mich.\n"
+    }
+  },
+  "2023-06-27": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "49",
+      "verses": "26"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְהַאֲכַלְתִּ֤י אֶת־מוֹנַ֙יִךְ֙ אֶת־בְּשָׂרָ֔ם וְכֶעָסִ֖יס דָּמָ֣ם יִשְׁכָּר֑וּן וְיָדְע֣וּ כָל־בָּשָׂ֗ר כִּ֣י אֲנִ֤י יְהוָה֙ מֽוֹשִׁיעֵ֔ךְ וְגֹאֲלֵ֖ךְ אֲבִ֥יר יַעֲקֹֽב׃ ס"
+      ],
+      "german": "Alles Fleisch soll erfahren, dass ich, der HERR, dein Heiland bin und dein Erlöser.\n"
+    }
+  },
+  "2023-06-28": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "138",
+      "verses": "2"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אֶשְׁתַּחֲוֶ֨ה אֶל־הֵיכַ֪ל קָדְשְׁךָ֡ וְא֘וֹדֶ֤ה אֶת־שְׁמֶ֗ךָ עַל־חַסְדְּךָ֥ וְעַל־אֲמִתֶּ֑ךָ כִּֽי־הִגְדַּ֥לְתָּ עַל־כָּל־שִׁ֝מְךָ֗ אִמְרָתֶֽךָ׃"
+      ],
+      "german": "Ich will deinen Namen preisen für deine Güte und Treue; denn du hast dein Wort herrlich gemacht um deines Namens willen.\n"
+    }
+  },
+  "2023-06-29": {
+    "book": {
+      "book_de": "Jeremia",
+      "book_en": "Jeremiah",
+      "book_he": "ירמיה",
+      "chapter": "20",
+      "verses": "11"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַֽיהוָ֤ה אוֹתִי֙ כְּגִבּ֣וֹר עָרִ֔יץ עַל־כֵּ֛ן רֹדְפַ֥י יִכָּשְׁל֖וּ וְלֹ֣א יֻכָ֑לוּ בֹּ֤שׁוּ מְאֹד֙ כִּֽי־לֹ֣א הִשְׂכִּ֔ילוּ כְּלִמַּ֥ת עוֹלָ֖ם לֹ֥א תִשָּׁכֵֽחַ׃"
+      ],
+      "german": "Der HERR ist bei mir wie ein starker Held.\n"
+    }
+  },
+  "2023-06-30": {
+    "book": {
+      "book_de": "Jeremia",
+      "book_en": "Jeremiah",
+      "book_he": "ירמיה",
+      "chapter": "8",
+      "verses": "4"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְאָמַרְתָּ֣ אֲלֵיהֶ֗ם כֹּ֚ה אָמַ֣ר יְהוָ֔ה הֲיִפְּל֖וּ וְלֹ֣א יָק֑וּמוּ אִם־יָשׁ֖וּב וְלֹ֥א יָשֽׁוּב׃"
+      ],
+      "german": "Wo ist jemand, wenn er fällt, der nicht gern wieder aufstünde? Wo ist jemand, wenn er irregeht, der nicht gern wieder zurechtkäme?\n"
+    }
+  },
+  "2023-07-01": {
+    "book": {
+      "book_de": "Jeremia",
+      "book_en": "Jeremiah",
+      "book_he": "ירמיה",
+      "chapter": "11",
+      "verses": "20"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַֽיהוָ֤ה צְבָאוֹת֙ שֹׁפֵ֣ט צֶ֔דֶק בֹּחֵ֥ן כְּלָי֖וֹת וָלֵ֑ב אֶרְאֶ֤ה נִקְמָֽתְךָ֙ מֵהֶ֔ם כִּ֥י אֵלֶ֖יךָ גִּלִּ֥יתִי אֶת־רִיבִֽי׃ ס"
+      ],
+      "german": "HERR, dir habe ich meine Sache befohlen.\n"
+    }
+  },
+  "2023-07-02": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "119",
+      "verses": "64"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "חַסְדְּךָ֣ יְ֭הוָה מָלְאָ֥ה הָאָ֗רֶץ חֻקֶּ֥יךָ לַמְּדֵֽנִי׃"
+      ],
+      "german": "HERR, die Erde ist voll deiner Güte; lehre mich deine Gebote.\n"
+    }
+  },
+  "2023-07-03": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "103",
+      "verses": "2"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "בָּרֲכִ֣י נַ֭פְשִׁי אֶת־יְהוָ֑ה וְאַל־תִּ֝שְׁכְּחִ֗י כָּל־גְּמוּלָֽיו׃"
+      ],
+      "german": "Lobe den HERRN, meine Seele, und vergiss nicht, was er dir Gutes getan hat.\n"
+    }
+  },
+  "2023-07-04": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "26",
+      "verses": "3"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "יֵ֣צֶר סָמ֔וּךְ תִּצֹּ֖ר שָׁל֣וֹם ׀ שָׁל֑וֹם כִּ֥י בְךָ֖ בָּטֽוּחַ׃"
+      ],
+      "german": "Wer festen Herzens ist, dem bewahrst du Frieden; denn er verlässt sich auf dich.\n"
+    }
+  },
+  "2023-07-05": {
+    "book": {
+      "book_de": "Maleachi",
+      "book_en": "Malachi",
+      "book_he": "מלאכי",
+      "chapter": "3",
+      "verses": "6"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּ֛י אֲנִ֥י יְהוָ֖ה לֹ֣א שָׁנִ֑יתִי וְאַתֶּ֥ם בְּנֵֽי־יַעֲקֹ֖ב לֹ֥א כְלִיתֶֽם׃"
+      ],
+      "german": "Ich, der HERR, wandle mich nicht.\n"
+    }
+  },
+  "2023-07-06": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "25",
+      "verses": "1-2"
+    },
+    "multiple": true,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "לְדָוִ֡ד אֵלֶ֥יךָ יְ֝הוָ֗ה נַפְשִׁ֥י אֶשָּֽׂא׃",
+        "אֱ‍ֽלֹהַ֗י בְּךָ֣ בָ֭טַחְתִּי אַל־אֵב֑וֹשָׁה אַל־יַֽעַלְצ֖וּ אֹיְבַ֣י לִֽי׃"
+      ],
+      "german": "Nach dir, HERR, verlanget mich. Mein Gott, ich hoffe auf dich; lass mich nicht zuschanden werden.\n"
+    }
+  },
+  "2023-07-07": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "90",
+      "verses": "8"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "שת **שַׁתָּ֣ה עֲוֺנֹתֵ֣ינוּ לְנֶגְדֶּ֑ךָ עֲ֝לֻמֵ֗נוּ לִמְא֥וֹר פָּנֶֽיךָ׃"
+      ],
+      "german": "Unsre Missetaten stellst du vor dich, unsre unerkannte Sünde ins Licht vor deinem Angesicht.\n"
+    }
+  },
+  "2023-07-08": {
+    "book": {
+      "book_de": "Sprüche",
+      "book_en": "Proverbs",
+      "book_he": "משלי",
+      "chapter": "10",
+      "verses": "7"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "זֵ֣כֶר צַ֭דִּיק לִבְרָכָ֑ה וְשֵׁ֖ם רְשָׁעִ֣ים יִרְקָֽב׃"
+      ],
+      "german": "Das Andenken des Gerechten bleibt im Segen.\n"
+    }
+  },
+  "2023-07-09": {
+    "book": {
+      "book_de": "Jeremia",
+      "book_en": "Jeremiah",
+      "book_he": "ירמיה",
+      "chapter": "30",
+      "verses": "20"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְהָי֤וּ בָנָיו֙ כְּקֶ֔דֶם וַעֲדָת֖וֹ לְפָנַ֣י תִּכּ֑וֹן וּפָ֣קַדְתִּ֔י עַ֖ל כָּל־לֹחֲצָֽיו׃"
+      ],
+      "german": "Ihre Gemeinde soll vor mir fest gegründet stehen.\n"
+    }
+  },
+  "2023-07-10": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "95",
+      "verses": "6"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "בֹּ֭אוּ נִשְׁתַּחֲוֶ֣ה וְנִכְרָ֑עָה נִ֝בְרְכָ֗ה לִֽפְנֵי־יְהוָ֥ה עֹשֵֽׂנוּ׃"
+      ],
+      "german": "Kommt, lasst uns anbeten und knien und niederfallen vor dem HERRN, der uns gemacht hat.\n"
+    }
+  },
+  "2023-07-11": {
+    "book": {
+      "book_de": "Prediger",
+      "book_en": "Ecclesiastes",
+      "book_he": "קהלת",
+      "chapter": "3",
+      "verses": "22"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְרָאִ֗יתִי כִּ֣י אֵ֥ין טוֹב֙ מֵאֲשֶׁ֨ר יִשְׂמַ֤ח הָאָדָם֙ בְּֽמַעֲשָׂ֔יו כִּי־ה֖וּא חֶלְק֑וֹ כִּ֣י מִ֤י יְבִיאֶ֙נּוּ֙ לִרְא֔וֹת בְּמֶ֖ה שֶׁיִּהְיֶ֥ה אַחֲרָֽיו׃"
+      ],
+      "german": "Es gibt nichts Besseres, als dass ein Mensch fröhlich sei in seiner Arbeit; denn das ist sein Teil.\n"
+    }
+  },
+  "2023-07-12": {
+    "book": {
+      "book_de": "Joel",
+      "book_en": "Joel",
+      "book_he": "יואל",
+      "chapter": "2",
+      "verses": "17"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "בֵּ֤ין הָאוּלָם֙ וְלַמִּזְבֵּ֔חַ יִבְכּוּ֙ הַכֹּ֣הֲנִ֔ים מְשָׁרְתֵ֖י יְהוָ֑ה וְֽיֹאמְר֞וּ ח֧וּסָה יְהוָ֣ה עַל־עַמֶּ֗ךָ וְאַל־תִּתֵּ֨ן נַחֲלָתְךָ֤ לְחֶרְפָּה֙ לִמְשָׁל־בָּ֣ם גּוֹיִ֔ם לָ֚מָּה יֹאמְר֣וּ בָֽעַמִּ֔ים אַיֵּ֖ה אֱלֹהֵיהֶֽם׃"
+      ],
+      "german": "HERR, schone dein Volk und lass dein Erbteil nicht zuschanden werden!\n"
+    }
+  },
+  "2023-07-13": {
+    "book": {
+      "book_de": "1. Mose",
+      "book_en": "Genesis",
+      "book_he": "בראשית",
+      "chapter": "37",
+      "verses": "22"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַיֹּ֨אמֶר אֲלֵהֶ֣ם ׀ רְאוּבֵן֮ אַל־תִּשְׁפְּכוּ־דָם֒ הַשְׁלִ֣יכוּ אֹת֗וֹ אֶל־הַבּ֤וֹר הַזֶּה֙ אֲשֶׁ֣ר בַּמִּדְבָּ֔ר וְיָ֖ד אַל־תִּשְׁלְחוּ־ב֑וֹ לְמַ֗עַן הַצִּ֤יל אֹתוֹ֙ מִיָּדָ֔ם לַהֲשִׁיב֖וֹ אֶל־אָבִֽיו׃"
+      ],
+      "german": "Ruben sprach zu seinen Brüdern: Vergießt nicht Blut!\n"
+    }
+  },
+  "2023-07-14": {
+    "book": {
+      "book_de": "5. Mose",
+      "book_en": "Deuteronomy",
+      "book_he": "דברים",
+      "chapter": "14",
+      "verses": "2"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּ֣י עַ֤ם קָדוֹשׁ֙ אַתָּ֔ה לַיהוָ֖ה אֱלֹהֶ֑יךָ וּבְךָ֞ בָּחַ֣ר יְהוָ֗ה לִֽהְי֥וֹת לוֹ֙ לְעַ֣ם סְגֻלָּ֔ה מִכֹּל֙ הָֽעַמִּ֔ים אֲשֶׁ֖ר עַל־פְּנֵ֥י הָאֲדָמָֽה׃ ס"
+      ],
+      "german": "Du bist ein heiliges Volk dem HERRN, deinem Gott, und der HERR hat dich erwählt, dass du sein Eigentum seist, aus allen Völkern, die auf Erden sind.\n"
+    }
+  },
+  "2023-07-15": {
+    "book": {
+      "book_de": "1. Mose",
+      "book_en": "Genesis",
+      "book_he": "בראשית",
+      "chapter": "31",
+      "verses": "42"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "לוּלֵ֡י אֱלֹהֵ֣י אָבִי֩ אֱלֹהֵ֨י אַבְרָהָ֜ם וּפַ֤חַד יִצְחָק֙ הָ֣יָה לִ֔י כִּ֥י עַתָּ֖ה רֵיקָ֣ם שִׁלַּחְתָּ֑נִי אֶת־עָנְיִ֞י וְאֶת־יְגִ֧יעַ כַּפַּ֛י רָאָ֥ה אֱלֹהִ֖ים וַיּ֥וֹכַח אָֽמֶשׁ׃"
+      ],
+      "german": "Gott hat mein Elend und meine Mühe angesehen.\n"
+    }
+  },
+  "2023-07-16": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "25",
+      "verses": "8"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "בִּלַּ֤ע הַמָּ֙וֶת֙ לָנֶ֔צַח וּמָחָ֨ה אֲדֹנָ֧י יְהוִ֛ה דִּמְעָ֖ה מֵעַ֣ל כָּל־פָּנִ֑ים וְחֶרְפַּ֣ת עַמּ֗וֹ יָסִיר֙ מֵעַ֣ל כָּל־הָאָ֔רֶץ כִּ֥י יְהוָ֖ה דִּבֵּֽר׃ פ"
+      ],
+      "german": "Gott der HERR wird die Tränen von allen Angesichtern abwischen.\n"
+    }
+  },
+  "2023-07-17": {
+    "book": {
+      "book_de": "Hosea",
+      "book_en": "Hosea",
+      "book_he": "הושע",
+      "chapter": "8",
+      "verses": "12"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אכתוב־**אֶ֨כְתָּב־ל֔וֹ *רבו **רֻבֵּ֖י תּֽוֹרָתִ֑י כְּמוֹ־זָ֖ר נֶחְשָֽׁבוּ׃"
+      ],
+      "german": "Wenn ich auch noch so viele meiner Gebote aufschreibe, so werden sie doch geachtet wie eine fremde Lehre.\n"
+    }
+  },
+  "2023-07-18": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "150",
+      "verses": "2"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "הַֽלְל֥וּהוּ בִגְבוּרֹתָ֑יו הֽ͏ַ֝לְל֗וּהוּ כְּרֹ֣ב גֻּדְלֽוֹ׃"
+      ],
+      "german": "Lobet Gott für seine Taten, lobet ihn in seiner großen Herrlichkeit!\n"
+    }
+  },
+  "2023-07-19": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "74",
+      "verses": "2"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "זְכֹ֤ר עֲדָתְךָ֨ ׀ קָ֘נִ֤יתָ קֶּ֗דֶם גָּ֭אַלְתָּ שֵׁ֣בֶט נַחֲלָתֶ֑ךָ הַר־צִ֝יּ֗וֹן זֶ֤ה ׀ שָׁכַ֬נְתָּ בּֽוֹ׃"
+      ],
+      "german": "Gott, gedenke an deine Gemeinde, die du vorzeiten erworben und dir zum Erbteil erlöst hast.\n"
+    }
+  },
+  "2023-07-20": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "62",
+      "verses": "8"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "עַל־אֱ֭לֹהִים יִשְׁעִ֣י וּכְבוֹדִ֑י צוּר־עֻזִּ֥י מַ֝חְסִ֗י בֵּֽאלֹהִֽים׃"
+      ],
+      "german": "Bei Gott ist mein Heil und meine Ehre.\n"
+    }
+  },
+  "2023-07-21": {
+    "book": {
+      "book_de": "2. Chronik",
+      "book_en": "Chronicles_2",
+      "book_he": "דברי הימים ב",
+      "chapter": "5",
+      "verses": "13.14"
+    },
+    "multiple": true,
+    "multiple_parts": true,
+    "text": {
+      "hebrew": [
+        "וַיְהִ֣י כְ֠אֶחָד *למחצצרים **לַמְחַצְּרִ֨ים וְלַמְשֹֽׁרֲרִ֜ים לְהַשְׁמִ֣יעַ קוֹל־אֶחָ֗ד לְהַלֵּ֣ל וּלְהֹדוֹת֮ לַיהוָה֒ וּכְהָרִ֣ים ק֠וֹל בַּחֲצֹצְר֨וֹת וּבִמְצִלְתַּ֜יִם וּבִכְלֵ֣י הַשִּׁ֗יר וּבְהַלֵּ֤ל לַיהוָה֙ כִּ֣י ט֔וֹב כִּ֥י לְעוֹלָ֖ם חַסְדּ֑וֹ וְהַבַּ֛יִת מָלֵ֥א עָנָ֖ן בֵּ֥ית יְהוָֽה׃",
+        "וְלֹא־יֽ͏ָכְל֧וּ הַכֹּהֲנִ֛ים לַעֲמ֥וֹד לְשָׁרֵ֖ת מִפְּנֵ֣י הֶעָנָ֑ן כִּֽי־מָלֵ֥א כְבוֹד־יְהוָ֖ה אֶת־בֵּ֥ית הָאֱלֹהִֽים׃ פ"
+      ],
+      "german": "Als sich die Stimme der Trompeten, Zimbeln und Saitenspiele erhob und man den HERRN lobte: »Er ist gütig, und seine Barmherzigkeit währt ewig«, da erfüllte die Herrlichkeit des HERRN das Haus Gottes.\n"
+    }
+  },
+  "2023-07-22": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "25",
+      "verses": "9"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְאָמַר֙ בַּיּ֣וֹם הַה֔וּא הִנֵּ֨ה אֱלֹהֵ֥ינוּ זֶ֛ה קִוִּ֥ינוּ ל֖וֹ וְיֽוֹשִׁיעֵ֑נוּ זֶ֤ה יְהוָה֙ קִוִּ֣ינוּ ל֔וֹ נָגִ֥ילָה וְנִשְׂמְחָ֖ה בִּישׁוּעָתֽוֹ׃"
+      ],
+      "german": "Das ist der HERR, auf den wir hofften; lasst uns jubeln und fröhlich sein über sein Heil.\n"
+    }
+  },
+  "2023-07-23": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "5",
+      "verses": "13"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּֽי־אַתָּה֮ תְּבָרֵ֢ךְ צַ֫דִּ֥יק יְהוָ֑ה כַּ֝צִּנָּ֗ה רָצ֥וֹן תַּעְטְרֶֽנּוּ׃"
+      ],
+      "german": "Du, HERR, segnest die Gerechten, du deckest sie mit Gnade wie mit einem Schilde.\n"
+    }
+  },
+  "2023-07-24": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "23",
+      "verses": "3"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "נַפְשִׁ֥י יְשׁוֹבֵ֑ב יַֽנְחֵ֥נִי בְמַעְגְּלֵי־צֶ֝֗דֶק לְמַ֣עַן שְׁמֽוֹ׃"
+      ],
+      "german": "Er führet mich auf rechter Straße um seines Namens willen.\n"
+    }
+  },
+  "2023-07-25": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "35",
+      "verses": "18"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "א֭וֹדְךָ בְּקָהָ֣ל רָ֑ב בְּעַ֖ם עָצ֣וּם אֲהַֽלְלֶֽךָּ׃"
+      ],
+      "german": "Ich will dir danken in großer Gemeinde; unter vielem Volk will ich dich rühmen.\n"
+    }
+  },
+  "2023-07-26": {
+    "book": {
+      "book_de": "1. Mose",
+      "book_en": "Genesis",
+      "book_he": "בראשית",
+      "chapter": "3",
+      "verses": "8"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַֽיִּשְׁמְע֞וּ אֶת־ק֨וֹל יְהוָ֧ה אֱלֹהִ֛ים מִתְהַלֵּ֥ךְ בַּגָּ֖ן לְר֣וּחַ הַיּ֑וֹם וַיִּתְחַבֵּ֨א הָֽאָדָ֜ם וְאִשְׁתּ֗וֹ מִפְּנֵי֙ יְהוָ֣ה אֱלֹהִ֔ים בְּת֖וֹךְ עֵ֥ץ הַגָּֽן׃"
+      ],
+      "german": "Adam versteckte sich mit seiner Frau vor dem Angesicht Gottes des HERRN.\n"
+    }
+  },
+  "2023-07-27": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "43",
+      "verses": "11"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אָנֹכִ֥י אָנֹכִ֖י יְהוָ֑ה וְאֵ֥ין מִבַּלְעָדַ֖י מוֹשִֽׁיעַ׃"
+      ],
+      "german": "Ich, ich bin der HERR, und außer mir ist kein Heiland.\n"
+    }
+  },
+  "2023-07-28": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "97",
+      "verses": "10"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אֹהֲבֵ֥י יְהוָ֗ה שִׂנְא֫וּ רָ֥ע שֹׁ֭מֵר נַפְשׁ֣וֹת חֲסִידָ֑יו מִיַּ֥ד רְ֝שָׁעִ֗ים יַצִּילֵֽם׃"
+      ],
+      "german": "Die ihr den HERRN liebet, hasset das Arge!\n"
+    }
+  },
+  "2023-07-29": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "77",
+      "verses": "3"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "בְּי֥וֹם צָרָתִי֮ אֲדֹנָ֢י דָּ֫רָ֥שְׁתִּי יָדִ֤י ׀ לַ֣יְלָה נִ֭גְּרָה וְלֹ֣א תָפ֑וּג מֵאֲנָ֖ה הִנָּחֵ֣ם נַפְשִֽׁי׃"
+      ],
+      "german": "In der Zeit meiner Not suche ich den Herrn; meine Hand ist des Nachts ausgereckt und lässt nicht ab.\n"
+    }
+  },
+  "2023-07-30": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "119",
+      "verses": "26"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "דְּרָכַ֣י סִ֭פַּרְתִּי וַֽתַּעֲנֵ֗נִי לַמְּדֵ֥נִי חֻקֶּֽיךָ׃"
+      ],
+      "german": "Ich erzähle dir meine Wege, und du erhörst mich; lehre mich deine Gebote.\n"
+    }
+  },
+  "2023-07-31": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "25",
+      "verses": "7"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "חַטֹּ֤אות נְעוּרַ֨י ׀ וּפְשָׁעַ֗י אַל־תִּ֫זְכֹּ֥ר כְּחַסְדְּךָ֥ זְכָר־לִי־אַ֑תָּה לְמַ֖עַן טוּבְךָ֣ יְהוָֽה׃"
+      ],
+      "german": "Gedenke nicht der Sünden meiner Jugend und meiner Übertretungen, gedenke aber meiner nach deiner Barmherzigkeit, HERR, um deiner Güte willen!\n"
+    }
+  },
+  "2023-08-01": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "73",
+      "verses": "28"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַאֲנִ֤י ׀ קִֽרֲבַ֥ת אֱלֹהִ֗ים לִ֫י־ט֥וֹב שַׁתִּ֤י ׀ בַּאדֹנָ֣י יְהֹוִ֣ה מַחְסִ֑י לְ֝סַפֵּ֗ר כָּל־מַלְאֲכוֹתֶֽיךָ׃"
+      ],
+      "german": "Das ist meine Freude, dass ich mich zu Gott halte und meine Zuversicht setze auf Gott den HERRN, dass ich verkündige all dein Tun.\n"
+    }
+  },
+  "2023-08-02": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "118",
+      "verses": "5"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "מִֽן־הַ֭מֵּצַ֥ר קָרָ֣אתִי יָּ֑הּ עָנָ֖נִי בַמֶּרְחָ֣ב יָֽהּ׃"
+      ],
+      "german": "In der Angst rief ich den HERRN an; und der HERR erhörte mich und tröstete mich.\n"
+    }
+  },
+  "2023-08-03": {
+    "book": {
+      "book_de": "Hosea",
+      "book_en": "Hosea",
+      "book_he": "הושע",
+      "chapter": "6",
+      "verses": "4"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "מָ֤ה אֶֽעֱשֶׂה־לְּךָ֙ אֶפְרַ֔יִם מָ֥ה אֶעֱשֶׂה־לְּךָ֖ יְהוּדָ֑ה וְחַסְדְּכֶם֙ כַּֽעֲנַן־בֹּ֔קֶר וְכַטַּ֖ל מַשְׁכִּ֥ים הֹלֵֽךְ׃"
+      ],
+      "german": "Eure Liebe ist wie der Tau, der frühmorgens vergeht!\n"
+    }
+  },
+  "2023-08-04": {
+    "book": {
+      "book_de": "Prediger",
+      "book_en": "Ecclesiastes",
+      "book_he": "קהלת",
+      "chapter": "5",
+      "verses": "1"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אַל־תְּבַהֵ֨ל עַל־פִּ֜יךָ וְלִבְּךָ֧ אַל־יְמַהֵ֛ר לְהוֹצִ֥יא דָבָ֖ר לִפְנֵ֣י הָאֱלֹהִ֑ים כִּ֣י הָאֱלֹהִ֤ים בַּשָּׁמַ֙יִם֙ וְאַתָּ֣ה עַל־הָאָ֔רֶץ עַֽל־כֵּ֛ן יִהְי֥וּ דְבָרֶ֖יךָ מְעַטִּֽים׃"
+      ],
+      "german": "Sei nicht schnell mit deinem Munde und lass dein Herz nicht eilen, etwas zu reden vor Gott; denn Gott ist im Himmel und du auf Erden; darum lass deiner Worte wenig sein.\n"
+    }
+  },
+  "2023-08-05": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "5",
+      "verses": "2.3"
+    },
+    "multiple": true,
+    "multiple_parts": true,
+    "text": {
+      "hebrew": [
+        "אֲמָרַ֖י הַאֲזִ֥ינָה ׀ יְהוָ֗ה בִּ֣ינָה הֲגִֽיגִי׃",
+        "הַקְשִׁ֤יבָה ׀ לְק֬וֹל שַׁוְעִ֗י מַלְכִּ֥י וֵאלֹהָ֑י כִּֽי־אֵ֝לֶ֗יךָ אֶתְפַּלָּֽל׃"
+      ],
+      "german": "HERR, höre meine Worte, merke auf mein Seufzen! Vernimm mein Schreien; denn ich will zu dir beten.\n"
+    }
+  },
+  "2023-08-06": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "22",
+      "verses": "5"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "בְּ֭ךָ בָּטְח֣וּ אֲבֹתֵ֑ינוּ בָּ֝טְח֗וּ וַֽתְּפַלְּטֵֽמוֹ׃"
+      ],
+      "german": "Unsere Väter hofften auf dich; und da sie hofften, halfst du ihnen heraus.\n"
+    }
+  },
+  "2023-08-07": {
+    "book": {
+      "book_de": "1. Mose",
+      "book_en": "Genesis",
+      "book_he": "בראשית",
+      "chapter": "39",
+      "verses": "20.21"
+    },
+    "multiple": true,
+    "multiple_parts": true,
+    "text": {
+      "hebrew": [
+        "וַיִּקַּח֩ אֲדֹנֵ֨י יוֹסֵ֜ף אֹת֗וֹ וַֽיִּתְּנֵ֙הוּ֙ אֶל־בֵּ֣ית הַסֹּ֔הַר מְק֕וֹם אֲשֶׁר־*אסורי **אֲסִירֵ֥י הַמֶּ֖לֶךְ אֲסוּרִ֑ים וֽ͏ַיְהִי־שָׁ֖ם בְּבֵ֥ית הַסֹּֽהַר׃",
+        "וַיְהִ֤י יְהוָה֙ אֶת־יוֹסֵ֔ף וַיֵּ֥ט אֵלָ֖יו חָ֑סֶד וַיִּתֵּ֣ן חִנּ֔וֹ בְּעֵינֵ֖י שַׂ֥ר בֵּית־הַסֹּֽהַר׃"
+      ],
+      "german": "Josef blieb im Gefängnis, aber der HERR war mit ihm.\n"
+    }
+  },
+  "2023-08-08": {
+    "book": {
+      "book_de": "Jeremia",
+      "book_en": "Jeremiah",
+      "book_he": "ירמיה",
+      "chapter": "31",
+      "verses": "14"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְרִוֵּיתִ֛י נֶ֥פֶשׁ הַכֹּהֲנִ֖ים דָּ֑שֶׁן וְעַמִּ֛י אֶת־טוּבִ֥י יִשְׂבָּ֖עוּ נְאֻם־יְהוָֽה׃ ס"
+      ],
+      "german": "Mein Volk soll meiner Gaben die Fülle haben, spricht der HERR.\n"
+    }
+  },
+  "2023-08-09": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "119",
+      "verses": "165"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "שָׁל֣וֹם רָ֭ב לְאֹהֲבֵ֣י תוֹרָתֶ֑ךָ וְאֵֽין־לָ֥מוֹ מִכְשֽׁוֹל׃"
+      ],
+      "german": "Großen Frieden haben, die dein Gesetz lieben; sie werden nicht straucheln.\n"
+    }
+  },
+  "2023-08-10": {
+    "book": {
+      "book_de": "Habakuk",
+      "book_en": "Habakkuk",
+      "book_he": "חבקוק",
+      "chapter": "2",
+      "verses": "4"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "הִנֵּ֣ה עֻפְּלָ֔ה לֹא־יָשְׁרָ֥ה נַפְשׁ֖וֹ בּ֑וֹ וְצַדִּ֖יק בֶּאֱמוּנָת֥וֹ יִחְיֶֽה׃"
+      ],
+      "german": "Siehe, wer halsstarrig ist, der wird keine Ruhe in seinem Herzen haben, der Gerechte aber wird durch seinen Glauben leben.\n"
+    }
+  },
+  "2023-08-11": {
+    "book": {
+      "book_de": "Daniel",
+      "book_en": "Daniel",
+      "book_he": "דניאל",
+      "chapter": "2",
+      "verses": "22"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "ה֛וּא גָּלֵ֥א עַמִּיקָתָ֖א וּמְסַתְּרָתָ֑א יָדַע֙ מָ֣ה בַחֲשׁוֹכָ֔א *ונהירא **וּנְהוֹרָ֖א עִמֵּ֥הּ שְׁרֵֽא׃"
+      ],
+      "german": "Gott weiß, was in der Finsternis ist, und bei ihm wohnt das Licht.\n"
+    }
+  },
+  "2023-08-12": {
+    "book": {
+      "book_de": "1. Samuel",
+      "book_en": "Samuel_1",
+      "book_he": "שמואל א",
+      "chapter": "2",
+      "verses": "1"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַתִּתְפַּלֵּ֤ל חַנָּה֙ וַתֹּאמַ֔ר עָלַ֤ץ לִבִּי֙ בַּֽיהוָ֔ה רָ֥מָה קַרְנִ֖י בַּֽיהוָ֑ה רָ֤חַב פִּי֙ עַל־א֣וֹיְבַ֔י כִּ֥י שָׂמַ֖חְתִּי בִּישׁוּעָתֶֽךָ׃"
+      ],
+      "german": "Mein Herz ist fröhlich in dem HERRN.\n"
+    }
+  },
+  "2023-08-13": {
+    "book": {
+      "book_de": "Hiob",
+      "book_en": "Job",
+      "book_he": "איוב",
+      "chapter": "9",
+      "verses": "10"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "עֹשֶׂ֣ה גְ֭דֹלוֹת עַד־אֵ֣ין חֵ֑קֶר וְ֝‪[t]‬נִפְלָא֗וֹת עַד־אֵ֥ין מִסְפָּֽר׃"
+      ],
+      "german": "Gott tut große Dinge, die nicht zu erforschen, und Wunder, die nicht zu zählen sind.\n"
+    }
+  },
+  "2023-08-14": {
+    "book": {
+      "book_de": "Sprüche",
+      "book_en": "Proverbs",
+      "book_he": "משלי",
+      "chapter": "31",
+      "verses": "8"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "פְּתַח־פִּ֥יךָ לְאִלֵּ֑ם אֶל־דִּ֝֗ין כָּל־בְּנֵ֥י חֲלֽוֹף׃"
+      ],
+      "german": "Tu deinen Mund auf für die Stummen und für die Sache aller, die verlassen sind.\n"
+    }
+  },
+  "2023-08-15": {
+    "book": {
+      "book_de": "Sprüche",
+      "book_en": "Proverbs",
+      "book_he": "משלי",
+      "chapter": "16",
+      "verses": "7"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "בִּרְצ֣וֹת יְ֭הוָה דַּרְכֵי־אִ֑ישׁ גַּם־א֝וֹיְבָ֗יו יַשְׁלִ֥ם אִתּֽוֹ׃"
+      ],
+      "german": "Wenn eines Menschen Wege dem HERRN wohlgefallen, so lässt er auch seine Feinde mit ihm Frieden machen.\n"
+    }
+  },
+  "2023-08-16": {
+    "book": {
+      "book_de": "1. Chronik",
+      "book_en": "Chronicles_1",
+      "book_he": "דברי הימים א",
+      "chapter": "29",
+      "verses": "15"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּֽי־גֵרִ֨ים אֲנַ֧חְנוּ לְפָנֶ֛יךָ וְתוֹשָׁבִ֖ים כְּכָל־אֲבֹתֵ֑ינוּ כַּצֵּ֧ל ׀ יָמֵ֛ינוּ עַל־הָאָ֖רֶץ וְאֵ֥ין מִקְוֶֽה׃"
+      ],
+      "german": "Wir sind Fremdlinge und Gäste vor dir wie unsere Väter alle. Unser Leben auf Erden ist wie ein Schatten und bleibet nicht.\n"
+    }
+  },
+  "2023-08-17": {
+    "book": {
+      "book_de": "Richter",
+      "book_en": "Judges",
+      "book_he": "שופטים",
+      "chapter": "8",
+      "verses": "23"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַיֹּ֤אמֶר אֲלֵהֶם֙ גִּדְע֔וֹן לֹֽא־אֶמְשֹׁ֤ל אֲנִי֙ בָּכֶ֔ם וְלֹֽא־יִמְשֹׁ֥ל בְּנִ֖י בָּכֶ֑ם יְהוָ֖ה יִמְשֹׁ֥ל בָּכֶֽם׃"
+      ],
+      "german": "Gideon sprach: Ich will nicht Herrscher über euch sein, sondern der HERR soll Herrscher über euch sein.\n"
+    }
+  },
+  "2023-08-18": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "119",
+      "verses": "2"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אַ֭שְׁרֵי נֹצְרֵ֥י עֵדֹתָ֗יו בְּכָל־לֵ֥ב יִדְרְשֽׁוּהוּ׃"
+      ],
+      "german": "Wohl denen, die sich an seine Zeugnisse halten, die ihn von ganzem Herzen suchen.\n"
+    }
+  },
+  "2023-08-19": {
+    "book": {
+      "book_de": "Jeremia",
+      "book_en": "Jeremiah",
+      "book_he": "ירמיה",
+      "chapter": "12",
+      "verses": "3"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְאַתָּ֤ה יְהוָה֙ יְדַעְתָּ֔נִי תִּרְאֵ֕נִי וּבָחַנְתָּ֥ לִבִּ֖י אִתָּ֑ךְ הַתִּקֵם֙ כְּצֹ֣אן לְטִבְחָ֔ה וְהַקְדִּשֵׁ֖ם לְי֥וֹם הֲרֵגָֽה׃ ס"
+      ],
+      "german": "Du, HERR, du kennst mich, du siehst mich und prüfst, ob mein Herz bei dir ist.\n"
+    }
+  },
+  "2023-08-20": {
+    "book": {
+      "book_de": "1. Mose",
+      "book_en": "Genesis",
+      "book_he": "בראשית",
+      "chapter": "1",
+      "verses": "3"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַיֹּ֥אמֶר אֱלֹהִ֖ים יְהִ֣י א֑וֹר וַֽיְהִי־אֽוֹר׃"
+      ],
+      "german": "Gott sprach: Es werde Licht! Und es ward Licht.\n"
+    }
+  },
+  "2023-08-21": {
+    "book": {
+      "book_de": "Jeremia",
+      "book_en": "Jeremiah",
+      "book_he": "ירמיה",
+      "chapter": "24",
+      "verses": "7"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְנָתַתִּי֩ לָהֶ֨ם לֵ֜ב לָדַ֣עַת אֹתִ֗י כִּ֚י אֲנִ֣י יְהוָ֔ה וְהָיוּ־לִ֣י לְעָ֔ם וְאָ֣נֹכִ֔י אֶהְיֶ֥ה לָהֶ֖ם לֵאלֹהִ֑ים כִּֽי־יָשֻׁ֥בוּ אֵלַ֖י בְּכָל־לִבָּֽם׃ ס"
+      ],
+      "german": "Ich will ihnen ein Herz geben, dass sie mich erkennen sollen, dass ich der HERR bin.\n"
+    }
+  },
+  "2023-08-22": {
+    "book": {
+      "book_de": "5. Mose",
+      "book_en": "Deuteronomy",
+      "book_he": "דברים",
+      "chapter": "13",
+      "verses": "4"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "לֹ֣א תִשְׁמַ֗ע אֶל־דִּבְרֵי֙ הַנָּבִ֣יא הַה֔וּא א֛וֹ אֶל־חוֹלֵ֥ם הַחֲל֖וֹם הַה֑וּא כִּ֣י מְנַסֶּ֞ה יְהוָ֤ה אֱלֹֽהֵיכֶם֙ אֶתְכֶ֔ם לָדַ֗עַת הֲיִשְׁכֶ֤ם אֹֽהֲבִים֙ אֶת־יְהוָ֣ה אֱלֹהֵיכֶ֔ם בְּכָל־לְבַבְכֶ֖ם וּבְכָל־נַפְשְׁכֶֽם׃"
+      ],
+      "german": "Der HERR, euer Gott, versucht euch, um zu erfahren, ob ihr ihn von ganzem Herzen und von ganzer Seele lieb habt.\n"
+    }
+  },
+  "2023-08-23": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "63",
+      "verses": "7"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "חַֽסְדֵ֨י יְהוָ֤ה ׀ אַזְכִּיר֙ תְּהִלֹּ֣ת יְהוָ֔ה כְּעַ֕ל כֹּ֥ל אֲשֶׁר־גְּמָלָ֖נוּ יְהוָ֑ה וְרַב־טוּב֙ לְבֵ֣ית יִשְׂרָאֵ֔ל אֲשֶׁר־גְּמָלָ֥ם כְּֽרַחֲמָ֖יו וּכְרֹ֥ב חֲסָדָֽיו׃"
+      ],
+      "german": "Ich will der Gnade des HERRN gedenken und der Ruhmestaten des HERRN in allem, was uns der HERR getan hat.\n"
+    }
+  },
+  "2023-08-24": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "49",
+      "verses": "3"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַיֹּ֥אמֶר לִ֖י עַבְדִּי־אָ֑תָּה יִשְׂרָאֵ֕ל אֲשֶׁר־בְּךָ֖ אֶתְפָּאָֽר׃"
+      ],
+      "german": "Der HERR sprach zu mir: Du bist mein Knecht, Israel, durch den ich mich verherrlichen will.\n"
+    }
+  },
+  "2023-08-25": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "49",
+      "verses": "4"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַאֲנִ֤י אָמַ֙רְתִּי֙ לְרִ֣יק יָגַ֔עְתִּי לְתֹ֥הוּ וְהֶ֖בֶל כֹּחִ֣י כִלֵּ֑יתִי אָכֵן֙ מִשְׁפָּטִ֣י אֶת־יְהוָ֔ה וּפְעֻלָּתִ֖י אֶת־אֱלֹהָֽי׃"
+      ],
+      "german": "Ich dachte, ich arbeitete vergeblich und verzehrte meine Kraft umsonst und unnütz. Doch mein Recht ist bei dem HERRN und mein Lohn bei meinem Gott.\n"
+    }
+  },
+  "2023-08-26": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "58",
+      "verses": "7"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "הֲל֨וֹא פָרֹ֤ס לָֽרָעֵב֙ לַחְמֶ֔ךָ וַעֲנִיִּ֥ים מְרוּדִ֖ים תָּ֣בִיא בָ֑יִת כִּֽי־תִרְאֶ֤ה עָרֹם֙ וְכִסִּית֔וֹ וּמִבְּשָׂרְךָ֖ לֹ֥א תִתְעַלָּֽם׃"
+      ],
+      "german": "Brich dem Hungrigen dein Brot!\n"
+    }
+  },
+  "2023-08-27": {
+    "book": {
+      "book_de": "5. Mose",
+      "book_en": "Deuteronomy",
+      "book_he": "דברים",
+      "chapter": "2",
+      "verses": "7"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּי֩ יְהוָ֨ה אֱלֹהֶ֜יךָ בֵּֽרַכְךָ֗ בְּכֹל֙ מַעֲשֵׂ֣ה יָדֶ֔ךָ יָדַ֣ע לֶכְתְּךָ֔ אֶת־הַמִּדְבָּ֥ר הַגָּדֹ֖ל הַזֶּ֑ה זֶ֣ה ׀ אַרְבָּעִ֣ים שָׁנָ֗ה יְהוָ֤ה אֱלֹהֶ֙יךָ֙ עִמָּ֔ךְ לֹ֥א חָסַ֖רְתָּ דָּבָֽר׃"
+      ],
+      "german": "Der HERR, dein Gott, hat dich gesegnet in allen Werken deiner Hände.\n"
+    }
+  },
+  "2023-08-28": {
+    "book": {
+      "book_de": "2. Samuel",
+      "book_en": "Samuel_2",
+      "book_he": "שמואל ב",
+      "chapter": "23",
+      "verses": "3-4"
+    },
+    "multiple": true,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אָמַר֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל לִ֥י דִבֶּ֖ר צ֣וּר יִשְׂרָאֵ֑ל מוֹשֵׁל֙ בָּאָדָ֔ם צַדִּ֕יק מוֹשֵׁ֖ל יִרְאַ֥ת אֱלֹהִֽים׃",
+        "וּכְא֥וֹר בֹּ֖קֶר יִזְרַח־שָׁ֑מֶשׁ בֹּ֚קֶר לֹ֣א עָב֔וֹת מִנֹּ֥גַהּ מִמָּטָ֖ר דֶּ֥שֶׁא מֵאָֽרֶץ׃"
+      ],
+      "german": "Wer gerecht herrscht unter den Menschen, wer herrscht in der Furcht Gottes, der ist wie das Licht des Morgens, wenn die Sonne aufgeht.\n"
+    }
+  },
+  "2023-08-29": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "48",
+      "verses": "17"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כֹּֽה־אָמַ֧ר יְהוָ֛ה גֹּאַלְךָ֖ קְד֣וֹשׁ יִשְׂרָאֵ֑ל אֲנִ֨י יְהוָ֤ה אֱלֹהֶ֙יךָ֙ מְלַמֶּדְךָ֣ לְהוֹעִ֔יל מַדְרִֽיכֲךָ֖ בְּדֶ֥רֶךְ תֵּלֵֽךְ׃"
+      ],
+      "german": "Ich bin der HERR, dein Gott, der dich lehrt, was dir hilft, und dich leitet auf dem Wege, den du gehst.\n"
+    }
+  },
+  "2023-08-30": {
+    "book": {
+      "book_de": "5. Mose",
+      "book_en": "Deuteronomy",
+      "book_he": "דברים",
+      "chapter": "9",
+      "verses": "26"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וָאֶתְפַּלֵּ֣ל אֶל־יְהוָה֮ וָאֹמַר֒ אֲדֹנָ֣י יְהוִ֗ה אַל־תַּשְׁחֵ֤ת עַמְּךָ֙ וְנַחֲלָ֣תְךָ֔ אֲשֶׁ֥ר פָּדִ֖יתָ בְּגָדְלֶ֑ךָ אֲשֶׁר־הוֹצֵ֥אתָ מִמִּצְרַ֖יִם בְּיָ֥ד חֲזָקָֽה׃"
+      ],
+      "german": "HERR, verdirb dein Volk und dein Erbe nicht, das du durch deine große Kraft erlöst hast!\n"
+    }
+  },
+  "2023-08-31": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "105",
+      "verses": "40-42"
+    },
+    "multiple": true,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "שָׁאַ֣ל וַיָּבֵ֣א שְׂלָ֑ו וְלֶ֥חֶם שָׁ֝מַ֗יִם יַשְׂבִּיעֵֽם׃",
+        "פָּ֣תַח צ֭וּר וַיָּז֣וּבוּ מָ֑יִם הָ֝לְכ֗וּ בַּצִּיּ֥וֹת נָהָֽר׃",
+        "כִּֽי־זָ֭כַר אֶת־דְּבַ֣ר קָדְשׁ֑וֹ אֶֽת־אַבְרָהָ֥ם עַבְדּֽוֹ׃"
+      ],
+      "german": "Der HERR sättigte sein Volk mit Himmelsbrot. Er öffnete den Felsen, da strömten Wasser heraus, sie flossen dahin als Strom in der Wüste. Denn er gedachte an sein heiliges Wort.\n"
+    }
+  },
+  "2023-09-01": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "47",
+      "verses": "13"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "נִלְאֵ֖ית בְּרֹ֣ב עֲצָתָ֑יִךְ יַעַמְדוּ־נָ֨א וְיוֹשִׁיעֻ֜ךְ *הברו **הֹבְרֵ֣י שָׁמַ֗יִם הַֽחֹזִים֙ בַּכּ֣וֹכָבִ֔ים מֽוֹדִיעִם֙ לֶחֳדָשִׁ֔ים מֵאֲשֶׁ֥ר יָבֹ֖אוּ עָלָֽיִךְ׃"
+      ],
+      "german": "Du hast dich müde gemacht mit der Menge deiner Pläne.\n"
+    }
+  },
+  "2023-09-02": {
+    "book": {
+      "book_de": "2. Mose",
+      "book_en": "Exodus",
+      "book_he": "שמות",
+      "chapter": "23",
+      "verses": "1"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "לֹ֥א תִשָּׂ֖א שֵׁ֣מַע שָׁ֑וְא אַל־תָּ֤שֶׁת יָֽדְךָ֙ עִם־רָשָׁ֔ע לִהְיֹ֖ת עֵ֥ד חָמָֽס׃ ס"
+      ],
+      "german": "Du sollst kein falsches Gerücht verbreiten.\n"
+    }
+  },
+  "2023-09-03": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "63",
+      "verses": "15"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "הַבֵּ֤ט מִשָּׁמַ֙יִם֙ וּרְאֵ֔ה מִזְּבֻ֥ל קָדְשְׁךָ֖ וְתִפְאַרְתֶּ֑ךָ אַיֵּ֤ה קִנְאֽ͏ָתְךָ֙ וּגְב֣וּרֹתֶ֔ךָ הֲמ֥וֹן מֵעֶ֛יךָ וְֽרַחֲמֶ֖יךָ אֵלַ֥י הִתְאַפָּֽקוּ׃"
+      ],
+      "german": "So schau nun vom Himmel und sieh herab von deiner heiligen, herrlichen Wohnung! Wo ist nun dein Eifer und deine Macht?\n"
+    }
+  },
+  "2023-09-04": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "42",
+      "verses": "7"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אֱ‍ֽלֹהַ֗י עָלַי֮ נַפְשִׁ֢י תִשְׁתּ֫וֹחָ֥ח עַל־כֵּ֗ן אֶ֭זְכָּרְךָ מֵאֶ֣רֶץ יַרְדֵּ֑ן וְ֝חֶרְמוֹנִ֗ים מֵהַ֥ר מִצְעָֽר׃"
+      ],
+      "german": "Mein Gott, betrübt ist meine Seele in mir, darum gedenke ich an dich.\n"
+    }
+  },
+  "2023-09-05": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "44",
+      "verses": "22"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "מָחִ֤יתִי כָעָב֙ פְּשָׁעֶ֔יךָ וְכֶעָנָ֖ן חַטֹּאותֶ֑יךָ שׁוּבָ֥ה אֵלַ֖י כִּ֥י גְאַלְתִּֽיךָ׃"
+      ],
+      "german": "Ich tilge deine Missetat wie eine Wolke und deine Sünden wie den Nebel. Kehre dich zu mir, denn ich erlöse dich!\n"
+    }
+  },
+  "2023-09-06": {
+    "book": {
+      "book_de": "Sacharja",
+      "book_en": "Zechariah",
+      "book_he": "זכריה",
+      "chapter": "8",
+      "verses": "16"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אֵ֥לֶּה הַדְּבָרִ֖ים אֲשֶׁ֣ר תַּֽעֲשׂ֑וּ דַּבְּר֤וּ אֱמֶת֙ אִ֣ישׁ אֶת־רֵעֵ֔הוּ אֱמֶת֙ וּמִשְׁפַּ֣ט שָׁל֔וֹם שִׁפְט֖וּ בְּשַׁעֲרֵיכֶֽם׃"
+      ],
+      "german": "Rede einer mit dem andern Wahrheit und richtet wahrhaftig und recht, schafft Frieden in euren Toren.\n"
+    }
+  },
+  "2023-09-07": {
+    "book": {
+      "book_de": "2. Chronik",
+      "book_en": "Chronicles_2",
+      "book_he": "דברי הימים ב",
+      "chapter": "18",
+      "verses": "4"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַיֹּ֥אמֶר יְהוֹשָׁפָ֖ט אֶל־מֶ֣לֶךְ יִשְׂרָאֵ֑ל דְּרָשׁ־נָ֥א כַיּ֖וֹם אֶת־דְּבַ֥ר יְהוָֽה׃"
+      ],
+      "german": "Frage doch zuerst nach dem Wort des HERRN!\n"
+    }
+  },
+  "2023-09-08": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "26",
+      "verses": "19"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "יִֽחְי֣וּ מֵתֶ֔יךָ נְבֵלָתִ֖י יְקוּמ֑וּן הָקִ֨יצוּ וְרַנְּנ֜וּ שֹׁכְנֵ֣י עָפָ֗ר כִּ֣י טַ֤ל אוֹרֹת֙ טַלֶּ֔ךָ וָאָ֖רֶץ רְפָאִ֥ים תַּפִּֽיל׃ ס"
+      ],
+      "german": "Deine Toten werden leben.\n"
+    }
+  },
+  "2023-09-09": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "105",
+      "verses": "8"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "זָכַ֣ר לְעוֹלָ֣ם בְּרִית֑וֹ דָּבָ֥ר צִ֝וָּ֗ה לְאֶ֣לֶף דּֽוֹר׃"
+      ],
+      "german": "Er gedenkt ewiglich an seinen Bund, an das Wort, das er verheißen hat für tausend Geschlechter.\n"
+    }
+  },
+  "2023-09-10": {
+    "book": {
+      "book_de": "1. Mose",
+      "book_en": "Genesis",
+      "book_he": "בראשית",
+      "chapter": "41",
+      "verses": "52"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְאֵ֛ת שֵׁ֥ם הַשֵּׁנִ֖י קָרָ֣א אֶפְרָ֑יִם כִּֽי־הִפְרַ֥נִי אֱלֹהִ֖ים בְּאֶ֥רֶץ עָנְיִֽי׃"
+      ],
+      "german": "Gott hat mich wachsen lassen in dem Lande meines Elends.\n"
+    }
+  },
+  "2023-09-11": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "118",
+      "verses": "8"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "ט֗וֹב לַחֲס֥וֹת בַּיהוָ֑ה מִ֝בְּטֹ֗חַ בָּאָדָֽם׃"
+      ],
+      "german": "Besser ist es, beim HERRN Zuflucht zu suchen, als Menschen zu vertrauen.\n"
+    }
+  },
+  "2023-09-12": {
+    "book": {
+      "book_de": "2. Mose",
+      "book_en": "Exodus",
+      "book_he": "שמות",
+      "chapter": "19",
+      "verses": "4"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אַתֶּ֣ם רְאִיתֶ֔ם אֲשֶׁ֥ר עָשִׂ֖יתִי לְמִצְרָ֑יִם וָאֶשָּׂ֤א אֶתְכֶם֙ עַל־כַּנְפֵ֣י נְשָׁרִ֔ים וָאָבִ֥א אֶתְכֶ֖ם אֵלָֽי׃"
+      ],
+      "german": "/Der HERR spricht:/ Ihr habt gesehen, wie ich euch getragen habe auf Adlerflügeln und euch zu mir gebracht.\n"
+    }
+  },
+  "2023-09-13": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "22",
+      "verses": "23"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אֲסַפְּרָ֣ה שִׁמְךָ֣ לְאֶחָ֑י בְּת֖וֹךְ קָהָ֣ל אֲהַלְלֶֽךָּ׃"
+      ],
+      "german": "Ich will dich in der Gemeinde rühmen, HERR.\n"
+    }
+  },
+  "2023-09-14": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "103",
+      "verses": "13"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כְּרַחֵ֣ם אָ֭ב עַל־בָּנִ֑ים רִחַ֥ם יְ֝הוָ֗ה עַל־יְרֵאָֽיו׃"
+      ],
+      "german": "Wie sich ein Vater über Kinder erbarmt, so erbarmt sich der HERR über die, die ihn fürchten.\n"
+    }
+  },
+  "2023-09-15": {
+    "book": {
+      "book_de": "Hosea",
+      "book_en": "Hosea",
+      "book_he": "הושע",
+      "chapter": "11",
+      "verses": "8.9"
+    },
+    "multiple": true,
+    "multiple_parts": true,
+    "text": {
+      "hebrew": [
+        "אֵ֞יךְ אֶתֶּנְךָ֣ אֶפְרַ֗יִם אֲמַגֶּנְךָ֙ יִשְׂרָאֵ֔ל אֵ֚יךְ אֶתֶּנְךָ֣ כְאַדְמָ֔ה אֲשִֽׂימְךָ֖ כִּצְבֹאיִ֑ם נֶהְפַּ֤ךְ עָלַי֙ לִבִּ֔י יַ֖חַד נִכְמְר֥וּ נִחוּמָֽי׃",
+        "לֹ֤א אֶֽעֱשֶׂה֙ חֲר֣וֹן אַפִּ֔י לֹ֥א אָשׁ֖וּב לְשַׁחֵ֣ת אֶפְרָ֑יִם כִּ֣י אֵ֤ל אָֽנֹכִי֙ וְלֹא־אִ֔ישׁ בְּקִרְבְּךָ֣ קָד֔וֹשׁ וְלֹ֥א אָב֖וֹא בְּעִֽיר׃"
+      ],
+      "german": "Mein Herz wendet sich gegen mich, all mein Mitleid ist entbrannt. Ich will nicht tun nach meinem grimmigen Zorn. Denn ich bin Gott und nicht ein Mensch, heilig in deiner Mitte.\n"
+    }
+  },
+  "2023-09-16": {
+    "book": {
+      "book_de": "Klagelieder",
+      "book_en": "Lamentations",
+      "book_he": "איכה",
+      "chapter": "3",
+      "verses": "58"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "רַ֧בְתָּ אֲדֹנָ֛י רִיבֵ֥י נַפְשִׁ֖י גָּאַ֥לְתָּ חַיָּֽי׃"
+      ],
+      "german": "Du führst, Herr, meine Sache und erlöst mein Leben.\n"
+    }
+  },
+  "2023-09-17": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "33",
+      "verses": "24"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וּבַל־יֹאמַ֥ר שָׁכֵ֖ן חָלִ֑יתִי הָעָ֛ם הַיֹּשֵׁ֥ב בָּ֖הּ נְשֻׂ֥א עָוֺֽן׃"
+      ],
+      "german": "Kein Mensch im Land wird noch klagen, er sei von Krankheit und Schwäche geplagt; denn die Schuld des Volkes ist vergeben.\n"
+    }
+  },
+  "2023-09-18": {
+    "book": {
+      "book_de": "Hesekiel",
+      "book_en": "Ezekiel",
+      "book_he": "יחזקאל",
+      "chapter": "18",
+      "verses": "4"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "הֵ֤ן כָּל־הַנְּפָשׁוֹת֙ לִ֣י הֵ֔נָּה כְּנֶ֧פֶשׁ הָאָ֛ב וּכְנֶ֥פֶשׁ הַבֵּ֖ן לִי־הֵ֑נָּה הַנֶּ֥פֶשׁ הַחֹטֵ֖את הִ֥יא תָמֽוּת׃ ס"
+      ],
+      "german": "Siehe, alle Menschen gehören mir.\n"
+    }
+  },
+  "2023-09-19": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "62",
+      "verses": "9"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "בִּטְח֘וּ ב֤וֹ בְכָל־עֵ֨ת ׀ עָ֗ם שִׁפְכֽוּ־לְפָנָ֥יו לְבַבְכֶ֑ם אֱלֹהִ֖ים מַחֲסֶה־לָּ֣נוּ סֶֽלָה׃"
+      ],
+      "german": "Hoffet auf ihn allezeit, liebe Leute, schüttet euer Herz vor ihm aus; Gott ist unsre Zuversicht.\n"
+    }
+  },
+  "2023-09-20": {
+    "book": {
+      "book_de": "Sprüche",
+      "book_en": "Proverbs",
+      "book_he": "משלי",
+      "chapter": "14",
+      "verses": "26"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "בְּיִרְאַ֣ת יְ֭הוָה מִבְטַח־עֹ֑ז וּ֝לְבָנָ֗יו יִהְיֶ֥ה מַחְסֶֽה׃"
+      ],
+      "german": "Wer den HERRN fürchtet, hat eine sichere Festung.\n"
+    }
+  },
+  "2023-09-21": {
+    "book": {
+      "book_de": "Zefanja",
+      "book_en": "Zephaniah",
+      "book_he": "צפניה",
+      "chapter": "3",
+      "verses": "7"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אָמַ֜רְתִּי אַךְ־תִּירְאִ֤י אוֹתִי֙ תִּקְחִ֣י מוּסָ֔ר וְלֹֽא־יִכָּרֵ֣ת מְעוֹנָ֔הּ כֹּ֥ל אֲשֶׁר־פָּקַ֖דְתִּי עָלֶ֑יהָ אָכֵן֙ הִשְׁכִּ֣ימוּ הִשְׁחִ֔יתוּ כֹּ֖ל עֲלִילוֹתָֽם׃"
+      ],
+      "german": "Mich sollst du fürchten und dich zurechtweisen lassen.\n"
+    }
+  },
+  "2023-09-22": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "55",
+      "verses": "5"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "הֵ֣ן גּ֤וֹי לֹֽא־תֵדַע֙ תִּקְרָ֔א וְג֥וֹי לֹֽא־יְדָע֖וּךָ אֵלֶ֣יךָ יָר֑וּצוּ לְמַ֙עַן֙ יְהוָ֣ה אֱלֹהֶ֔יךָ וְלִקְד֥וֹשׁ יִשְׂרָאֵ֖ל כִּ֥י פֵאֲרָֽךְ׃ ס"
+      ],
+      "german": "Siehe, du wirst Völker rufen, die du nicht kennst, und Völker, die dich nicht kennen, werden zu dir laufen um des HERRN willen, deines Gottes, und des Heiligen Israels, der dich herrlich gemacht hat.\n"
+    }
+  },
+  "2023-09-23": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "54",
+      "verses": "4"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אַל־תִּֽירְאִי֙ כִּי־לֹ֣א תֵב֔וֹשִׁי וְאַל־תִּכָּלְמִ֖י כִּ֣י לֹ֣א תַחְפִּ֑ירִי כִּ֣י בֹ֤שֶׁת עֲלוּמַ֙יִךְ֙ תִּשְׁכָּ֔חִי וְחֶרְפַּ֥ת אַלְמְנוּתַ֖יִךְ לֹ֥א תִזְכְּרִי־עֽוֹד׃"
+      ],
+      "german": "Schäme dich nicht, denn du sollst nicht zum Spott werden.\n"
+    }
+  },
+  "2023-09-24": {
+    "book": {
+      "book_de": "3. Mose",
+      "book_en": "Leviticus",
+      "book_he": "ויקרא",
+      "chapter": "19",
+      "verses": "18"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "לֹֽא־תִקֹּ֤ם וְלֹֽא־תִטֹּר֙ אֶת־בְּנֵ֣י עַמֶּ֔ךָ וְאָֽהַבְתָּ֥ לְרֵעֲךָ֖ כָּמ֑וֹךָ אֲנִ֖י יְהוָֽה׃"
+      ],
+      "german": "Du sollst deinen Nächsten lieben wie dich selbst; ich bin der HERR.\n"
+    }
+  },
+  "2023-09-25": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "33",
+      "verses": "4"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּֽי־יָשָׁ֥ר דְּבַר־יְהוָ֑ה וְכָל־מַ֝עֲשֵׂ֗הוּ בֶּאֱמוּנָֽה׃"
+      ],
+      "german": "Des HERRN Wort ist wahrhaftig, und was er zusagt, das hält er gewiss.\n"
+    }
+  },
+  "2023-09-26": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "31",
+      "verses": "8"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אָגִ֥ילָה וְאֶשְׂמְחָ֗ה בְּחַ֫סְדֶּ֥ךָ אֲשֶׁ֣ר רָ֭אִיתָ אֶת־עָנְיִ֑י יָ֝דַ֗עְתָּ בְּצָר֥וֹת נַפְשִֽׁי׃"
+      ],
+      "german": "Ich freue mich und bin fröhlich über deine Güte, dass du mein Elend ansiehst und kennst die Not meiner Seele.\n"
+    }
+  },
+  "2023-09-27": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "95",
+      "verses": "4"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אֲשֶׁ֣ר בְּ֭יָדוֹ מֶחְקְרֵי־אָ֑רֶץ וְתוֹעֲפ֖וֹת הָרִ֣ים לֽוֹ׃"
+      ],
+      "german": "In Gottes Hand sind die Tiefen der Erde, und die Höhen der Berge sind auch sein.\n"
+    }
+  },
+  "2023-09-28": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "94",
+      "verses": "14"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּ֤י ׀ לֹא־יִטֹּ֣שׁ יְהוָ֣ה עַמּ֑וֹ וְ֝נַחֲלָת֗וֹ לֹ֣א יַעֲזֹֽב׃"
+      ],
+      "german": "Der HERR wird sein Volk nicht verstoßen noch sein Erbe verlassen.\n"
+    }
+  },
+  "2023-09-29": {
+    "book": {
+      "book_de": "Sacharja",
+      "book_en": "Zechariah",
+      "book_he": "זכריה",
+      "chapter": "8",
+      "verses": "23"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כֹּ֥ה אָמַר֮ יְהוָ֣ה צְבָאוֹת֒ בַּיָּמִ֣ים הָהֵ֔מָּה אֲשֶׁ֤ר יַחֲזִ֙יקוּ֙ עֲשָׂרָ֣ה אֲנָשִׁ֔ים מִכֹּ֖ל לְשֹׁנ֣וֹת הַגּוֹיִ֑ם וְֽהֶחֱזִ֡יקוּ בִּכְנַף֩ אִ֨ישׁ יְהוּדִ֜י לֵאמֹ֗ר נֵֽלְכָה֙ עִמָּכֶ֔ם כִּ֥י שָׁמַ֖עְנוּ אֱלֹהִ֥ים עִמָּכֶֽם׃ ס"
+      ],
+      "german": "Wir wollen mit euch gehen, denn wir haben gehört, dass Gott mit euch ist.\n"
+    }
+  },
+  "2023-09-30": {
+    "book": {
+      "book_de": "Sprüche",
+      "book_en": "Proverbs",
+      "book_he": "משלי",
+      "chapter": "15",
+      "verses": "16"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "טוֹב־מְ֭עַט בְּיִרְאַ֣ת יְהוָ֑ה מֵאוֹצָ֥ר רָ֝֗ב וּמְה֥וּמָה בֽוֹ׃"
+      ],
+      "german": "Besser wenig mit der Furcht des HERRN als ein großer Schatz, bei dem Unruhe ist.\n"
+    }
+  },
+  "2023-10-01": {
+    "book": {
+      "book_de": "Jeremia",
+      "book_en": "Jeremiah",
+      "book_he": "ירמיה",
+      "chapter": "9",
+      "verses": "23"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּ֣י אִם־בְּזֹ֞את יִתְהַלֵּ֣ל הַמִּתְהַלֵּ֗ל הַשְׂכֵּל֮ וְיָדֹ֣עַ אוֹתִי֒ כִּ֚י אֲנִ֣י יְהוָ֔ה עֹ֥שֶׂה חֶ֛סֶד מִשְׁפָּ֥ט וּצְדָקָ֖ה בָּאָ֑רֶץ כִּֽי־בְאֵ֥לֶּה חָפַ֖צְתִּי נְאֻם־יְהוָֽה׃ ס"
+      ],
+      "german": "Ich bin der HERR, der Barmherzigkeit, Recht und Gerechtigkeit übt auf Erden.\n"
+    }
+  },
+  "2023-10-02": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "30",
+      "verses": "26"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְהָיָ֤ה אֽוֹר־הַלְּבָנָה֙ כְּא֣וֹר הַֽחַמָּ֔ה וְא֤וֹר הַֽחַמָּה֙ יִהְיֶ֣ה שִׁבְעָתַ֔יִם כְּא֖וֹר שִׁבְעַ֣ת הַיָּמִ֑ים בְּי֗וֹם חֲבֹ֤שׁ יְהוָה֙ אֶת־שֶׁ֣בֶר עַמּ֔וֹ וּמַ֥חַץ מַכָּת֖וֹ יִרְפָּֽא׃ ס"
+      ],
+      "german": "Des Mondes Schein wird sein wie der Sonne Schein, und der Sonne Schein wird siebenmal heller sein zu der Zeit, wenn der HERR den Schaden seines Volks verbinden und seine Wunden heilen wird.\n"
+    }
+  },
+  "2023-10-03": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "16",
+      "verses": "1"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "מִכְתָּ֥ם לְדָוִ֑ד שָֽׁמְרֵ֥נִי אֵ֝֗ל כִּֽי־חָסִ֥יתִי בָֽךְ׃"
+      ],
+      "german": "Bewahre mich, Gott; denn ich traue auf dich.\n"
+    }
+  },
+  "2023-10-04": {
+    "book": {
+      "book_de": "5. Mose",
+      "book_en": "Deuteronomy",
+      "book_he": "דברים",
+      "chapter": "8",
+      "verses": "7"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּ֚י יְהוָ֣ה אֱלֹהֶ֔יךָ מְבִֽיאֲךָ֖ אֶל־אֶ֣רֶץ טוֹבָ֑ה אֶ֚רֶץ נַ֣חֲלֵי מָ֔יִם עֲיָנֹת֙ וּתְהֹמֹ֔ת יֹצְאִ֥ים בַּבִּקְעָ֖ה וּבָהָֽר׃"
+      ],
+      "german": "Der HERR, dein Gott, führt dich in ein gutes Land, ein Land, darin Bäche und Quellen sind und Wasser in der Tiefe.\n"
+    }
+  },
+  "2023-10-05": {
+    "book": {
+      "book_de": "Josua",
+      "book_en": "Joshua",
+      "book_he": "יהושע",
+      "chapter": "21",
+      "verses": "45"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "לֹֽא־נָפַ֣ל דָּבָ֔ר מִכֹּל֙ הַדָּבָ֣ר הַטּ֔וֹב אֲשֶׁר־דִּבֶּ֥ר יְהוָ֖ה אֶל־בֵּ֣ית יִשְׂרָאֵ֑ל הַכֹּ֖ל בָּֽא׃ פ"
+      ],
+      "german": "Von all dem Guten, das der HERR dem Haus Israel zugesagt hatte, war nichts dahingefallen; alles war eingetroffen.\n"
+    }
+  },
+  "2023-10-06": {
+    "book": {
+      "book_de": "Jeremia",
+      "book_en": "Jeremiah",
+      "book_he": "ירמיה",
+      "chapter": "7",
+      "verses": "23"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּ֣י אִֽם־אֶת־הַדָּבָ֣ר הַ֠זֶּה צִוִּ֨יתִי אוֹתָ֤ם לֵאמֹר֙ שִׁמְע֣וּ בְקוֹלִ֔י וְהָיִ֤יתִי לָכֶם֙ לֵֽאלֹהִ֔ים וְאַתֶּ֖ם תִּֽהְיוּ־לִ֣י לְעָ֑ם וַהֲלַכְתֶּ֗ם בְּכָל־הַדֶּ֙רֶךְ֙ אֲשֶׁ֣ר אֲצַוֶּ֣ה אֶתְכֶ֔ם לְמַ֖עַן יִיטַ֥ב לָכֶֽם׃"
+      ],
+      "german": "Gehorcht meiner Stimme, so will ich euer Gott sein, und ihr sollt mein Volk sein.\n"
+    }
+  },
+  "2023-10-07": {
+    "book": {
+      "book_de": "1. Könige",
+      "book_en": "Kings_1",
+      "book_he": "מלכים א",
+      "chapter": "18",
+      "verses": "37"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "עֲנֵ֤נִי יְהוָה֙ עֲנֵ֔נִי וְיֵֽדְעוּ֙ הָעָ֣ם הַזֶּ֔ה כִּֽי־אַתָּ֥ה יְהוָ֖ה הָאֱלֹהִ֑ים וְאַתָּ֛ה הֲסִבֹּ֥תָ אֶת־לִבָּ֖ם אֲחֹרַנִּֽית׃"
+      ],
+      "german": "/Elia betete:/ Erhöre mich, HERR, erhöre mich, dass dies Volk erkenne, dass du, HERR, Gott bist und ihr Herz wieder zu dir kehrst!\n"
+    }
+  },
+  "2023-10-08": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "16",
+      "verses": "6"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "חֲבָלִ֣ים נָֽפְלוּ־לִ֭י בַּנְּעִמִ֑ים אַף־נַ֝חֲלָ֗ת שָֽׁפְרָ֥ה עָלֽ͏ָי׃"
+      ],
+      "german": "Das Los ist mir gefallen auf liebliches Land; mir ist ein schönes Erbteil geworden.\n"
+    }
+  },
+  "2023-10-09": {
+    "book": {
+      "book_de": "Sprüche",
+      "book_en": "Proverbs",
+      "book_he": "משלי",
+      "chapter": "10",
+      "verses": "2"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "לֹא־י֭וֹעִילוּ אוֹצְר֣וֹת רֶ֑שַׁע וּ֝צְדָקָ֗ה תַּצִּ֥יל מִמָּֽוֶת׃"
+      ],
+      "german": "Unrecht Gut hilft nicht; aber Gerechtigkeit errettet vom Tode.\n"
+    }
+  },
+  "2023-10-10": {
+    "book": {
+      "book_de": "Zefanja",
+      "book_en": "Zephaniah",
+      "book_he": "צפניה",
+      "chapter": "3",
+      "verses": "12"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְהִשְׁאַרְתִּ֣י בְקִרְבֵּ֔ךְ עַ֥ם עָנִ֖י וָדָ֑ל וְחָס֖וּ בְּשֵׁ֥ם יְהוָֽה׃"
+      ],
+      "german": "Ich will in dir übrig lassen ein armes und geringes Volk; die werden auf des HERRN Namen trauen.\n"
+    }
+  },
+  "2023-10-11": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "25",
+      "verses": "4"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּֽי־הָיִ֨יתָ מָע֥וֹז לַדָּ֛ל מָע֥וֹז לָאֶבְי֖וֹן בַּצַּר־ל֑וֹ מַחְסֶ֤ה מִזֶּ֙רֶם֙ צֵ֣ל מֵחֹ֔רֶב כִּ֛י ר֥וּחַ עָרִיצִ֖ים כְּזֶ֥רֶם קִֽיר׃"
+      ],
+      "german": "HERR, du bist der Armen Schutz gewesen in der Trübsal, eine Zuflucht vor dem Ungewitter, ein Schatten vor der Hitze, wenn die Tyrannen wüten.\n"
+    }
+  },
+  "2023-10-12": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "109",
+      "verses": "26"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "עָ֭זְרֵנִי יְהוָ֣ה אֱלֹהָ֑י ה֭וֹשִׁיעֵ֣נִי כְחַסְדֶּֽךָ׃"
+      ],
+      "german": "Steh mir bei, HERR, mein Gott! Hilf mir nach deiner Gnade.\n"
+    }
+  },
+  "2023-10-13": {
+    "book": {
+      "book_de": "Daniel",
+      "book_en": "Daniel",
+      "book_he": "דניאל",
+      "chapter": "4",
+      "verses": "32"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְכָל־*דארי **דָּיְרֵ֤י אַרְעָא֙ כְּלָ֣ה חֲשִׁיבִ֔ין וּֽכְמִצְבְּיֵ֗הּ עָבֵד֙ בְּחֵ֣יל שְׁמַיָּ֔א *ודארי **וְדָיְרֵ֖י אַרְעָ֑א וְלָ֤א אִיתַי֙ דִּֽי־יְמַחֵ֣א בִידֵ֔הּ וְיֵ֥אמַר לֵ֖הּ מָ֥ה עֲבַֽדְתְּ׃"
+      ],
+      "german": "Gott macht’s, wie er will, mit dem Heer des Himmels und mit denen, die auf Erden wohnen. Und niemand kann seiner Hand wehren noch zu ihm sagen: Was machst du?\n"
+    }
+  },
+  "2023-10-14": {
+    "book": {
+      "book_de": "Hiob",
+      "book_en": "Job",
+      "book_he": "איוב",
+      "chapter": "17",
+      "verses": "3"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "שִֽׂימָה־נָּ֭א עָרְבֵ֣נִי עִמָּ֑ךְ מִֽי ה֝֗וּא לְיָדִ֥י יִתָּקֵֽעַ׃"
+      ],
+      "german": "Sei du selbst mein Bürge bei dir – wer sonst soll für mich bürgen?\n"
+    }
+  },
+  "2023-10-15": {
+    "book": {
+      "book_de": "Sprüche",
+      "book_en": "Proverbs",
+      "book_he": "משלי",
+      "chapter": "29",
+      "verses": "7"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "יֹדֵ֣עַ צַ֭דִּיק דִּ֣ין דַּלִּ֑ים רָ֝שָׁ֗ע לֹא־יָבִ֥ין דָּֽעַת׃"
+      ],
+      "german": "Der Gerechte erkennt die Sache der Armen.\n"
+    }
+  },
+  "2023-10-16": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "103",
+      "verses": "10"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "לֹ֣א כַ֭חֲטָאֵינוּ עָ֣שָׂה לָ֑נוּ וְלֹ֥א כַ֝עֲוֺנֹתֵ֗ינוּ גָּמַ֥ל עָלֵֽינוּ׃"
+      ],
+      "german": "Er handelt nicht mit uns nach unsern Sünden und vergilt uns nicht nach unsrer Missetat.\n"
+    }
+  },
+  "2023-10-17": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "91",
+      "verses": "11-12"
+    },
+    "multiple": true,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּ֣י מַ֭לְאָכָיו יְצַוֶּה־לָּ֑ךְ לִ֝שְׁמָרְךָ֗ בְּכָל־דְּרָכֶֽיךָ׃",
+        "עַל־כַּפַּ֥יִם יִשָּׂא֑וּנְךָ פֶּן־תִּגֹּ֖ף בָּאֶ֣בֶן רַגְלֶֽךָ׃"
+      ],
+      "german": "Der HERR hat seinen Engeln befohlen, dass sie dich behüten auf allen deinen Wegen, dass sie dich auf den Händen tragen und du deinen Fuß nicht an einen Stein stoßest.\n"
+    }
+  },
+  "2023-10-18": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "140",
+      "verses": "13"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "ידעת **יָדַ֗עְתִּי כִּֽי־יַעֲשֶׂ֣ה יְ֭הוָה דִּ֣ין עָנִ֑י מִ֝שְׁפַּ֗ט אֶבְיֹנִֽים׃"
+      ],
+      "german": "Ich weiß, dass der HERR des Elenden Sache führen und den Armen Recht schaffen wird.\n"
+    }
+  },
+  "2023-10-19": {
+    "book": {
+      "book_de": "1. Samuel",
+      "book_en": "Samuel_1",
+      "book_he": "שמואל א",
+      "chapter": "2",
+      "verses": "30"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "לָכֵ֗ן נְאֻם־יְהוָה֮ אֱלֹהֵ֣י יִשְׂרָאֵל֒ אָמ֣וֹר אָמַ֔רְתִּי בֵּֽיתְךָ֙ וּבֵ֣ית אָבִ֔יךָ יִתְהַלְּכ֥וּ לְפָנַ֖י עַד־עוֹלָ֑ם וְעַתָּ֤ה נְאֻם־יְהוָה֙ חָלִ֣ילָה לִּ֔י כִּֽי־מְכַבְּדַ֥י אֲכַבֵּ֖ד וּבֹזַ֥י יֵקָֽלּוּ׃"
+      ],
+      "german": "/Der HERR spricht:/ Wer mich ehrt, den will ich auch ehren; wer aber mich verachtet, der soll wieder verachtet werden.\n"
+    }
+  },
+  "2023-10-20": {
+    "book": {
+      "book_de": "2. Mose",
+      "book_en": "Exodus",
+      "book_he": "שמות",
+      "chapter": "33",
+      "verses": "11"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְדִבֶּ֨ר יְהוָ֤ה אֶל־מֹשֶׁה֙ פָּנִ֣ים אֶל־פָּנִ֔ים כַּאֲשֶׁ֛ר יְדַבֵּ֥ר אִ֖ישׁ אֶל־רֵעֵ֑הוּ וְשָׁב֙ אֶל־הַֽמַּחֲנֶ֔ה וּמְשָׁ֨רְת֜וֹ יְהוֹשֻׁ֤עַ בִּן־נוּן֙ נַ֔עַר לֹ֥א יָמִ֖ישׁ מִתּ֥וֹךְ הָאֹֽהֶל׃ ס"
+      ],
+      "german": "Der HERR redete mit Mose von Angesicht zu Angesicht, wie ein Mann mit seinem Freunde redet.\n"
+    }
+  },
+  "2023-10-21": {
+    "book": {
+      "book_de": "Jeremia",
+      "book_en": "Jeremiah",
+      "book_he": "ירמיה",
+      "chapter": "17",
+      "verses": "7.8"
+    },
+    "multiple": true,
+    "multiple_parts": true,
+    "text": {
+      "hebrew": [
+        "בָּר֣וּךְ הַגֶּ֔בֶר אֲשֶׁ֥ר יִבְטַ֖ח בַּֽיהוָ֑ה וְהָיָ֥ה יְהוָ֖ה מִבְטַחֽוֹ׃",
+        "וְהָיָ֞ה כְּעֵ֣ץ ׀ שָׁת֣וּל עַל־מַ֗יִם וְעַל־יוּבַל֙ יְשַׁלַּ֣ח שָֽׁרָשָׁ֔יו וְלֹ֤א *ירא **יִרְאֶה֙ כִּֽי־יָבֹ֣א חֹ֔ם וְהָיָ֥ה עָלֵ֖הוּ רַֽעֲנָ֑ן וּבִשְׁנַ֤ת בַּצֹּ֙רֶת֙ לֹ֣א יִדְאָ֔ג וְלֹ֥א יָמִ֖ישׁ מֵעֲשׂ֥וֹת פֶּֽרִי׃"
+      ],
+      "german": "Wessen Zuversicht der HERR ist, der ist wie ein Baum, am Wasser gepflanzt, der seine Wurzeln zum Bach hin streckt. Er sorgt sich nicht, wenn ein dürres Jahr kommt, sondern bringt ohne Aufhören Früchte.\n"
+    }
+  },
+  "2023-10-22": {
+    "book": {
+      "book_de": "3. Mose",
+      "book_en": "Leviticus",
+      "book_he": "ויקרא",
+      "chapter": "19",
+      "verses": "17"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "לֹֽא־תִשְׂנָ֥א אֶת־אָחִ֖יךָ בִּלְבָבֶ֑ךָ הוֹכֵ֤חַ תּוֹכִ֙יחַ֙ אֶת־עֲמִיתֶ֔ךָ וְלֹא־תִשָּׂ֥א עָלָ֖יו חֵֽטְא׃"
+      ],
+      "german": "Du sollst deinen Bruder nicht hassen in deinem Herzen, sondern du sollst deinen Nächsten zurechtweisen, damit du nicht seinetwegen Schuld auf dich lädst.\n"
+    }
+  },
+  "2023-10-23": {
+    "book": {
+      "book_de": "Daniel",
+      "book_en": "Daniel",
+      "book_he": "דניאל",
+      "chapter": "6",
+      "verses": "27"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "מִן־קֳדָמַי֮ שִׂ֣ים טְעֵם֒ דִּ֣י ׀ בְּכָל־שָׁלְטָ֣ן מַלְכוּתִ֗י לֶהֱוֺ֤ן *זאעין **זָיְעִין֙ וְדָ֣חֲלִ֔ין מִן־קֳדָ֖ם אֱלָהֵ֣הּ דִּי־דָֽנִיֵּ֑אל דִּי־ה֣וּא ׀ אֱלָהָ֣א חַיָּ֗א וְקַיָּם֙ לְעָ֣לְמִ֔ין וּמַלְכוּתֵהּ֙ דִּֽי־לָ֣א תִתְחַבַּ֔ל וְשָׁלְטָנֵ֖הּ עַד־סוֹפָֽא׃"
+      ],
+      "german": "Er ist ein lebendiger Gott, der ewig bleibt, und sein Reich ist unvergänglich.\n"
+    }
+  },
+  "2023-10-24": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "40",
+      "verses": "6"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "רַבּ֤וֹת עָשִׂ֨יתָ ׀ אַתָּ֤ה ׀ יְהוָ֣ה אֱלֹהַי֮ נִֽפְלְאֹתֶ֥יךָ וּמַחְשְׁבֹתֶ֗יךָ אֵ֫לֵ֥ינוּ אֵ֤ין ׀ עֲרֹ֬ךְ אֵלֶ֗יךָ אַגִּ֥ידָה וַאֲדַבֵּ֑רָה עָ֝צְמ֗וּ מִסַּפֵּֽר׃"
+      ],
+      "german": "HERR, mein Gott, groß sind deine Wunder und deine Gedanken, die du an uns beweisest; dir ist nichts gleich!\n"
+    }
+  },
+  "2023-10-25": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "22",
+      "verses": "28"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "יִזְכְּר֤וּ ׀ וְיָשֻׁ֣בוּ אֶל־יְ֭הוָה כָּל־אַפְסֵי־אָ֑רֶץ וְיִֽשְׁתַּחֲו֥וּ לְ֝פָנֶ֗יךָ כָּֽל־מִשְׁפְּח֥וֹת גּוֹיִֽם׃"
+      ],
+      "german": "Es werden sich zum HERRN bekehren aller Welt Enden.\n"
+    }
+  },
+  "2023-10-26": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "50",
+      "verses": "4"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אֲדֹנָ֣י יְהֹוִ֗ה נָ֤תַן לִי֙ לְשׁ֣וֹן לִמּוּדִ֔ים לָדַ֛עַת לָע֥וּת אֶת־יָעֵ֖ף דָּבָ֑ר יָעִ֣יר ׀ בַּבֹּ֣קֶר בַּבֹּ֗קֶר יָעִ֥יר לִי֙ אֹ֔זֶן לִשְׁמֹ֖עַ כַּלִּמּוּדִֽים׃"
+      ],
+      "german": "Er weckt mich alle Morgen; er weckt mir das Ohr, dass ich höre, wie Jünger hören.\n"
+    }
+  },
+  "2023-10-27": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "27",
+      "verses": "1"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "לְדָוִ֨ד ׀ יְהוָ֤ה ׀ אוֹרִ֣י וְ֭יִשְׁעִי מִמִּ֣י אִירָ֑א יְהוָ֥ה מָֽעוֹז־חַ֝יַּ֗י מִמִּ֥י אֶפְחָֽד׃"
+      ],
+      "german": "Der HERR ist meines Lebens Kraft; vor wem sollte mir grauen?\n"
+    }
+  },
+  "2023-10-28": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "38",
+      "verses": "17"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "הִנֵּ֥ה לְשָׁל֖וֹם מַר־לִ֣י מָ֑ר וְאַתָּ֞ה חָשַׁ֤קְתָּ נַפְשִׁי֙ מִשַּׁ֣חַת בְּלִ֔י כִּ֥י הִשְׁלַ֛כְתָּ אַחֲרֵ֥י גֵוְךָ֖ כָּל־חֲטָאָֽי׃"
+      ],
+      "german": "Siehe, um Trost war mir sehr bange. Du aber hast dich meiner Seele herzlich angenommen, dass sie nicht verdürbe; denn du wirfst alle meine Sünden hinter dich zurück.\n"
+    }
+  },
+  "2023-10-29": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "57",
+      "verses": "11"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְאֶת־מִ֞י דָּאַ֤גְתְּ וַתִּֽירְאִי֙ כִּ֣י תְכַזֵּ֔בִי וְאוֹתִי֙ לֹ֣א זָכַ֔רְתְּ לֹא־שַׂ֖מְתְּ עַל־לִבֵּ֑ךְ הֲלֹ֨א אֲנִ֤י מַחְשֶׁה֙ וּמֵ֣עֹלָ֔ם וְאוֹתִ֖י לֹ֥א תִירָֽאִי׃"
+      ],
+      "german": "/Der HERR spricht:/ Wen hast du gescheut und gefürchtet, dass du treulos wurdest und nicht an mich dachtest?\n"
+    }
+  },
+  "2023-10-30": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "32",
+      "verses": "17"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְהָיָ֛ה מַעֲשֵׂ֥ה הַצְּדָקָ֖ה שָׁל֑וֹם וַֽעֲבֹדַת֙ הַצְּדָקָ֔ה הַשְׁקֵ֥ט וָבֶ֖טַח עַד־עוֹלָֽם׃"
+      ],
+      "german": "Das Werk der Gerechtigkeit wird Friede sein und der Ertrag der Gerechtigkeit Ruhe und Sicherheit für immer.\n"
+    }
+  },
+  "2023-10-31": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "64",
+      "verses": "5"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַנְּהִ֤י כַטָּמֵא֙ כֻּלָּ֔נוּ וּכְבֶ֥גֶד עִדִּ֖ים כָּל־צִדְקֹתֵ֑ינוּ וַנָּ֤בֶל כֶּֽעָלֶה֙ כֻּלָּ֔נוּ וַעֲוֺנֵ֖נוּ כָּר֥וּחַ יִשָּׂאֻֽנוּ׃"
+      ],
+      "german": "Wir wurden alle wie die Unreinen, und alle unsre Gerechtigkeit ist wie ein beflecktes Kleid.\n"
+    }
+  },
+  "2023-11-01": {
+    "book": {
+      "book_de": "5. Mose",
+      "book_en": "Deuteronomy",
+      "book_he": "דברים",
+      "chapter": "32",
+      "verses": "7"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "זְכֹר֙ יְמ֣וֹת עוֹלָ֔ם בִּ֖ינוּ שְׁנ֣וֹת דּוֹר־וָד֑וֹר שְׁאַ֤ל אָבִ֙יךָ֙ וְיַגֵּ֔דְךָ זְקֵנֶ֖יךָ וְיֹ֥אמְרוּ לָֽךְ׃"
+      ],
+      "german": "Gedenke der vorigen Zeiten und hab acht auf die Jahre von Geschlecht zu Geschlecht. Frage deinen Vater, der wird dir’s verkünden, deine Ältesten, die werden dir’s sagen.\n"
+    }
+  },
+  "2023-11-02": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "50",
+      "verses": "4"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אֲדֹנָ֣י יְהֹוִ֗ה נָ֤תַן לִי֙ לְשׁ֣וֹן לִמּוּדִ֔ים לָדַ֛עַת לָע֥וּת אֶת־יָעֵ֖ף דָּבָ֑ר יָעִ֣יר ׀ בַּבֹּ֣קֶר בַּבֹּ֗קֶר יָעִ֥יר לִי֙ אֹ֔זֶן לִשְׁמֹ֖עַ כַּלִּמּוּדִֽים׃"
+      ],
+      "german": "Gott der HERR hat mir eine Zunge gegeben, wie sie Jünger haben, dass ich wisse mit den Müden zu rechter Zeit zu reden.\n"
+    }
+  },
+  "2023-11-03": {
+    "book": {
+      "book_de": "Zefanja",
+      "book_en": "Zephaniah",
+      "book_he": "צפניה",
+      "chapter": "2",
+      "verses": "3"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "בַּקְּשׁ֤וּ אֶת־יְהוָה֙ כָּל־עַנְוֵ֣י הָאָ֔רֶץ אֲשֶׁ֥ר מִשְׁפָּט֖וֹ פָּעָ֑לוּ בַּקְּשׁוּ־צֶ֙דֶק֙ בַּקְּשׁ֣וּ עֲנָוָ֔ה אוּלַי֙ תִּסָּ֣תְר֔וּ בְּי֖וֹם אַף־יְהוָֽה׃"
+      ],
+      "german": "Suchet den HERRN, all ihr Elenden im Lande, die ihr seine Rechte haltet! Suchet Gerechtigkeit, suchet Demut!\n"
+    }
+  },
+  "2023-11-04": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "66",
+      "verses": "13"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כְּאִ֕ישׁ אֲשֶׁ֥ר אִמּ֖וֹ תְּנַחֲמֶ֑נּוּ כֵּ֤ן אָֽנֹכִי֙ אֲנַ֣חֶמְכֶ֔ם וּבִירֽוּשָׁלַ֖͏ִם תְּנֻחָֽמוּ׃"
+      ],
+      "german": "Ich will euch trösten, wie einen seine Mutter tröstet.\n"
+    }
+  },
+  "2023-11-05": {
+    "book": {
+      "book_de": "Sprüche",
+      "book_en": "Proverbs",
+      "book_he": "משלי",
+      "chapter": "21",
+      "verses": "21"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "רֹ֭דֵף צְדָקָ֣ה וָחָ֑סֶד יִמְצָ֥א חַ֝יִּ֗ים צְדָקָ֥ה וְכָבֽוֹד׃"
+      ],
+      "german": "Wer der Gerechtigkeit und Güte nachjagt, der findet Leben, Gerechtigkeit und Ehre.\n"
+    }
+  },
+  "2023-11-06": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "77",
+      "verses": "14"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אֱ֭לֹהִים בַּקֹּ֣דֶשׁ דַּרְכֶּ֑ךָ מִי־אֵ֥ל גָּ֝ד֗וֹל כֵּֽאלֹהִֽים׃"
+      ],
+      "german": "Gott, dein Weg ist heilig.\n"
+    }
+  },
+  "2023-11-07": {
+    "book": {
+      "book_de": "Hesekiel",
+      "book_en": "Ezekiel",
+      "book_he": "יחזקאל",
+      "chapter": "34",
+      "verses": "23"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַהֲקִמֹתִ֨י עֲלֵיהֶ֜ם רֹעֶ֤ה אֶחָד֙ וְרָעָ֣ה אֶתְהֶ֔ן אֵ֖ת עַבְדִּ֣י דָוִ֑יד ה֚וּא יִרְעֶ֣ה אֹתָ֔ם וְהֽוּא־יִהְיֶ֥ה לָהֶ֖ן לְרֹעֶֽה׃"
+      ],
+      "german": "Ich will ihnen einen einzigen Hirten erwecken, der sie weiden soll.\n"
+    }
+  },
+  "2023-11-08": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "118",
+      "verses": "26"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "בָּר֣וּךְ הַ֭בָּא בְּשֵׁ֣ם יְהוָ֑ה בֵּ֝רַֽכְנוּכֶ֗ם מִבֵּ֥ית יְהוָֽה׃"
+      ],
+      "german": "Gelobt sei, der da kommt im Namen des HERRN!\n"
+    }
+  },
+  "2023-11-09": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "31",
+      "verses": "23"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַאֲנִ֤י ׀ אָ֘מַ֤רְתִּי בְחָפְזִ֗י נִגְרַזְתִּי֮ מִנֶּ֢גֶד עֵ֫ינֶ֥יךָ אָכֵ֗ן שָׁ֭מַעְתָּ ק֥וֹל תַּחֲנוּנַ֗י בְּשַׁוְּעִ֥י אֵלֶֽיךָ׃"
+      ],
+      "german": "Ich sprach wohl in meinem Zagen: Ich bin von deinen Augen verstoßen. Doch du hörtest die Stimme meines Flehens, als ich zu dir schrie.\n"
+    }
+  },
+  "2023-11-10": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "5",
+      "verses": "21"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "ה֖וֹי חֲכָמִ֣ים בְּעֵֽינֵיהֶ֑ם וְנֶ֥גֶד פְּנֵיהֶ֖ם נְבֹנִֽים׃"
+      ],
+      "german": "Weh denen, die weise sind in ihren eigenen Augen und halten sich selbst für klug!\n"
+    }
+  },
+  "2023-11-11": {
+    "book": {
+      "book_de": "1. Mose",
+      "book_en": "Genesis",
+      "book_he": "בראשית",
+      "chapter": "32",
+      "verses": "2"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְיַעֲקֹ֖ב הָלַ֣ךְ לְדַרְכּ֑וֹ וַיִּפְגְּעוּ־ב֖וֹ מַלְאֲכֵ֥י אֱלֹהִֽים׃"
+      ],
+      "german": "Jakob zog seinen Weg. Und es begegneten ihm die Engel Gottes.\n"
+    }
+  },
+  "2023-11-12": {
+    "book": {
+      "book_de": "1. Mose",
+      "book_en": "Genesis",
+      "book_he": "בראשית",
+      "chapter": "45",
+      "verses": "24"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַיְשַׁלַּ֥ח אֶת־אֶחָ֖יו וַיֵּלֵ֑כוּ וַיֹּ֣אמֶר אֲלֵהֶ֔ם אַֽל־תִּרְגְּז֖וּ בַּדָּֽרֶךְ׃"
+      ],
+      "german": "Josef sprach zu seinen Brüdern: Zankt nicht auf dem Wege!\n"
+    }
+  },
+  "2023-11-13": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "50",
+      "verses": "5"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אֲדֹנָ֤י יְהוִה֙ פָּתַֽח־לִ֣י אֹ֔זֶן וְאָנֹכִ֖י לֹ֣א מָרִ֑יתִי אָח֖וֹר לֹ֥א נְסוּגֹֽתִי׃"
+      ],
+      "german": "Gott der HERR hat mir das Ohr geöffnet. Und ich bin nicht ungehorsam und weiche nicht zurück.\n"
+    }
+  },
+  "2023-11-14": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "57",
+      "verses": "16"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּ֣י לֹ֤א לְעוֹלָם֙ אָרִ֔יב וְלֹ֥א לָנֶ֖צַח אֶקְּצ֑וֹף כִּי־ר֙וּחַ֙ מִלְּפָנַ֣י יַֽעֲט֔וֹף וּנְשָׁמ֖וֹת אֲנִ֥י עָשִֽׂיתִי׃"
+      ],
+      "german": "/Gott spricht:/ Ich will nicht immerdar hadern und nicht ewiglich zürnen.\n"
+    }
+  },
+  "2023-11-15": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "55",
+      "verses": "1"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "ה֤וֹי כָּל־צָמֵא֙ לְכ֣וּ לַמַּ֔יִם וַאֲשֶׁ֥ר אֵֽין־ל֖וֹ כָּ֑סֶף לְכ֤וּ שִׁבְרוּ֙ וֶֽאֱכֹ֔לוּ וּלְכ֣וּ שִׁבְר֗וּ בְּלוֹא־כֶ֛סֶף וּבְל֥וֹא מְחִ֖יר יַ֥יִן וְחָלָֽב׃"
+      ],
+      "german": "Wohlan, alle, die ihr durstig seid, kommt her zum Wasser!\n"
+    }
+  },
+  "2023-11-16": {
+    "book": {
+      "book_de": "Jeremia",
+      "book_en": "Jeremiah",
+      "book_he": "ירמיה",
+      "chapter": "32",
+      "verses": "40"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְכָרַתִּ֤י לָהֶם֙ בְּרִ֣ית עוֹלָ֔ם אֲשֶׁ֤ר לֹֽא־אָשׁוּב֙ מֵאַ֣חֲרֵיהֶ֔ם לְהֵיטִיבִ֖י אוֹתָ֑ם וְאֶת־יִרְאָתִי֙ אֶתֵּ֣ן בִּלְבָבָ֔ם לְבִלְתִּ֖י ס֥וּר מֵעָלָֽי׃"
+      ],
+      "german": "Ich will einen ewigen Bund mit meinem Volk schließen, dass ich nicht ablassen will, ihnen Gutes zu tun.\n"
+    }
+  },
+  "2023-11-17": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "55",
+      "verses": "8"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּ֣י לֹ֤א מַחְשְׁבוֹתַי֙ מַחְשְׁב֣וֹתֵיכֶ֔ם וְלֹ֥א דַרְכֵיכֶ֖ם דְּרָכָ֑י נְאֻ֖ם יְהוָֽה׃"
+      ],
+      "german": "Meine Gedanken sind nicht eure Gedanken, und eure Wege sind nicht meine Wege, spricht der HERR.\n"
+    }
+  },
+  "2023-11-18": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "33",
+      "verses": "17-18"
+    },
+    "multiple": true,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "שֶׁ֣קֶר הַ֭סּוּס לִתְשׁוּעָ֑ה וּבְרֹ֥ב חֵ֝יל֗וֹ לֹ֣א יְמַלֵּֽט׃",
+        "הִנֵּ֤ה עֵ֣ין יְ֭הוָה אֶל־יְרֵאָ֑יו לַֽמְיַחֲלִ֥ים לְחַסְדּֽוֹ׃"
+      ],
+      "german": "Rosse helfen nicht; da wäre man betrogen; und ihre große Stärke errettet nicht. Siehe, des HERRN Auge sieht auf alle, die ihn fürchten, die auf seine Güte hoffen.\n"
+    }
+  },
+  "2023-11-19": {
+    "book": {
+      "book_de": "Maleachi",
+      "book_en": "Malachi",
+      "book_he": "מלאכי",
+      "chapter": "2",
+      "verses": "7"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּֽי־שִׂפְתֵ֤י כֹהֵן֙ יִשְׁמְרוּ־דַ֔עַת וְתוֹרָ֖ה יְבַקְשׁ֣וּ מִפִּ֑יהוּ כִּ֛י מַלְאַ֥ךְ יְהוָֽה־צְבָא֖וֹת הֽוּא׃"
+      ],
+      "german": "Des Priesters Lippen sollen die Lehre bewahren, dass man aus seinem Munde Weisung suche; denn er ist ein Bote des HERRN Zebaoth.\n"
+    }
+  },
+  "2023-11-20": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "90",
+      "verses": "13"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "שׁוּבָ֣ה יְ֭הוָה עַד־מָתָ֑י וְ֝הִנָּחֵ֗ם עַל־עֲבָדֶֽיךָ׃"
+      ],
+      "german": "HERR, kehre dich doch endlich wieder zu uns und sei deinen Knechten gnädig!\n"
+    }
+  },
+  "2023-11-21": {
+    "book": {
+      "book_de": "1. Samuel",
+      "book_en": "Samuel_1",
+      "book_he": "שמואל א",
+      "chapter": "7",
+      "verses": "12"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַיִּקַּ֨ח שְׁמוּאֵ֜ל אֶ֣בֶן אַחַ֗ת וַיָּ֤שֶׂם בֵּֽין־הַמִּצְפָּה֙ וּבֵ֣ין הַשֵּׁ֔ן וַיִּקְרָ֥א אֶת־שְׁמָ֖הּ אֶ֣בֶן הָעָ֑זֶר וַיֹּאמַ֕ר עַד־הֵ֖נָּה עֲזָרָ֥נוּ יְהוָֽה׃"
+      ],
+      "german": "Bis hierher hat uns der HERR geholfen.\n"
+    }
+  },
+  "2023-11-22": {
+    "book": {
+      "book_de": "Hiob",
+      "book_en": "Job",
+      "book_he": "איוב",
+      "chapter": "9",
+      "verses": "2-3"
+    },
+    "multiple": true,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אָ֭מְנָם יָדַ֣עְתִּי כִי־כֵ֑ן וּמַה־יִּצְדַּ֖ק אֱנ֣וֹשׁ עִם־אֵֽל׃",
+        "אִם־יַ֭חְפֹּץ לָרִ֣יב עִמּ֑וֹ לֹֽא־יַ֝עֲנֶ֗נּוּ אַחַ֥ת מִנִּי־אָֽלֶף׃"
+      ],
+      "german": "Wie könnte ein Mensch recht behalten gegen Gott. Hat er Lust, mit ihm zu streiten, so kann er ihm auf tausend nicht eines antworten.\n"
+    }
+  },
+  "2023-11-23": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "69",
+      "verses": "6"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אֱ‍ֽלֹהִ֗ים אַתָּ֣ה יָ֭דַעְתָּ לְאִוַּלְתִּ֑י וְ֝אַשְׁמוֹתַ֗י מִמְּךָ֥ לֹא־נִכְחָֽדוּ׃"
+      ],
+      "german": "Gott, du kennst meine Torheit, und meine Schuld ist dir nicht verborgen.\n"
+    }
+  },
+  "2023-11-24": {
+    "book": {
+      "book_de": "Sacharja",
+      "book_en": "Zechariah",
+      "book_he": "זכריה",
+      "chapter": "13",
+      "verses": "9"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְהֵבֵאתִ֤י אֶת־הַשְּׁלִשִׁית֙ בָּאֵ֔שׁ וּצְרַפְתִּים֙ כִּצְרֹ֣ף אֶת־הַכֶּ֔סֶף וּבְחַנְתִּ֖ים כִּבְחֹ֣ן אֶת־הַזָּהָ֑ב ה֣וּא ׀ יִקְרָ֣א בִשְׁמִ֗י וַֽאֲנִי֙ אֶעֱנֶ֣ה אֹת֔וֹ אָמַ֙רְתִּי֙ עַמִּ֣י ה֔וּא וְה֥וּא יֹאמַ֖ר יְהוָ֥ה אֱלֹהָֽי׃ ס"
+      ],
+      "german": "Ich werde zu ihnen sagen: »Ihr seid mein Volk«, und sie werden sagen: »Du, HERR, bist unser Gott.«\n"
+    }
+  },
+  "2023-11-25": {
+    "book": {
+      "book_de": "2. Mose",
+      "book_en": "Exodus",
+      "book_he": "שמות",
+      "chapter": "24",
+      "verses": "7"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַיִּקַּח֙ סֵ֣פֶר הַבְּרִ֔ית וַיִּקְרָ֖א בְּאָזְנֵ֣י הָעָ֑ם וַיֹּ֣אמְר֔וּ כֹּ֛ל אֲשֶׁר־דִּבֶּ֥ר יְהוָ֖ה נַעֲשֶׂ֥ה וְנִשְׁמָֽע׃"
+      ],
+      "german": "Alles, was der HERR gesagt hat, wollen wir tun und darauf hören.\n"
+    }
+  },
+  "2023-11-26": {
+    "book": {
+      "book_de": "Nahum",
+      "book_en": "Nahum",
+      "book_he": "נחום",
+      "chapter": "1",
+      "verses": "7"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "ט֣וֹב יְהוָ֔ה לְמָע֖וֹז בְּי֣וֹם צָרָ֑ה וְיֹדֵ֖עַ חֹ֥סֵי בֽוֹ׃"
+      ],
+      "german": "Der HERR ist gütig und eine Feste zur Zeit der Not und kennt, die auf ihn trauen.\n"
+    }
+  },
+  "2023-11-27": {
+    "book": {
+      "book_de": "Sacharja",
+      "book_en": "Zechariah",
+      "book_he": "זכריה",
+      "chapter": "7",
+      "verses": "10"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְאַלְמָנָ֧ה וְיָת֛וֹם גֵּ֥ר וְעָנִ֖י אַֽל־תַּעֲשֹׁ֑קוּ וְרָעַת֙ אִ֣ישׁ אָחִ֔יו אַֽל־תַּחְשְׁב֖וּ בִּלְבַבְכֶֽם׃"
+      ],
+      "german": "Bedrückt nicht die Witwen, Waisen, Fremdlinge und Armen!\n"
+    }
+  },
+  "2023-11-28": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "119",
+      "verses": "130"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "פֵּ֖תַח דְּבָרֶ֥יךָ יָאִ֗יר מֵבִ֥ין פְּתָיִֽים׃"
+      ],
+      "german": "Wenn dein Wort offenbar wird, so erleuchtet es und macht klug die Unverständigen.\n"
+    }
+  },
+  "2023-11-29": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "12",
+      "verses": "2"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "הוֹשִׁ֣יעָה יְ֭הוָה כִּי־גָמַ֣ר חָסִ֑יד כִּי־פַ֥סּוּ אֱ֝מוּנִ֗ים מִבְּנֵ֥י אָדָֽם׃"
+      ],
+      "german": "Hilf, HERR! Die Heiligen haben abgenommen, und treu sind wenige unter den Menschenkindern.\n"
+    }
+  },
+  "2023-11-30": {
+    "book": {
+      "book_de": "Maleachi",
+      "book_en": "Malachi",
+      "book_he": "מלאכי",
+      "chapter": "3",
+      "verses": "20"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְזָרְחָ֨ה לָכֶ֜ם יִרְאֵ֤י שְׁמִי֙ שֶׁ֣מֶשׁ צְדָקָ֔ה וּמַרְפֵּ֖א בִּכְנָפֶ֑יהָ וִֽיצָאתֶ֥ם וּפִשְׁתֶּ֖ם כְּעֶגְלֵ֥י מַרְבֵּֽק׃"
+      ],
+      "german": "Euch, die ihr meinen Namen fürchtet, soll aufgehen die Sonne der Gerechtigkeit und Heil unter ihren Flügeln.\n"
+    }
+  },
+  "2023-12-01": {
+    "book": {
+      "book_de": "Jeremia",
+      "book_en": "Jeremiah",
+      "book_he": "ירמיה",
+      "chapter": "9",
+      "verses": "6"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "לָכֵ֗ן כֹּ֤ה אָמַר֙ יְהוָ֣ה צְבָא֔וֹת הִנְנִ֥י צוֹרְפָ֖ם וּבְחַנְתִּ֑ים כִּֽי־אֵ֣יךְ אֶעֱשֶׂ֔ה מִפְּנֵ֖י בַּת־עַמִּֽי׃"
+      ],
+      "german": "Siehe, ich will mein Volk schmelzen und prüfen.\n"
+    }
+  },
+  "2023-12-02": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "31",
+      "verses": "10"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "חָנֵּ֥נִי יְהוָה֮ כִּ֤י צַ֫ר־לִ֥י עָשְׁשָׁ֖ה בְכַ֥עַס עֵינִ֗י נַפְשִׁ֥י וּבִטְנִֽי׃"
+      ],
+      "german": "HERR, sei mir gnädig, denn mir ist angst!\n"
+    }
+  },
+  "2023-12-03": {
+    "book": {
+      "book_de": "Sacharja",
+      "book_en": "Zechariah",
+      "book_he": "זכריה",
+      "chapter": "1",
+      "verses": "17"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "ע֣וֹד ׀ קְרָ֣א לֵאמֹ֗ר כֹּ֤ה אָמַר֙ יְהוָ֣ה צְבָא֔וֹת ע֛וֹד תְּפוּצֶ֥ינָה עָרַ֖י מִטּ֑וֹב וְנִחַ֨ם יְהוָ֥ה עוֹד֙ אֶת־צִיּ֔וֹן וּבָחַ֥ר ע֖וֹד בִּירוּשָׁלָֽ͏ִם׃ ס"
+      ],
+      "german": "Der HERR wird Zion wieder trösten.\n"
+    }
+  },
+  "2023-12-04": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "41",
+      "verses": "10"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אַל־תִּירָא֙ כִּ֣י עִמְּךָ־אָ֔נִי אַל־תִּשְׁתָּ֖ע כִּֽי־אֲנִ֣י אֱלֹהֶ֑יךָ אִמַּצְתִּ֙יךָ֙ אַף־עֲזַרְתִּ֔יךָ אַף־תְּמַכְתִּ֖יךָ בִּימִ֥ין צִדְקִֽי׃"
+      ],
+      "german": "Fürchte dich nicht, ich bin mit dir; weiche nicht, denn ich bin dein Gott.\n"
+    }
+  },
+  "2023-12-05": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "65",
+      "verses": "4"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "דִּבְרֵ֣י עֲ֭וֺנֹת גָּ֣בְרוּ מֶ֑נִּי פְּ֝שָׁעֵ֗ינוּ אַתָּ֥ה תְכַפְּרֵֽם׃"
+      ],
+      "german": "Zu schwer lasten unsere Vergehen auf uns, du allein kannst sie vergeben.\n"
+    }
+  },
+  "2023-12-06": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "60",
+      "verses": "20"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "לֹא־יָב֥וֹא עוֹד֙ שִׁמְשֵׁ֔ךְ וִירֵחֵ֖ךְ לֹ֣א יֵאָסֵ֑ף כִּ֣י יְהוָ֗ה יִֽהְיֶה־לָּךְ֙ לְא֣וֹר עוֹלָ֔ם וְשָׁלְמ֖וּ יְמֵ֥י אֶבְלֵֽךְ׃"
+      ],
+      "german": "Die Tage deiner Trauer werden ein Ende haben.\n"
+    }
+  },
+  "2023-12-07": {
+    "book": {
+      "book_de": "Richter",
+      "book_en": "Judges",
+      "book_he": "שופטים",
+      "chapter": "10",
+      "verses": "10"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַֽיִּזְעֲקוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל אֶל־יְהוָ֖ה לֵאמֹ֑ר חָטָ֣אנוּ לָ֔ךְ וְכִ֤י עָזַ֙בְנוּ֙ אֶת־אֱלֹהֵ֔ינוּ וַֽנַּעֲבֹ֖ד אֶת־הַבְּעָלִֽים׃ פ"
+      ],
+      "german": "Die Israeliten schrien zu dem HERRN und sprachen: Wir haben an dir gesündigt, denn wir haben unsern Gott verlassen.\n"
+    }
+  },
+  "2023-12-08": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "43",
+      "verses": "18-19"
+    },
+    "multiple": true,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אַֽל־תִּזְכְּר֖וּ רִֽאשֹׁנ֑וֹת וְקַדְמֹנִיּ֖וֹת אַל־תִּתְבֹּנָֽנוּ׃",
+        "הִנְנִ֨י עֹשֶׂ֤ה חֲדָשָׁה֙ עַתָּ֣ה תִצְמָ֔ח הֲל֖וֹא תֵֽדָע֑וּהָ אַ֣ף אָשִׂ֤ים בַּמִּדְבָּר֙ דֶּ֔רֶךְ בִּֽישִׁמ֖וֹן נְהָרֽוֹת׃"
+      ],
+      "german": "Gedenkt nicht an das Frühere und achtet nicht auf das Vorige! Denn siehe, ich will ein Neues schaffen, jetzt wächst es auf, erkennt ihr’s denn nicht?\n"
+    }
+  },
+  "2023-12-09": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "30",
+      "verses": "4"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "יְֽהוָ֗ה הֶֽעֱלִ֣יתָ מִן־שְׁא֣וֹל נַפְשִׁ֑י חִ֝יִּיתַ֗נִי *מיורדי־**מִיָּֽרְדִי־בֽוֹר׃"
+      ],
+      "german": "HERR, du hast mich heraufgeholt aus dem Totenreich, zum Leben mich zurückgerufen von denen, die hinab zur Grube fuhren.\n"
+    }
+  },
+  "2023-12-10": {
+    "book": {
+      "book_de": "5. Mose",
+      "book_en": "Deuteronomy",
+      "book_he": "דברים",
+      "chapter": "3",
+      "verses": "24"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אֲדֹנָ֣י יְהוִ֗ה אַתָּ֤ה הַֽחִלּ֙וֹתָ֙ לְהַרְא֣וֹת אֶֽת־עַבְדְּךָ֔ אֶ֨ת־גָּדְלְךָ֔ וְאֶת־יָדְךָ֖ הַחֲזָקָ֑ה אֲשֶׁ֤ר מִי־אֵל֙ בַּשָּׁמַ֣יִם וּבָאָ֔רֶץ אֲשֶׁר־יַעֲשֶׂ֥ה כְמַעֲשֶׂ֖יךָ וְכִגְבוּרֹתֶֽךָ׃"
+      ],
+      "german": "Wo ist ein Gott im Himmel und auf Erden, der es deinen Werken und deiner Macht gleichtun könnte?\n"
+    }
+  },
+  "2023-12-11": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "38",
+      "verses": "10"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אֲ‍ֽדנָ֗‪[t]‬י נֶגְדְּךָ֥ כָל־תַּאֲוָתִ֑י וְ֝אַנְחָתִ֗י מִמְּךָ֥ לֹא־נִסְתָּֽרָה׃"
+      ],
+      "german": "Herr, vor dir liegt all mein Sehnen, und mein Seufzen ist dir nicht verborgen.\n"
+    }
+  },
+  "2023-12-12": {
+    "book": {
+      "book_de": "1. Mose",
+      "book_en": "Genesis",
+      "book_he": "בראשית",
+      "chapter": "2",
+      "verses": "3"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַיְבָ֤רֶךְ אֱלֹהִים֙ אֶת־י֣וֹם הַשְּׁבִיעִ֔י וַיְקַדֵּ֖שׁ אֹת֑וֹ כִּ֣י ב֤וֹ שָׁבַת֙ מִכָּל־מְלַאכְתּ֔וֹ אֲשֶׁר־בָּרָ֥א אֱלֹהִ֖ים לַעֲשֽׂוֹת׃ פ"
+      ],
+      "german": "Gott segnete den siebenten Tag und heiligte ihn, weil er an ihm ruhte von allen seinen Werken.\n"
+    }
+  },
+  "2023-12-13": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "139",
+      "verses": "4"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּ֤י אֵ֣ין מִ֭לָּה בִּלְשׁוֹנִ֑י הֵ֥ן יְ֝הוָ֗ה יָדַ֥עְתָּ כֻלָּֽהּ׃"
+      ],
+      "german": "Siehe, es ist kein Wort auf meiner Zunge, das du, HERR, nicht alles wüsstest.\n"
+    }
+  },
+  "2023-12-14": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "97",
+      "verses": "11"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "א֭וֹר זָרֻ֣עַ לַצַּדִּ֑יק וּֽלְיִשְׁרֵי־לֵ֥ב שִׂמְחָֽה׃"
+      ],
+      "german": "Dem Gerechten muss das Licht immer wieder aufgehen und Freude den aufrichtigen Herzen.\n"
+    }
+  },
+  "2023-12-15": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "107",
+      "verses": "23.24.31"
+    },
+    "multiple": true,
+    "multiple_parts": true,
+    "text": {
+      "hebrew": [
+        "יוֹרְדֵ֣י הַ֭יָּם בָּאֳנִיּ֑וֹת עֹשֵׂ֥י מְ֝לָאכָ֗ה בְּמַ֣יִם רַבִּֽים׃׆",
+        "הֵ֣מָּה רָ֭אוּ מַעֲשֵׂ֣י יְהוָ֑ה וְ֝נִפְלְאוֹתָ֗יו בִּמְצוּלָֽה׃׆",
+        "יוֹד֣וּ לַיהוָ֣ה חַסְדּ֑וֹ וְ֝נִפְלְאוֹתָ֗יו לִבְנֵ֥י אָדָֽם׃"
+      ],
+      "german": "Die mit Schiffen auf dem Meere fuhren und des HERRN Werke erfahren haben und seine Wunder im Meer: Die sollen dem HERRN danken für seine Güte und für seine Wunder, die er an den Menschenkindern tut.\n"
+    }
+  },
+  "2023-12-16": {
+    "book": {
+      "book_de": "Joel",
+      "book_en": "Joel",
+      "book_he": "יואל",
+      "chapter": "2",
+      "verses": "19"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וַיַּ֨עַן יְהוָ֜ה וַיֹּ֣אמֶר לְעַמּ֗וֹ הִנְנִ֨י שֹׁלֵ֤חַ לָכֶם֙ אֶת־הַדָּגָן֙ וְהַתִּיר֣וֹשׁ וְהַיִּצְהָ֔ר וּשְׂבַעְתֶּ֖ם אֹת֑וֹ וְלֹא־אֶתֵּ֨ן אֶתְכֶ֥ם ע֛וֹד חֶרְפָּ֖ה בַּגּוֹיִֽם׃"
+      ],
+      "german": "/Der HERR sprach zu seinem Volk:/ Siehe, ich will euch Getreide, Wein und Öl die Fülle schicken, dass ihr genug daran haben sollt.\n"
+    }
+  },
+  "2023-12-17": {
+    "book": {
+      "book_de": "4. Mose",
+      "book_en": "Numbers",
+      "book_he": "במדבר",
+      "chapter": "23",
+      "verses": "19"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "לֹ֣א אִ֥ישׁ אֵל֙ וִֽיכַזֵּ֔ב וּבֶן־אָדָ֖ם וְיִתְנֶחָ֑ם הַה֤וּא אָמַר֙ וְלֹ֣א יַעֲשֶׂ֔ה וְדִבֶּ֖ר וְלֹ֥א יְקִימֶֽנָּה׃"
+      ],
+      "german": "Gott ist nicht ein Mensch, dass er lüge, noch ein Menschenkind, dass ihn etwas gereue.\n"
+    }
+  },
+  "2023-12-18": {
+    "book": {
+      "book_de": "Daniel",
+      "book_en": "Daniel",
+      "book_he": "דניאל",
+      "chapter": "2",
+      "verses": "21"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְ֠הוּא מְהַשְׁנֵ֤א עִדָּנַיָּא֙ וְזִמְנַיָּ֔א מְהַעְדֵּ֥ה מַלְכִ֖ין וּמְהָקֵ֣ים מַלְכִ֑ין יָהֵ֤ב חָכְמְתָא֙ לְחַכִּימִ֔ין וּמַנְדְּעָ֖א לְיָדְעֵ֥י בִינָֽה׃"
+      ],
+      "german": "Gott ändert Zeit und Stunde; er setzt Könige ab und setzt Könige ein.\n"
+    }
+  },
+  "2023-12-19": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "34",
+      "verses": "16"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "עֵינֵ֣י יְ֭הוָה אֶל־צַדִּיקִ֑ים וְ֝אָזְנָ֗יו אֶל־שַׁוְעָתָֽם׃"
+      ],
+      "german": "Die Augen des HERRN merken auf die Gerechten und seine Ohren auf ihr Schreien.\n"
+    }
+  },
+  "2023-12-20": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "103",
+      "verses": "2.3"
+    },
+    "multiple": true,
+    "multiple_parts": true,
+    "text": {
+      "hebrew": [
+        "בָּרֲכִ֣י נַ֭פְשִׁי אֶת־יְהוָ֑ה וְאַל־תִּ֝שְׁכְּחִ֗י כָּל־גְּמוּלָֽיו׃",
+        "הַסֹּלֵ֥חַ לְכָל־עֲוֺנֵ֑כִי הָ֝רֹפֵ֗א לְכָל־תַּחֲלֻאָֽיְכִי׃"
+      ],
+      "german": "Lobe den HERRN, der dir alle deine Sünde vergibt und heilet alle deine Gebrechen.\n"
+    }
+  },
+  "2023-12-21": {
+    "book": {
+      "book_de": "Hesekiel",
+      "book_en": "Ezekiel",
+      "book_he": "יחזקאל",
+      "chapter": "37",
+      "verses": "14"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְנָתַתִּ֨י רוּחִ֤י בָכֶם֙ וִחְיִיתֶ֔ם וְהִנַּחְתִּ֥י אֶתְכֶ֖ם עַל־אַדְמַתְכֶ֑ם וִידַעְתֶּ֞ם כִּי־אֲנִ֧י יְהוָ֛ה דִּבַּ֥רְתִּי וְעָשִׂ֖יתִי נְאֻם־יְהוָֽה׃ פ"
+      ],
+      "german": "Ich will meinen Odem in euch geben, dass ihr wieder leben sollt, und will euch in euer Land setzen, und ihr sollt erfahren, dass ich der HERR bin.\n"
+    }
+  },
+  "2023-12-22": {
+    "book": {
+      "book_de": "1. Samuel",
+      "book_en": "Samuel_1",
+      "book_he": "שמואל א",
+      "chapter": "12",
+      "verses": "15"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְאִם־לֹ֤א תִשְׁמְעוּ֙ בְּק֣וֹל יְהוָ֔ה וּמְרִיתֶ֖ם אֶת־פִּ֣י יְהוָ֑ה וְהָיְתָ֧ה יַד־יְהוָ֛ה בָּכֶ֖ם וּבַאֲבֹתֵיכֶֽם׃"
+      ],
+      "german": "Werdet ihr der Stimme des HERRN nicht gehorchen, so wird die Hand des HERRN gegen euch sein wie gegen eure Väter.\n"
+    }
+  },
+  "2023-12-23": {
+    "book": {
+      "book_de": "Hosea",
+      "book_en": "Hosea",
+      "book_he": "הושע",
+      "chapter": "6",
+      "verses": "6"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּ֛י חֶ֥סֶד חָפַ֖צְתִּי וְלֹא־זָ֑בַח וְדַ֥עַת אֱלֹהִ֖ים מֵעֹלֽוֹת׃"
+      ],
+      "german": "So spricht der HERR: Ich habe Lust an der Liebe und nicht am Opfer, an der Erkenntnis Gottes und nicht am Brandopfer.\n"
+    }
+  },
+  "2023-12-24": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "60",
+      "verses": "2"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כִּֽי־הִנֵּ֤ה הַחֹ֙שֶׁךְ֙ יְכַסֶּה־אֶ֔רֶץ וַעֲרָפֶ֖ל לְאֻמִּ֑ים וְעָלַ֙יִךְ֙ יִזְרַ֣ח יְהוָ֔ה וּכְבוֹד֖וֹ עָלַ֥יִךְ יֵרָאֶֽה׃"
+      ],
+      "german": "Siehe, Finsternis bedeckt das Erdreich und Dunkel die Völker; aber über dir geht auf der HERR, und seine Herrlichkeit erscheint über dir.\n"
+    }
+  },
+  "2023-12-25": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "38",
+      "verses": "14"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כְּס֤וּס עָגוּר֙ כֵּ֣ן אֲצַפְצֵ֔ף אֶהְגֶּ֖ה כַּיּוֹנָ֑ה דַּלּ֤וּ עֵינַי֙ לַמָּר֔וֹם אֲדֹנָ֖י עָֽשְׁקָה־לִּ֥י עָרְבֵֽנִי׃"
+      ],
+      "german": "Herr, ich leide Not, tritt für mich ein!\n"
+    }
+  },
+  "2023-12-26": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "60",
+      "verses": "16"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "וְיָנַקְתְּ֙ חֲלֵ֣ב גּוֹיִ֔ם וְשֹׁ֥ד מְלָכִ֖ים תִּינָ֑קִי וְיָדַ֗עַתְּ כִּ֣י אֲנִ֤י יְהוָה֙ מֽוֹשִׁיעֵ֔ךְ וְגֹאֲלֵ֖ךְ אֲבִ֥יר יַעֲקֹֽב׃"
+      ],
+      "german": "Ich, der HERR, bin dein Heiland, und ich, der Mächtige, dein Erlöser.\n"
+    }
+  },
+  "2023-12-27": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "44",
+      "verses": "6"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "כֹּֽה־אָמַ֨ר יְהוָ֧ה מֶֽלֶךְ־יִשְׂרָאֵ֛ל וְגֹאֲל֖וֹ יְהוָ֣ה צְבָא֑וֹת אֲנִ֤י רִאשׁוֹן֙ וַאֲנִ֣י אַחֲר֔וֹן וּמִבַּלְעָדַ֖י אֵ֥ין אֱלֹהִֽים׃"
+      ],
+      "german": "Ich bin der Erste, und ich bin der Letzte, und außer mir ist kein Gott.\n"
+    }
+  },
+  "2023-12-28": {
+    "book": {
+      "book_de": "Psalm",
+      "book_en": "Psalms",
+      "book_he": "תהלים",
+      "chapter": "104",
+      "verses": "14"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "מַצְמִ֤יחַ חָצִ֨יר ׀ לַבְּהֵמָ֗ה וְ֭עֵשֶׂב לַעֲבֹדַ֣ת הָאָדָ֑ם לְה֥וֹצִיא לֶ֝֗חֶם מִן־הָאָֽרֶץ׃"
+      ],
+      "german": "Du lässest Gras wachsen für das Vieh und Saat zu Nutz den Menschen, dass du Brot aus der Erde hervorbringst.\n"
+    }
+  },
+  "2023-12-29": {
+    "book": {
+      "book_de": "5. Mose",
+      "book_en": "Deuteronomy",
+      "book_he": "דברים",
+      "chapter": "30",
+      "verses": "2.3"
+    },
+    "multiple": true,
+    "multiple_parts": true,
+    "text": {
+      "hebrew": [
+        "וְשַׁבְתָּ֞ עַד־יְהוָ֤ה אֱלֹהֶ֙יךָ֙ וְשָׁמַעְתָּ֣ בְקֹל֔וֹ כְּכֹ֛ל אֲשֶׁר־אָנֹכִ֥י מְצַוְּךָ֖ הַיּ֑וֹם אַתָּ֣ה וּבָנֶ֔יךָ בְּכָל־לְבָבְךָ֖ וּבְכָל־נַפְשֶֽׁךָ׃",
+        "וְשָׁ֨ב יְהוָ֧ה אֱלֹהֶ֛יךָ אֶת־שְׁבוּתְךָ֖ וְרִחֲמֶ֑ךָ וְשָׁ֗ב וְקִבֶּצְךָ֙ מִכָּל־הָ֣עַמִּ֔ים אֲשֶׁ֧ר הֱפִֽיצְךָ֛ יְהוָ֥ה אֱלֹהֶ֖יךָ שָֽׁמָּה׃"
+      ],
+      "german": "Wenn du dich bekehrst zu dem HERRN, deinem Gott, wird er deine Gefangenschaft wenden und sich deiner erbarmen.\n"
+    }
+  },
+  "2023-12-30": {
+    "book": {
+      "book_de": "1. Mose",
+      "book_en": "Genesis",
+      "book_he": "בראשית",
+      "chapter": "39",
+      "verses": "9"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "אֵינֶ֨נּוּ גָד֜וֹל בַּבַּ֣יִת הַזֶּה֮ מִמֶּנִּי֒ וְלֹֽא־חָשַׂ֤ךְ מִמֶּ֙נִּי֙ מְא֔וּמָה כִּ֥י אִם־אוֹתָ֖ךְ בַּאֲשֶׁ֣ר אַתְּ־אִשְׁתּ֑וֹ וְאֵ֨יךְ אֶֽעֱשֶׂ֜ה הָרָעָ֤ה הַגְּדֹלָה֙ הַזֹּ֔את וְחָטָ֖אתִי לֵֽאלֹהִֽים׃"
+      ],
+      "german": "/Josef sprach zur Frau des Potifar, die ihn verführen wollte:/ Wie könnte ich ein so großes Unrecht begehen und gegen Gott sündigen?\n"
+    }
+  },
+  "2023-12-31": {
+    "book": {
+      "book_de": "Jesaja",
+      "book_en": "Isaiah",
+      "book_he": "ישעיה",
+      "chapter": "54",
+      "verses": "7"
+    },
+    "multiple": false,
+    "multiple_parts": false,
+    "text": {
+      "hebrew": [
+        "בְּרֶ֥גַע קָטֹ֖ן עֲזַבְתִּ֑יךְ וּבְרַחֲמִ֥ים גְּדֹלִ֖ים אֲקַבְּצֵֽךְ׃"
+      ],
+      "german": "Ich habe dich einen kleinen Augenblick verlassen, aber mit großer Barmherzigkeit will ich dich sammeln.\n"
+    }
+  }
+}
