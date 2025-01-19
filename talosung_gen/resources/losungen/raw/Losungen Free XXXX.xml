@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<FreeXml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://losungen.de/losungen.xsd">
+  <Losungen>
+    <Datum>2014-01-01T00:00:00</Datum>
+    <Wtag>Mittwoch</Wtag>
+    <Sonntag>Neujahr</Sonntag>
+    <Losungstext>Ich gab ihnen meine Sabbate zum Zeichen zwischen mir und ihnen.</Losungstext>
+    <Losungsvers>Hesekiel 20,12</Losungsvers>
+    <Lehrtext>/Jesus sprach:/ Ich bin gekommen, damit sie das Leben und volle Genüge haben sollen.</Lehrtext>
+    <Lehrtextvers>Johannes 10,10</Lehrtextvers>
+  </Losungen>
+  <Losungen>
+    <Datum>XXXX</Datum>
+    <Wtag>XXXX</Wtag>
+    <Sonntag />
+    <Losungstext>XXXX</Losungstext>
+    <Losungsvers>XXXX</Losungsvers>
+    <Lehrtext>XXXX</Lehrtext>
+    <Lehrtextvers>XXXX</Lehrtextvers>
+  </Losungen>
+
+</FreeXml>

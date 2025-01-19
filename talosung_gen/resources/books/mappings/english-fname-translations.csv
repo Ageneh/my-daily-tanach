@@ -1,0 +1,67 @@
+fname;abbr;ge;he;en;gr
+Genesis;Gen;1. Mose;בראשית;Genesis;γένεσις
+Exodus;Ex;2. Mose;שמות;Exodus;ἔξοδος
+Leviticus;Lev;3. Mose;ויקרא;Leviticus;λευϊτικόν
+Numbers;Num;4. Mose;במדבר;Numbers;ἀριθμοί
+Deuteronomy;Dtn;5. Mose;דברים;Deuteronomy;δευτερονόμιον
+Joshua;Jos;Josua;יהושע;Joshua;ἰησοῦς
+Judges;Ri;Richter;שופטים;Judges;κριταί
+Ruth;Rut;Rut;רות;Ruth;ῥούθ
+Samuel_1;1Sam;1. Samuel;שמואל א;1 Samuel;βασιλειῶν αʹ
+Samuel_2;2Sam;2. Samuel;שמואל ב;2 Samuel;βασιλειῶν βʹ
+Kings_1;1Kön;1. Könige;מלכים א;1 Kings;βασιλειῶν γʹ
+Kings_2;2Kön;2. Könige;מלכים ב;2 Kings;βασιλειῶν δʹ
+Chronicles_1;1Chr;1. Chronik;דברי הימים א;1 Chronicles;παραλειπομένων αʹ
+Chronicles_2;2Chr;2. Chronik;דברי הימים ב;2 Chronicles;παραλειπομένων βʹ
+Ezra;Esra;Esra;עזרא;Ezra;ἔσδρας αʹ
+Nehemiah;Neh;Nehemia;נחמיה;Nehemiah;ἔσδρας βʹ
+Esther;Est;Ester;אסתר;Esther;ἐσθήρ
+Job;Hiob;Hiob;איוב;Job;ἰώβ
+Psalms;Ps;Psalmen;תהלים;Psalms;ψαλμοί
+Proverbs;Spr;Sprüche;משלי;Proverbs;παροιμίαι
+Ecclesiastes;Pred;Prediger;קהלת;Ecclesiastes;ἐκκλησιαστής
+Song_of_Songs;Hld;Hoheslied;שיר השירים;Song of Solomon;ἆσμα ἀσμάτων
+Isaiah;Jes;Jesaja;ישעיה;Isaiah;ἠσαΐας
+Jeremiah;Jer;Jeremia;ירמיה;Jeremiah;ἱερεμίας
+Lamentations;Klgl;Klagelieder;איכה;Lamentations;θρῆνοι
+Ezekiel;Hes;Hesekiel;יחזקאל;Ezekiel;ἰεζεκιήλ
+Daniel;Dan;Daniel;דניאל;Daniel;δανιήλ
+Hosea;Hos;Hosea;הושע;Hosea;ὡσηέ αʹ
+Joel;Joel;Joel;יואל;Joel;ἰωήλ δʹ
+Amos;Am;Amos;עמוס;Amos;ἀμώς βʹ
+Obadiah;Obd;Obadja;עבדיה;Obadiah;ὀβδιού εʹ
+Jonah;Jona;Jona;יונה;Jonah;ἰωνᾶς ϛ'
+Micah;Mi;Micha;מיכה;Micah;μιχαίας γʹ
+Nahum;Nah;Nahum;נחום;Nahum;ναούμ ζʹ
+Habakkuk;Hab;Habakuk;חבקוק;Habakkuk;ἀμβακούμ ηʹ
+Zephaniah;Zef;Zefanja;צפניה;Zephaniah;σοφονίας θʹ
+Haggai;Hag;Haggai;חגי;Haggai;ἀγγαῖος ιʹ
+Zechariah;Sach;Sacharja;זכריה;Zechariah;ζαχαρίας ιαʹ
+Malachi;Mal;Maleachi;מלאכי;Malachi;μαλαχίας ιβʹ
+;Mt;Matthäus;מַתִּתְיָהוּ;Matthew;κατα μαθθαιον
+;Mk;Markus;מַרְקוֹס;Mark;κατα μαρκον
+;Lk;Lukas;לוּקָס;Luke;κατα λουκαν
+;Joh;Johannes;יוֹחָנָן;John;κατα ιωαννην
+;Apg;Apostelgeschichte;מַעֲשֵׂי הַשְּׁלִיחִים;Acts;πραξεις των αποστολων
+;Röm;Römer;אִגֶּרֶת אֶל-הָרוֹמִים;Romans;προς ρωμαιους
+;1Kor;1. Korinther;אִגֶּרֶת אֶל-הַקּוֹרִנְתִּיִים הָרִאשׁוֹנָה;1 Corinthians;προς κορινθιους α
+;2Kor;2. Korinther;אִגֶּרֶת אֶל-הַקּוֹרִנְתִּיִים הַשְּׁנִיָּה;2 Corinthians;προς κορινθιους β
+;Gal;Galater;אִגֶּרֶת אֶל-הַגְּלָטִים;Galatians;προς γαλατας
+;Eph;Epheser;אִגֶּרֶת אֶל-הָאֶפְסִים;Ephesians;προς εφεσιους
+;Phil;Philipper;אִגֶּרֶת אֶל-הַפִּילִפִּיִּים;Philippians;προς φιλιππησιους
+;Kol;Kolosser;אִגֶּרֶת אֶל-הַקּוֹלַסִּים;Colossians;προς κολοσσαεις
+;1Thess;1. Thessalonicher;אִגֶּרֶת אֶל-הַתְּסַלּוֹנִיקִים הָרִאשׁוֹנָה;1 Thessalonians;προς θεσσαλονικεις α
+;2Thess;2. Thessalonicher;אִגֶּרֶת אֶל-הַתְּסַלּוֹנִיקִים הַשְּׁנִיָּה;2 Thessalonians;προς θεσσαλονικεις β
+;1Tim;1. Timotheus;אִגֶּרֶת אֶל-טִימוֹתֵאוֹס הָרִאשׁוֹנָה;1 Timothy;προς τιμοθεον α
+;2Tim;2. Timotheus;אִגֶּרֶת אֶל-טִימוֹתֵאוֹס הַשְּׁנִיָּה;2 Timothy;προς τιμοθεον β
+;Tit;Titus;אִגֶּרֶת אֶל-טִיטוֹס;Titus;προς τιτον
+;Phlm;Philemon;אִגֶּרֶת אֶל-פִּילֵמוֹן;Philemon;προς φιλημονα
+;Hebr;Hebräer;אִגֶּרֶת אֶל-הָעִבְרִים;Hebrews;προς εβραιους
+;Jak;Jakobus;אִגֶּרֶת יַעֲקֹב;James;ιακωβου
+;1Petr;1. Petrus;אִגֶּרֶת פֶּטְרוֹס הָרִאשׁוֹנָה;1 Peter;πετρου α
+;2Petr;2. Petrus;אִגֶּרֶת פֶּטְרוֹס הַשְּׁנִיָּה;2 Peter;πετρου β
+;1Joh;1. Johannes;אִגֶּרֶת יוֹחָנָן הָרִאשׁוֹנָה;1 John;ιωαννου α
+;2Joh;2. Johannes;אִגֶּרֶת יוֹחָנָן הַשְּׁנִיָּה;2 John;ιωαννου β
+;3Joh;3. Johannes;אִגֶּרֶת יוֹחָנָן הַשְּׁלִישִׁית;3 John;ιωαννου γ
+;Jud;Judas;אִגֶּרֶת יְהוּדָה;Jude;ιουδα
+;Offb;Offenbarung;הִתְגַּלּוּת;Revelation;αποκαλυψις ιωαννου
